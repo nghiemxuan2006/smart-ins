@@ -1,4 +1,6 @@
-paddleocr
-paddleocr[all]
-paddlepaddle
-protonx
+# paddleocr
+# paddleocr[all]
+# paddlepaddle
+# protonx
+
+huggingface-hub
