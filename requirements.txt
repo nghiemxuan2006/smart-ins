@@ -7,3 +7,11 @@ huggingface-hub
 pdf2image
 langchain
 langchain-text-splitters
+langchain-huggingface
+langchain-qdrant
+langchain-openai
+qdrant-client
+sentence-transformers
+python-dotenv
+openai
+streamlit

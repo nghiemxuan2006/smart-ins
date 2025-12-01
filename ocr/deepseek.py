@@ -2,19 +2,18 @@ import requests
 import os
 import json
 from pathlib import Path
-from dotenv import load_dotenv
 from pdf2image import convert_from_path
 
-load_dotenv()
-url = os.environ.get("OCR_URL")
-if not url:
+from config import OCR_URL
+
+if not OCR_URL:
     raise ValueError("OCR_URL not found in environment variables.")
 
 def process_image(image_path: str) -> dict:
     """Process a single image through the API"""
     with open(image_path, "rb") as f:
         files = {"file": f}
-        response = requests.post(url, files=files)
+        response = requests.post(OCR_URL, files=files)
     return response.json()
 
 def process_pdf(pdf_path: str, output_dir: str) -> None:
