@@ -4,3 +4,6 @@
 # protonx
 
 huggingface-hub
+pdf2image
+langchain
+langchain-text-splitters

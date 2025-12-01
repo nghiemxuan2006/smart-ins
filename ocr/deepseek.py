@@ -9,11 +9,6 @@ load_dotenv()
 url = os.environ.get("OCR_URL")
 if not url:
     raise ValueError("OCR_URL not found in environment variables.")
-file_path = "data/epolicy_18_20.pdf"
-
-# Create output directory if it doesn't exist
-output_dir = "output/deepseek-ocr"
-Path(output_dir).mkdir(parents=True, exist_ok=True)
 
 def process_image(image_path: str) -> dict:
     """Process a single image through the API"""
@@ -58,13 +53,16 @@ def process_pdf(pdf_path: str, output_dir: str) -> None:
         
         print(f"Page {i} completed.")
     
+    file_output_dir = os.path.join(output_dir, base_name)
+    Path(file_output_dir).mkdir(parents=True, exist_ok=True)
+    
     # Save combined JSON
-    json_output_path = os.path.join(output_dir, f"{base_name}.json")
+    json_output_path = os.path.join(file_output_dir, f"{base_name}.json")
     with open(json_output_path, "w", encoding="utf-8") as f:
         json.dump(all_results, f, ensure_ascii=False, indent=2)
     
     # Save combined Markdown (only ocr_text)
-    md_output_path = os.path.join(output_dir, f"{base_name}.md")
+    md_output_path = os.path.join(file_output_dir, f"{base_name}.md")
     with open(md_output_path, "w", encoding="utf-8") as f:
         f.write("\n\n".join(all_ocr_text))
     
@@ -76,6 +74,8 @@ def process_pdf(pdf_path: str, output_dir: str) -> None:
     print(f"  JSON: {json_output_path}")
     print(f"  Markdown: {md_output_path}")
 
+    return md_output_path
+
 def process_image_file(image_path: str, output_dir: str) -> None:
     """Process a single image file"""
     print(f"Processing image: {image_path}")
@@ -84,14 +84,17 @@ def process_image_file(image_path: str, output_dir: str) -> None:
     
     # Get base filename without extension
     base_name = os.path.splitext(os.path.basename(image_path))[0]
+
+    file_output_dir = os.path.join(output_dir, base_name)
+    Path(file_output_dir).mkdir(parents=True, exist_ok=True)
     
     # Save as JSON
-    json_output_path = os.path.join(output_dir, f"{base_name}.json")
+    json_output_path = os.path.join(file_output_dir, f"{base_name}.json")
     with open(json_output_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     
     # Save as Markdown (only ocr_text)
-    md_output_path = os.path.join(output_dir, f"{base_name}.md")
+    md_output_path = os.path.join(file_output_dir, f"{base_name}.md")
     with open(md_output_path, "w", encoding="utf-8") as f:
         if "ocr_text" in result:
             f.write(result["ocr_text"])
@@ -103,11 +106,15 @@ def process_image_file(image_path: str, output_dir: str) -> None:
     print(f"  JSON: {json_output_path}")
     print(f"  Markdown: {md_output_path}")
 
-# Main execution
-if __name__ == "__main__":
+    return md_output_path
+
+def handle_file_deepseek_ocr(file_path: str, output_dir: str) -> None:
+    """Determine file type and process accordingly"""
     if not os.path.exists(file_path):
         print(f"File not found: {file_path}")
-    elif file_path.lower().endswith(".pdf"):
-        process_pdf(file_path, output_dir)
+        return None
+    
+    if file_path.lower().endswith(".pdf"):
+        return process_pdf(file_path, output_dir)
     else:
-        process_image_file(file_path, output_dir)
+        return process_image_file(file_path, output_dir)
