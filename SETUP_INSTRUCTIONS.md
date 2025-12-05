@@ -59,7 +59,7 @@ You can switch between OpenAI and HuggingFace embeddings by changing the `embedd
 # Use OpenAI embeddings (default)
 vector_store_manager = embed_chunks_to_qdrant(
     chunks=chunks,
-    collection_name="insurance_docs",
+    collection_name="pru",
     embedding_model="text-embedding-3-small",
     embedding_provider="openai",
     use_local=False
@@ -68,7 +68,7 @@ vector_store_manager = embed_chunks_to_qdrant(
 # Or use HuggingFace embeddings
 vector_store_manager = embed_chunks_to_qdrant(
     chunks=chunks,
-    collection_name="insurance_docs",
+    collection_name="pru",
     embedding_model="sentence-transformers/all-MiniLM-L6-v2",
     embedding_provider="huggingface",
     use_local=True

@@ -14,6 +14,7 @@ def process_image(image_path: str) -> dict:
     with open(image_path, "rb") as f:
         files = {"file": f}
         response = requests.post(OCR_URL, files=files)
+        print(f"API response: {response}")
     return response.json()
 
 def process_pdf(pdf_path: str, output_dir: str) -> None:

@@ -31,9 +31,9 @@ class HybridChunker:
     
     def __init__(
         self,
-        max_chunk_size: int = 1000,
+        max_chunk_size: int = 2000,
         min_chunk_size: int = 100,
-        overlap: int = 50,
+        overlap: int = 200,
         respect_headers: bool = True
     ):
         """
@@ -228,9 +228,9 @@ class HybridChunker:
 
 def chunk_markdown_file(
     file_path: str,
-    max_chunk_size: int = 1000,
+    max_chunk_size: int = 2000,
     min_chunk_size: int = 100,
-    overlap: int = 50
+    overlap: int = 200
 ) -> List[Chunk]:
     """
     Convenience function to chunk a markdown file using LangChain.

@@ -1,0 +1,3409 @@
+
+
+# HỢP ĐỒNG BẢO HIỂM DIỆN TỬ
+
+
+# Nội dung Hợp đồng bảo hiểm điện tử 
+
+Giấy chứng nhận bảo hiểm 
+
+Bảng minh họa sản phẩm* 
+
+Hồ sơ yêu cầu bảo hiểm Hồ sơ yêu cầu bảo hiểm chính* Hồ sơ yêu cầu bảo hiểm bổ sung* 
+
+Quy tắc và điều khoản Sản phẩm chính Sản phẩm bổ sung 
+
+Tài liệu khác Thư xác nhận chữ ký điện tử * 
+
+
+(*) Bản sao điện tử 
+
+
+Signature valid Ký Bởi: Công ty TNHH Bảo Hiểm Nhân Thọ Sun Life Việt Nam Ký Ngày: 21/05/2021
+
+
+# GIẤY CHỨNG NHẬN BẢO HIỂM 
+
+
+Công ty TNHH Bảo Hiểm Nhân Thọ Sun Life Việt Nam (“Sun Life Việt Nam”) chứng nhận: 
+
+
+Giấy chứng nhận bảo hiểm được phát hành ngày 19/12/2025. 
+
+
+Hợp đồng bảo hiểm số 8001881873 có hiệu lực ngày 19/12/2025. 
+
+
+Bên mua bảo hiểm 
+
+
+NGUYỄN THÁI BÌNH (Nam) 
+
+
+Ngày sinh
+01/01/1996 
+
+
+Số giấy tờ tùy thân
+AQ12587542 
+
+
+Người được bảo hiểm chính 
+
+
+NGUYỄN THÁI BÌNH (Nam) 
+
+
+Ngày sinh
+01/01/1996 
+
+
+Số giấy tờ tùy thân
+AQ12587542 
+
+
+## Người được bảo hiểm bổ sung 
+
+
+Họ và Tên
+NGUYỄN THÁI BÌNH 
+
+
+Ngày Sinh
+01/01/1996 
+
+
+Giới tính
+Nam 
+
+
+Số giấy tờ tùy thân
+AQ12587542 
+
+
+## Sản phẩm bảo hiểm chính 
+
+
+Sản phẩm bảo hiểm
+SUN - SỐNG CHỦ ĐỘNG -
+Quyền lợi Gia Tăng Tiết Kiệm 
+
+
+Số tiền bảo hiểm
+500.000.000 đồng 
+
+
+Thời hạn đóng phí
+Tối đa(1): 71 năm 
+
+
+Dòng sản phẩm
+Bảo Hiểm Tiết Kiệm 
+
+
+Thời hạn bảo hiểm
+71 năm (Đáo hạn: 19/12/2096) 
+
+
+Phí bảo hiểm cơ bản
+Định kỳ NĂM: 12.500.000 đồng 
+
+
+## Sản phẩm bảo hiểm bổ sung 
+
+
+<table><tr><td>Sản phẩm bảo hiểm</td><td>Người được bảo hiểm</td><td>Số tiền bảo hiểm (Đồng)</td><td>Phí bảo hiểm định kỳ (Đồng)</td><td>Thời hạn đóng phí (Năm)</td><td>Thời hạn bảo hiểm (Năm)</td></tr><tr><td>Bảo Hiểm Bổ Sung - Từ Kỳ</td><td>NGUYỄN THÁI BÌNH</td><td>100.000.000</td><td>469.000</td><td>15</td><td>15</td></tr><tr><td>Bảo Hiểm Bổ Sung - Sống An</td><td>NGUYỄN THÁI BÌNH</td><td>100.000.000</td><td>290.000</td><td>15</td><td>15</td></tr><tr><td>Bảo Hiểm Bổ Sung - Bảo Vệ Sức Khỏe Toàn Diện- Kế hoạch Cơ bản(*)</td><td>NGUYỄN THÁI BÌNH</td><td>100.000.000</td><td>2.000.000</td><td>15</td><td>15</td></tr></table>
+
+
+Tổng phí bảo hiểm định kỳ NĂM(2): 15.259.000 đồng
+
+
+Sun Life Việt Nam sẽ chi trả quyền lợi bảo hiểm theo Quy tắc và Điều khoản sản phẩm được đính kèm trong Hợp đồng bảo hiểm. 
+
+
+## LƯU Ý: 
+
+
+(1) Bên mua bảo hiểm có thể đóng phí linh hoạt từ Năm hợp đồng thứ 4. Tuy nhiên, việc giảm hoặc tạm ngưng đóng phí có thể dẫn đến hợp đồng mất hiệu lực do Giá trị tài khoản không đủ khấu trừ Phí bảo hiểm rủi ro và Phí quản lý hợp đồng hàng tháng. 
+
+
+(2) Phí bảo hiểm định kỳ bao gồm Phí bảo hiểm cơ bản của sản phẩm chính, Phí bảo hiểm tăng thêm sau thẩm định (nếu có), và Phí bảo hiểm của (các) sản phẩm bảo hiểm bổ sung (nếu có). 
+
+
+Phí bảo hiểm đã đóng bao gồm Phí bảo hiểm định kỳ và Phí bảo hiểm đóng thêm (nếu có) được ghi nhận tại các chứng từ nộp phí (biên lai thu phí, hóa đơn). 
+
+
+(*) Sản phẩm bổ sung này được tự động gia hạn hàng năm nếu không có bên nào thông báo về việc chấm dứt hiệu lực. 
+
+
+Quý khách vui lòng đọc kỹ Hợp đồng bảo hiểm để biết thêm chi tiết các quyền lợi và điều kiện bảo hiểm.
+
+
+Hợp đồng bảo hiểm số: 
+
+
+Mã số Bên mua bảo hiểm: 
+
+
+Họ tên Tư vấn Tài chính: 
+
+
+Mã số Người được bảo hiểm: 
+
+
+Mã số Tư vấn Tài chính: 
+
+
+A Thông tin chung 
+
+
+Nếu Người được bảo hiểm (NĐBH) của sản phẩm chính cũng là Bên mua bảo hiểm (BMBH) vui lòng đánh dấu ô kế bên và chỉ cần điền Mục I. ☐ 
+
+
+Nếu NĐBH/NĐBH-BS dưới 18 tuổi thì Cha/Mẹ hoặc Người giám hộ hợp pháp là người cung cấp thông tin. 
+
+
+Nếu BMBH là Công ty/Tổ chức, vui lòng đánh dấu ô kế bên, bỏ qua Mục I và điền mẫu Thông tin Công ty/Tổ chức ☐ 
+
+
+I. Bên mua bảo hiểm (BMBH) 
+
+
+II. Người được bảo hiểm/Người được bảo hiểm bổ sung (NĐBH/NĐBH-BS) 
+
+
+1. Họ và tên (chữ IN HOA): 
+
+
+2. Ngày sinh (ngày/tháng/năm): ......../......../........ 3. Tuổi: 
+
+
+4. Nơi sinh: 
+
+
+5. Quốc tịch 1: 
+
+
+6. Quốc tịch 2: 
+
+
+......../......../........ Tuổi: 
+
+
+Nơi sinh: Quốc tịch 1: Quốc tịch 2: 
+
+
+7. Giới tính: 
+
+
+☐ Nam ☐ Nữ 
+
+
+☐ Nam ☐ Nữ 
+
+
+8. Tình trạng hôn nhân: 
+
+
+☐ Độc thân ☐ Kết hôn 
+
+
+☐ Khác ............................ 
+
+
+☐ Độc thân ☐ Kết hôn 
+
+
+☐ Khác ............................ 
+
+
+9. Số giấy tờ tùy thân: 
+
+
+(ghi rõ loại giấy tờ) 
+
+
+Nơi cấp: 
+
+
+Ngày cấp: ......../......../........ 
+
+
+Nơi cấp: 
+
+
+Ngày cấp: ......../......../........ 
+
+
+10. Điện thoại nhà riêng: 
+
+
+11. Điện thoại di động: 
+
+
+12. Địa chỉ Email: 
+
+
+13. Nghề nghiệp/Chức danh: 
+
+
+14. Chi tiết công việc: 
+
+
+15. Tên cơ quan: 
+
+
+16. Thu nhập ước tính hàng năm (đồng): 
+
+
+17. Địa chỉ đăng ký thường trú/Nơi đăng ký cư trú ở nước ngoài: 
+
+
+Số nhà, Tên đường: 
+
+
+Phường/Xã, Quận/Huyện: 
+
+
+Tỉnh/Thành phố, Quốc gia: 
+
+
+(nếu khác BMBH) 
+
+
+18. Nơi ở hiện tại: Là địa chỉ đăng ký thường trú của BMBH ☐. Nếu khác, vui lòng điền thông tin: 
+
+
+Số nhà, Tên đường: 
+
+
+Phường/Xã, Quận/Huyện: 
+
+
+Tỉnh/Thành phố, Quốc gia: 
+
+
+19. Địa chỉ liên lạc: Là địa chỉ đăng ký thường trú ☐/ Nơi ở hiện tại ☐ của BMBH. Nếu khác, vui lòng điền thông tin: 
+
+
+Số nhà, Tên đường: 
+
+
+Phường/Xã, Quận/Huyện: 
+
+
+Tỉnh/Thành phố, Quốc gia:
+
+
+20. Mối quan hệ của BMBH với NĐBH/NĐBH-BS: 
+
+
+☐ Bản thân ☐ Con ruột ☐ Vợ/Chồng ☐ Cha/Mẹ ☐ Khác 
+
+
+21. **Khai báo FATCA:** Bên mua bảo hiểm có phải là công dân Hoa Kỳ hoặc thường trú nhân Hoa Kỳ (bao gồm cả người có thẻ xanh hoặc thẻ thường trú) không? 
+
+
+☐ Không ☐ Có, vui lòng cung cấp mã số thuế Hoa Kỳ (TIN) 
+
+
+## B Thông tin về Hợp đồng bảo hiểm 
+
+
+**Sản phẩm:** Tham khảo Bảng minh họa quyền lợi bảo hiểm đính kèm. 
+
+
+22. Sản phẩm bảo hiểm chính: 
+
+
+23. Sản phẩm bảo hiểm bổ sung 
+
+
+24. Định kỳ đóng phí: 
+
+
+☐ Năm ☐ Nửa năm 
+
+
+☐ Quý ☐ Đơn kỳ 
+
+
+25. Phương thức đóng phí: ☐ Tiền mặt ☐ Chuyển khoản ☐ Khác 
+
+
+26. Phí bảo hiểm định kỳ (đồng): 
+
+
+## C Thông tin Người thụ hưởng 
+
+
+Tổng tỷ lệ % của tất cả các Người thụ hưởng là 100%. Nếu không có tỷ lệ % được chỉ định, quyền lợi bảo hiểm sẽ được chỉ trả cho những Người thụ hưởng còn sống được chỉ định trên HSYCBH với tỷ lệ thụ hưởng bằng nhau. Vui lòng ghi chi tiết, không để trống hoặc ghi “theo quy định của pháp luật về thừa kế”. 
+
+
+27. Người thụ hưởng là cá nhân 
+
+
+<table><tr><td>Họ tên</td><td>Quốc tịch</td><td>Giới tính</td><td>Ngày sinh (ngày/tháng/năm)</td><td>Số giấy tờ tùy thân</td><td>Tỷ lệ thụ hưởng (%)</td><td>Mối quan hệ với NĐBH/NĐBH-BS</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+
+28. Người thụ hưởng là Tổ chức: 
+
+
+<table><tr><td>Tên Tổ chức</td><td>Địa chỉ trụ sở chính</td><td>Số Giấy phép thành lập/GCNĐKDN</td><td>Tỷ lệ thụ hưởng</td></tr></table>
+
+
+29. Thông tin Người thụ hưởng Quyền lợi khuyến học sản phẩm Nâng Bước Con yêu (nếu có tham gia sản phẩm này) 
+
+
+<table><tr><td>Họ tên</td><td>Ngày sinh (ngày/tháng/năm)</td><td>Tuổi</td><td>Mối quan hệ với NĐBH/BMBH</td></tr></table>
+
+
+## D Thông tin về (các) Hợp đồng bảo hiểm hiện có 
+
+
+30. Quý khách có các Hợp đồng bảo hiểm đang còn hiệu lực hoặc đang chờ ký kết với Sun Life Việt Nam hoặc với các công ty bảo hiểm khác không? BMBH ☐ Có ☐ Không NĐBH/NĐBH-BS ☐ Có ☐ Không Nếu Có, vui lòng cung cấp thông tin chi tiết: 
+
+
+<table><tr><td>Công ty bảo hiểm</td><td>Tên sản phẩm bảo hiểm</td><td>Tổng số tiền bảo hiểm</td><td>Năm phát hành Hợp đồng hoặc ngày nộp HSYCBH nếu Hợp đồng chưa phát hành</td><td>Tình trạng Hợp đồng (cấp phí chuẩn, có điều khoản đặc biệt, tăng phí...)</td></tr><tr><td>BMBH</td><td></td><td></td><td></td><td></td></tr></table>
+
+
+31. Kê khai về Dự định thay thế (các) Hợp đồng bảo hiểm hiện có: 
+
+
+Để lập HSYCBH này, Bên mua bảo hiểm đã hoặc sẽ phải hủy, chấm dứt, vay tiền, giảm số tiền bảo hiểm từ bất kỳ Hợp đồng bảo hiểm của Sun Life Việt Nam hay bất kỳ công ty bảo hiểm nào không? ☐ Có ☐ Không 
+
+
+(Yêu cầu không tẩy xóa khi điền hồ sơ)
+
+
+Nếu Có, vui lòng cung cấp thông tin chi tiết: 
+
+
+Công ty bảo hiểm 
+
+
+Số Hợp đồng bảo hiểm 
+
+
+Số tiền bảo hiểm của Hợp đồng bảo hiểm bị hủy bỏ 
+
+
+Quý khách lưu ý, việc hủy bỏ (các) Hợp đồng bảo hiểm hiện có để mua Hợp đồng bảo hiểm mới thường có những bất lợi sau: những thay đổi về Điều khoản bảo hiểm, các khoản phí bảo hiểm có thể cao hơn, có thể mất các quyền, lợi ích tài chính đã được tích lũy qua các năm của (các) Hợp đồng bảo hiểm. 
+
+
+## E Thông tin về Bên thứ ba, Chủ sở hữu hưởng lợi hoặc Việc tham gia thỏa thuận pháp lý 
+
+
+32. Có Bên thứ ba, Chủ sở hữu hưởng lợi hoặc Tham gia thỏa thuận pháp lý như quy định dưới đây không?
+a) Bên thứ ba (ngoài Bên mua bảo hiểm, Người được bảo hiểm, Người được bảo hiểm bổ sung, Người thụ hưởng) là cá nhân hoặc tổ chức tham gia vào hoặc có thể đưa ra quyết định hoặc nhận quyền lợi từ hợp đồng bảo hiểm. 
+
+
+b) Chủ sở hữu hưởng lợi (ngoài Bên mua bảo hiểm, Người được bảo hiểm, Người được bảo hiểm bổ sung, Người thụ hưởng) là: 
+
+
+- Cá nhân sở hữu thực tế đối với hợp đồng bảo hiểm hoặc bất kỳ người nào chi phối hoạt động của hợp đồng bảo hiểm hoặc thụ hưởng từ hợp đồng; hoặc 
+
+
+- Cá nhân nắm giữ trực tiếp hoặc gián tiếp từ 25% trở lên vốn điều lệ của Công ty/Tổ chức, chủ doanh nghiệp tư nhân, cá nhân khác thực tế chi phối, kiểm soát Công ty/Tổ chức; hoặc 
+
+
+- Cá nhân có quyền chi phối một ủy thác đầu tư, thỏa thuận ủy quyền. 
+
+
+c) Tham gia thỏa thuận pháp lý với một cá nhân hoặc tổ chức trong và ngoài nước về ủy thác, ủy quyền đối với việc quản lý và sử dụng tiền, tài sản liên quan đến hợp đồng bảo hiểm. 
+
+
+☐ Không ☐ Có Nếu Có, đề nghị Bên mua bảo hiểm cung cấp chi tiết theo mẫu Thông tin về Bên thứ ba, Chủ sở hữu hưởng lợi hoặc Việc tham gia thỏa thuận pháp lý. 
+
+
+## F Thông tin thẩm định 
+
+
+Phần này phải được Người được bảo hiểm/Người được bảo hiểm bổ sung hoặc Cha/Mẹ hoặc Người giám hộ hợp pháp (nếu Người được bảo hiểm/Người được bảo hiểm bổ sung dưới 18 tuổi) trả lời. Bên mua bảo hiểm trả lời các câu hỏi thẩm định nếu Bên mua bảo hiểm đồng thời là Người được bảo hiểm/Người được bảo hiểm bổ sung. 
+
+
+Vui lòng trả lời các câu hỏi sau. Nếu chọn “Có”, vui lòng ghi số câu hỏi và chi tiết vào phần “Thông tin chi tiết” bên dưới. 
+
+
+1. Trong 12 tháng vừa qua Quý khách có đi du lịch hoặc sinh sống ngoài nước Việt Nam trên 6 tháng; hoặc trong 12 tháng tới Quý khách có dự định đi nước ngoài không? Nếu Có, vui lòng trả lời chi tiết: 
+
+
+NĐBH/ NĐBH-Có Không Có Không 
+
+
+Thành phố/ Quốc gia 
+
+
+Thời gian và mục đích cư trú 
+
+
+Ngày đi gần nhất (tháng/năm) 
+
+
+Ngày dự định đi (tháng/năm) 
+
+
+BMBH 
+
+
+NĐBH/NĐBH-BS 
+
+
+2. Trong 2 năm qua, Quý khách có tham gia trên chuyến bay như một phi công, phi hành đoàn, tiếp viên hàng không hoặc có ý định tham gia trong 2 năm tới không? 
+
+
+3. Trong 2 năm qua, Quý khách có tham gia vào bất kỳ hoạt động nào nguy hiểm như đua xe có động cơ, hoạt động lặn biển, trên không, dưới nước hoặc leo núi, hoặc có ý định tham gia trong tương lai không? 
+
+
+4. Trong 10 năm qua, Quý khách có bị buộc tội hoặc bị kết án đối với bất kỳ hành vi phạm tội hình sự nào không? 
+
+
+5. Quý khách có hút hoặc sử dụng thuốc lá, xì gà, tẩu thuốc, thuốc lá nhai, miếng dán hoặc kẹo cao su nicotine hoặc thuốc lá dưới bất kỳ hình thức nào khác không? 
+
+
+Nếu Có, vui lòng trả lời chi tiết: 
+
+
+Loại 
+
+
+Số lượng 
+
+
+Tần suất sử dụng 
+
+
+Ngày sử dụng gần nhất 
+
+
+BMBH 
+
+
+NĐBH/NĐBH-BS 
+
+
+Nếu Quý khách đã ngừng hút thuốc, vui lòng nêu rõ thời điểm và lý do ngừng hút thuốc (ví dụ: theo lời khuyên của Bác sỹ, v.v): 
+
+
+(Yêu cầu không tẩy xóa khi điền hồ sơ)
+
+
+6. Quý khách có uống rượu bia không? Nếu Có, vui lòng trả lời chi tiết: 
+
+
+ 
+
+
+7. Trong 10 năm qua, Quý khách có sử dụng cần sa, thuốc kích thích, cocaine, LSD (chất gây ảo giác) hoặc chất gây nghiện có tác động thần kinh, heroin hoặc các chất ma túy khác, chất kích thích hoặc bất kỳ chất gây nghiện bị cấm nào khác không? Nếu Có, vui lòng trả lời chi tiết: ............................................................ 
+
+
+8. Quý khách có bao giờ được điều trị, được tư vấn hạn chế sử dụng, hoặc nhận bất kỳ hướng dẫn y khoa nào cho việc sử dụng ma túy, sử dụng rượu hay không? 
+
+
+9. a) Chiều cao và Cân nặng 
+
+
+**BMBH** 
+
+
+Chiều cao: ........................ cm 
+
+
+Cân nặng: ........................ kg 
+
+
+**NĐBH/NĐBH-BS** 
+
+
+Chiều cao: ........................ cm 
+
+
+Cân nặng: ........................ kg 
+
+
+b) Trong 12 tháng vừa qua, Quý khách có giảm cân hơn 4,5kg mà không rõ nguyên nhân không? Nếu Có, vui lòng trả lời chi tiết: 
+
+
+ 
+
+
+10. Quý khách có ai trong cha mẹ ruột hoặc anh chị em ruột còn sống hay đã chết, mắc bệnh hoặc được điều trị các bệnh sau trước 60 tuổi: tiểu đường, ung thư, bệnh tim (gồm âm thổi tim), cao huyết áp, tai biến mạch máu não, đột quỵ, thận đa nang hoặc các rối loạn hay bệnh lý thận khác, bệnh Huntington, đa xơ cứng, bệnh teo cơ, bệnh Alzheimer, chứng xơ cứng teo cơ một bên (ALS hay LouGehrig) hoặc bất kỳ bệnh hay rối loạn thần kinh vận động, bệnh viêm võng mạc sắc tố, di truyền hoặc rối loạn di truyền khác? 
+
+
+ 
+
+
+Quý khách có bao giờ mắc phải, được chẩn đoán hoặc điều trị bệnh hoặc tình trạng nào dưới đây không: 
+
+
+11. Cao huyết áp, thiếu máu cơ tim, nhồi máu cơ tim, bệnh mạch vành, suy tim, âm thổi tim, bệnh van tim, cơn đau thắt ngực, bất thường nhịp tim, hoặc bất kỳ triệu chứng hoặc bệnh khác thuộc hệ tim mạch? 
+
+
+12. Bệnh lao, xơ nang, hen suyễn, khó thở, ho mãn tính, ho hoặc khạc ra máu, khàn giọng, ngưng thở khi ngủ, hoặc bất kỳ triệu chứng hoặc bệnh khác của hệ hô hấp (không bao gồm các bệnh nhiễm trùng đường hô hấp trên đã hoàn toàn bình phục)? 
+
+
+ 
+
+
+ 
+
+
+
+
+13. Viêm loét đại tràng, bệnh Crohn, xuất huyết trực tràng hoặc đường ruột, tiêu chảy kéo dài, bệnh dạ dày, ruột hoặc tụy, viêm gan, vàng da, các bệnh khác về gan hoặc bất kỳ triệu chứng hoặc bệnh khác thuộc hệ tiêu hóa? 
+
+
+14. Tai biến mạch máu não, đột quỵ, cơn thiếu máu não thoáng qua, phình mạch, động kinh, co giật, run, nhức đầu nặng, ngất xỉu, rối loạn thị giác, rối loạn thính giác, tê bì, giảm hoặc mất cảm giác, mất ý thức, hoặc bất kỳ triệu chứng hoặc bệnh khác của hệ thần kinh? 
+
+
+15. Lo âu mãn tính, trầm cảm, căng thẳng hoặc mệt mỏi, bứt rứt, suy giảm thần kinh hoặc bất kỳ triệu chứng hoặc rối loạn liên quan đến tâm lý, tâm thần và cảm xúc? 
+
+
+16. Có Albumin, đạm, đường, máu hoặc mủ trong nước tiểu, sỏi thận, nhiễm trùng đường tiết niệu, hoặc bất kỳ triệu chứng, các bệnh nào khác ở thận, bàng quang, niệu đạo, tuyến tiền liệt hoặc cơ quan sinh dục? 
+
+
+17. Bệnh tiểu đường, lượng đường trong máu cao, bướu cổ, rối loạn tuyến giáp, hoặc bất kỳ triệu chứng hoặc bệnh khác của hệ nội tiết? 
+
+
+18. Băng huyết hoặc rối loạn chảy máu khác, thiếu máu, suy tủy, rối loạn đông máu, phì đại các tuyến hoặc hạch bạch huyết, hoặc bất kỳ triệu chứng hoặc bệnh khác về máu hoặc hệ bạch huyết? 
+
+
+19. Viêm khớp, rối loạn hoặc bệnh của cơ, khớp, tay chân, lưng, xương, hoặc liệt? 20. Ung thư, khối u, u nang, ung thư máu, ung thư hạch, khối phát triển bất thường hoặc bệnh ác tính khác? 
+
+
+21. Bệnh về da, thương tổn da, nhiễm trùng mãn tính, nốt ruồi bất thường hoặc nốt sắc tố bất thường (không bao gồm các tổn thương do chất độc, viêm da tiếp xúc, trứng cá, trứng cá đỏ, tổn thương do nắng hay chàm eczema)? 
+
+
+22. Chảy mủ tai (không bao gồm nhiễm trùng đã điều trị khỏi), ủ tai, mất thính lực, mất thị lực (không bao gồm trường hợp thị lực cải thiện khi mang kính hoặc kính áp tròng), bị mủ, mất nhân tạo hoặc các triệu chứng hoặc bệnh về tai mũi họng? 
+
+
+23. Đau hoặc sốt kéo dài hơn 2 tuần không rõ nguyên nhân (không bao gồm các triệu chứng cúm hoặc cảm lạnh)? 
+
+
+24. Quý khách có bao giờ được thực hiện và có kết quả bất thường với bất kỳ xét nghiệm nào như chụp X-quang, điện tâm đồ, chụp cắt lớp, chụp MRI, siêu âm, sinh thiết hoặc bất kỳ xét nghiệm nào khác bao gồm thử máu và nước tiểu? 
+
+
+25. Quý khách hoặc Người hôn phối của Quý khách có bao giờ được chẩn đoán, điều trị HIV/AIDS hoặc các bệnh lây truyền qua đường tình dục (lậu, giang mai, hoa liễu…) không? 
+
+
+26. Quý khách có triệu chứng hoặc dấu hiệu bất thường nào về sức khỏe chưa được Bác sỹ tư vấn không? 
+
+
+27. Quý khách có bất kỳ tình trạng sức khỏe nào chưa được đề cập trên đây mà Quý khách đã hoặc đang được điều tra, theo dõi hoặc điều trị, hoặc có bất kỳ tình trạng sức khỏe nào khác đang chờ kiểm tra hoặc chờ kết quả kiểm tra? 
+
+
+28. Trong 5 năm qua, ngoài những thông tin đã khai trên đây, Quý khách có bao giờ được Bác sỹ tư vấn hoặc là bệnh nhân tại bất kỳ phòng khám, bệnh viện hoặc cơ sở y tế nào không? 
+
+
+29. Có đang dùng bất cứ loại thuốc được Bác sỹ kê toa hoặc không kê toa cho các bệnh nào ngoài các bệnh nêu trên không? 
+
+
+30. Trong 5 năm qua, có bệnh tật hoặc chấn thương nào khiến Quý khách không thực hiện được các hoạt động thông thường hàng ngày trong công việc của Quý khách trong thời gian hơn 2 tuần không? 
+
+
+Các câu hỏi bổ sung dành cho phụ nữ (từ 16 tuổi trở lên) 
+
+
+31. Quý khách có đang mang thai không? Nếu Có, vui lòng cho biết ngày dự sinh (ngày/tháng/năm) ................/................/................ 
+
+
+32. Quý khách có bị cắt tử cung, rối loạn thời kỳ mang thai, rối loạn buồng trứng hoặc tử cung, bất thường xét nghiệm Phết tế bào cổ tử cung (Pap smear) hoặc nhũ ảnh, có khối bất thường tuyến vú không? 
+
+
+(Yêu cầu không tẩy xóa khi điền hồ sơ)
+
+
+Các câu hỏi bổ sung dành cho Người được bảo hiểm/Người được bảo hiểm bổ sung dưới 18 tuổi 
+
+
+33. NĐBH/NĐBH-BS có bất kỳ khuyết tật hoặc dấu hiệu chậm phát triển về thể 
+
+
+chất hoặc tâm thần nào không? 
+
+
+Đã học xong lớp mấy? 
+
+
+Số anh chị em ruột hiện có? 
+
+
+Nếu NĐBH/NĐBH-BS từ 5 tuổi trở xuống, vui lòng cho biết cân nặng lúc sinh?
+Có sinh sớm hơn trước 4 tuần so với ngày dự sinh, hoặc có bất kỳ chăm sóc đặc biệt nào sau khi sinh hoặc không tăng cân không? 
+
+
+34. Tổng số tiền bảo hiểm nhân thọ của cha/mẹ và anh/chị/em đang có hiệu lực hoặc đang chờ ký kết. 
+
+
+ 
+
+
+G Cam kết 
+
+
+Tôi/Chúng tôi (Bên mua Bảo hiểm/Người được Bảo hiểm/Người được bảo hiểm bổ sung) đồng ý và cam kết rằng:
+1. Tôi/Chúng tôi đã cung cấp, kê khai đầy đủ và trung thực các nội dung trong HSYCBH này và các biểu mẫu khác theo sự hiểu biết của Tôi/Chúng tôi một cách độc lập và trước sự chứng kiến của Tư vấn Tài chính của Sun Life Việt Nam.Tôi/Chúng tôi hiểu và xác nhận rằng, những thông tin này là căn cứ để Sun Life Việt Nam thẩm định, xem xét việc chấp nhận bảo hiểm; hoặc không chấp nhận bảo hiểm; hoặc chấp nhận bảo hiểm có điều kiện. Việc Sun Life Việt Nam chấp nhận phát hành Hợp đồng bảo hiểm căn cứ trên HSYCBH này đồng nghĩa với sự đồng ý của Tôi/Chúng tôi về các Điều khoản và Điều kiện của Hợp đồng bảo hiểm. 
+
+
+2. Tôi/Chúng tôi đồng ý để các Bác sỹ, cơ sở y tế và các tổ chức, cá nhân khác cung cấp cho Sun Life Việt Nam và/hoặc bên thứ ba theo sự đồng ý hoặc ủy quyền của Sun Life Việt Nam tất cả các thông tin về việc khám, điều trị bệnh, thương tật, tai nạn, HIV/AIDS và các thông tin khác liên quan đến NĐBH/NĐBH-BS và/hoặc BMBH. Bản sao các y chứng (bệnh án, xét nghiệm và các giấy tờ liên quan đến sức khỏe khác) từ các nơi nói trên cung cấp có giá trị tương đương như bản chính. 
+
+
+3. Tôi/Chúng tôi đồng ý cho Sun Life Việt Nam: 
+
+
+(Yêu cầu không tẩy xóa khi điền hồ sơ)
+
+
+(i) được quyền chuyển giao thông tin cá nhân do Tôi/Chúng tôi cung cấp tại HSYCBH, Hợp đồng bảo hiểm và các giấy tờ khác cho bất kỳ bên thứ ba trong các trường hợp thu thập, sử dụng, chuyển giao theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc cho mục đích thẩm định, tính toán phí bảo hiểm, phát hành Hợp đồng bảo hiểm, thu phí bảo hiểm, tái bảo hiểm, trích lập dự phòng nghiệp vụ, giải quyết chi trả quyền lợi bảo hiểm, nghiên cứu thiết kế sản phẩm, phòng chống trục lợi bảo hiểm, nghiên cứu, đánh giá tình hình tài chính, khả năng thanh toán, mức độ đầy đủ vốn, yêu cầu vốn. 
+
+
+(ii) được quyền tự mình hoặc thông qua bên thứ ba sử dụng, cung cấp các thông tin của Tôi/Chúng tôi tại HSYCBH, Hợp đồng bảo hiểm và các giấy tờ khác để thực hiện các hoạt động nhằm mục đích hợp pháp ngoài mục đích nêu tại mục (i) ở trên. Tôi/Chúng tôi đồng ý nhận thông tin về các chương trình khuyến mại và/hoặc chương trình hậu mãi của Sun Life Việt Nam qua tin nhắn/email gửi đến số điện thoại di động/địa chỉ email cung cấp trên đây. Nếu không đồng ý với nội dung tại mục (ii) này, xin vui lòng đánh dấu vào ô kế bên ☐ 
+
+
+4. Bằng việc cung cấp địa chỉ/số điện thoại/địa chỉ email trên HSYCBH này, Tôi/Chúng tôi đồng ý ghi nhận các thông tin này là thông tin được cập nhật mới nhất cho (các) Hợp đồng bảo hiểm hiện có với Sun Life Việt Nam. 
+
+
+5. Tôi/Chúng tôi hiểu rằng mọi trao đổi gửi đến hoặc gửi từ số điện thoại và/hoặc Email mà Tôi/Chúng tôi đã cung cấp/cập nhật cho Sun Life Việt Nam mặc nhiên được hiểu là được gửi đến cho Tôi/Chúng tôi hoặc gửi từ Tôi/Chúng tôi. Tôi/Chúng tôi sẽ luôn duy trì số điện thoại, Email trong tình trạng nhận được thông tin và sẽ thông báo cho Sun Life Việt Nam nếu có bất kỳ thay đổi nào. Tôi/Chúng tôi đồng ý rằng Sun Life Việt Nam sẽ không chịu bất kỳ trách nhiệm nào trong trường hợp số điện thoại di động và/hoặc Email của Tôi/Chúng tôi không thể nhận được thông tin vì bất cứ lý do gì. 
+
+
+6. Tôi (Bên mua bảo hiểm) đồng ý giao dịch điện tử với Sun Life Việt Nam, theo đó Tôi (Bên mua bảo hiểm) đồng ý sử dụng thư điện tử (email), số điện thoại mà Tôi đã cung cấp cho Sun Life Việt Nam để nhận bộ Hợp đồng bảo hiểm và các thông báo/tài liệu liên quan đến Hợp đồng bảo hiểm. Nếu không đồng ý với nội dung tại mục 6 này, xin vui lòng đánh dấu vào ô kế bên ☐ 
+
+
+Yêu cầu nhận thêm bộ Hợp đồng bảo hiểm giấy ☐ 
+
+
+7. Khi được Sun Life Việt Nam cung cấp thông tin tên đăng nhập và mật khẩu để truy cập vào ứng dụng quản lý hợp đồng bảo hiểm và phục vụ khách hàng (“Ứng dụng khách hàng”), Tôi (Bên mua bảo hiểm) cam kết: (i) sẽ bảo mật thông tin tên đăng nhập và mật khẩu này và sẽ sử dụng mọi biện pháp cần thiết để tránh và ngăn chặn việc giao dịch dưới tên đăng nhập của Tôi (Bên mua bảo hiểm) với Sun Life Việt Nam bởi những người không có thẩm quyền. 
+
+
+(ii) mọi giao dịch điện tử được thực hiện dưới tên đăng nhập của Tôi (Bên mua bảo hiểm) đều được hiểu rằng do chính Tôi (Bên mua bảo hiểm) thực hiện giao dịch đó. 
+
+
+(iii) Tôi (Bên mua bảo hiểm) sẽ thường xuyên đăng nhập vào Ứng dụng khách hàng của Sun Life Việt Nam để cập nhật/nhận các thông báo mà Sun Life Việt Nam gửi cho Tôi/Chúng tôi. 
+
+
+(iv) sẽ thông báo ngay cho Sun Life Việt Nam ngay khi phát hiện tên đăng nhập và/hoặc mật khẩu không còn thuộc sự kiểm soát của Tôi/Chúng tôi. 
+
+
+8. Tôi (Bên mua bảo hiểm) đồng ý thêm rằng Sun Life Việt Nam có quyền gửi cho Tôi bộ Hợp đồng bảo hiểm và các thông báo/tài liệu liên quan đến Hợp đồng bảo hiểm (i) qua email (thư điện tử) mà Tôi đã cung cấp/cập nhật cho Sun Life Việt Nam, hoặc (ii) qua Ứng dụng khách hàng của Sun Life Việt Nam. 
+
+
+9. Thời gian 21 ngày để cân nhắc và quyết định tiếp tục tham gia bảo hiểm hay không sẽ được tính từ ngày Tôi (Bên mua bảo hiểm) xác nhận nhận bộ Hợp đồng bảo hiểm trên Ứng dụng khách hàng (nếu có), hoặc kể từ thời điểm Tôi ký tên trên Biên nhận Bàn Giao Hợp đồng bảo hiểm, tùy thuộc vào thời điểm nào sớm hơn. 
+
+
+10. Bảng minh họa quyền lợi bảo hiểm, quyền lợi đầu tư và các rủi ro đầu tư (nếu có) đã thể hiện đúng nhu cầu được bảo hiểm của Tôi (Bên mua bảo hiểm). 
+
+
+11. Tôi (Bên mua bảo hiểm) đã nhận được, đã đọc và đồng ý với Giấy Chứng nhận Bảo hiểm Tạm thời có dãy số (AF) trùng với dãy số (AF) của HSYCBH này. Tôi/Chúng tôi đồng ý và xác nhận rằng ngoại trừ các quy định tại Giấy Chứng nhận Bảo hiểm Tạm thời, Sun Life Việt Nam sẽ không chịu bất kỳ nghĩa vụ theo nội dung HSYCBH này, cho đến khi Sun Life Việt Nam đồng ý phát hành Hợp đồng bảo hiểm. 
+
+
+12. Tùy từng trường hợp, Tôi/Chúng tôi đồng ý với Hợp đồng bảo hiểm giấy có chữ ký của người đại diện theo pháp luật xuất tự động từ hệ thống công nghệ thông tin và không đóng dấu của Sun Life Việt Nam hoặc Hợp đồng bảo hiểm điện tử do Sun Life Việt Nam phát hành. 
+
+
+13. Tôi/Chúng tôi không tham gia vào bất kỳ giao dịch nhằm mục đích rửa tiền tài trợ khủng bố hoặc bất kỳ hành vi vi phạm pháp luật nào khác trong suốt quá trình tham gia bảo hiểm.
+
+
+Tôi/Chúng tôi ký tên dưới đây cam kết rằng Tôi/Chúng tôi đã đọc, hiểu và đồng ý với tất cả các câu hỏi và khai báo đầy đủ và trung thực trong HSYCBH này. Bản sao của HSYCBH này có giá trị như bản gốc. 
+
+
+Ngày ....................tháng ....................năm .................... 
+
+
+Chữ ký Bên mua bảo hiểm 
+
+
+Họ và tên: ............................................................ 
+
+
+Chữ ký Người được bảo hiểm/ Người được bảo hiểm bổ sung 
+
+
+Họ và tên: ............................................................ 
+
+
+Chữ ký Tư vấn Tài chính 
+
+
+Mã số TVTC: ............................................................ Họ và tên: ............................................................ 
+
+
+Nơi ký: ............................................................ 
+
+
+Ghi chú dành cho BMBH và NĐBH/NĐBH-BS:
+Nếu NĐBH/NĐBH-BS dưới 18 tuổi thì Cha/Mẹ hoặc Người giám hộ hợp pháp sẽ ký thay.
+Nếu BMBH là Công ty/Tổ chức, Người đại diện giao kết Hợp đồng bảo hiểm ký tên, đóng dấu, ghi rõ chức danh và họ tên. 
+
+
+Cam kết của Tư vấn Tài chính (TVTC): 
+
+
+Tôi cam kết rằng Tôi đã tư vấn cho BMBH/NĐBH/ NĐBH-BS đúng theo Quy tắc và Điều khoản Hợp đồng bảo hiểm của Sun Life Việt Nam. Những thông tin trên là đầy đủ, chính xác và duy nhất theo sự hiểu biết của Tôi. Tôi không hề che giấu hoặc hướng dẫn cho BMBH/NĐBH/NĐBH-BS tạo dựng nên bất cứ thông tin nào gây ảnh hưởng đến quyết định chấp nhận bảo hiểm của Sun Life Việt Nam. 
+
+
+Tôi cam kết đã gặp trực tiếp BMBH/NĐBH/ NĐBH-BS để đối chiếu bản sao các giấy tờ nhân thân/tư cách pháp nhân đã nộp với bản chính; chứng kiến BMBH/NĐBH/NĐBH-BS đã điền và ký trong HSYCBH một cách tự nguyện trong tình trạng minh mẫn, không bị đe dọa hoặc ép buộc. 
+
+
+Tư vấn Tài chính hay còn được gọi Chuyên Viên Tư Vấn Bảo Hiểm hoặc Đại Lý Bảo Hiểm hoặc một tên gọi khác do Sun Life Việt Nam quyết định vào từng thời điểm. 
+
+
+
+
+# BẢNG MINH HỌA QUYỀN LỢI BẢO HIỂM SUN - SỐNG CHỦ ĐỘNG - QUYỀN LỢI GIA TĂNG TIẾT KIỆM Giải pháp tài chính an toàn, hiệu quả cho mọi mục tiêu trong hành trình cuộc sống 
+
+
+Bên mua bảo hiểm: NGUYỄN THÁI BÌNH 
+
+
+Địa chỉ liên hệ: 
+
+• Chi trả từ 650.000.000 đồng nếu Người được bảo hiểm từ vong/Thương tật toàn bộ vĩnh viễn 
+
+
+• Đảm bảo gia tăng bảo vệ lên 975.000.000 đồng mà không cần thẩm định khi xảy ra một trong các sự kiện làm gia tăng trách nhiệm tài chính trước tuổi 56 
+
+
+BẢO VỆ TÀI CHÍNH TRỌN ĐỜI 
+
+
+• Tạm ứng không tính lãi trong 12 tháng khi không may bị chẩn đoán Ung thư giai đoạn cuối 
+
+• Hưởng lãi suất đảm bảo trong suốt Thời hạn bảo hiểm 
+
+
+• Cơ hội hưởng lợi nhuận tăng thêm từ kết quả đầu tư chuyên nghiệp • Nhận các khoản thưởng hấp dẫn trong Thời hạn bảo hiểm 
+
+
+TÍCH LŨY AN TOÀN, HIỆU QUẢ 
+
+• Tận hưởng hưu trí an nhàn với dịch vụ rút tiền định kỳ tự động và hoàn toàn miễn phí • Linh động rút tiền theo nhu cầu phát sinh và miễn phí rút cho lần đầu trong mỗi Năm hợp đồng • Linh hoạt đóng phí và đầu tư thêm theo khả năng tài chính thực tế • Dễ dàng thay đổi hạn mức bảo vệ theo nhu cầu 
+
+
+Người lập: NGUYEN VAN A 
+
+
+Mã số: 
+
+
+Ngày lập: 08/04/2021 
+
+
+Chi nhánh/Văn phòng: 
+
+
+Điện thoại: 
+
+
+Địa chỉ Email:
+
+
+Bên mua bảo hiểm: NGUYỄN THÁI BÌNH 
+
+
+Tuổi: 50 
+
+
+Giới tính: NAM 
+
+
+Đơn vị tính: Đồng 
+
+
+<table><tr><td>Người được bảo hiểm (NĐBH)</td><td>Ngày sinh</td><td>Tuổi - Giới tính</td><td>Nhóm nghề nghiệp</td><td>Sản phẩm bảo hiểm</td><td>Số tiền bảo hiểm</td><td>Thời hạn bảo hiểm (Năm)(*)</td><td>Phí bảo hiểm năm</td></tr><tr><td>NGUYỄN THÁI BÌNH</td><td>01/01/1971</td><td>50 - NAM</td><td>2</td><td>SUN - Sống Chủ Động - Quyền Lợi Gia Tăng Tiết Kiệm</td><td>650.000.000</td><td>50</td><td>20.150.000</td></tr><tr><td colspan="8">Quý</td></tr><tr><td>Phí bảo hiểm cơ bản (1)</td><td></td><td></td><td>5.037.500</td><td></td><td>10.075.000</td><td></td><td>20.150.000</td></tr><tr><td>Phí bảo hiểm của (các) sản phẩm bổ sung (2)</td><td></td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td></tr><tr><td>Phí bảo hiểm định kỳ (3) = (1) + (2)</td><td></td><td></td><td>5.037.500</td><td></td><td>10.075.000</td><td></td><td>20.150.000</td></tr><tr><td>Phí bảo hiểm đóng thêm dự kiến (4)</td><td></td><td></td><td>0</td><td></td><td>0</td><td></td><td>0</td></tr><tr><td>Phí bảo hiểm định kỳ dự kiến = (3) + (4)</td><td></td><td></td><td>5.038.000</td><td></td><td>10.075.000</td><td></td><td>20.150.000</td></tr></table>
+
+
+Ghi chú: 
+
+
+(*) Thời hạn đóng phí bằng Thời hạn bảo hiểm. Tuy nhiên, Bên mua bảo hiểm có thể đóng phí linh hoạt từ Năm hợp đồng thứ 4, tùy thuộc vào nhu cầu tiết kiệm và bảo vệ của mình. Việc giảm/tạm ngưng đóng phí hoặc rút từ Giá trị tài khoản có thể dẫn đến hợp đồng mất hiệu lực do Giá trị tài khoản không đủ khấu trừ Phí bảo hiểm rủi ro và Phí quản lý hợp đồng hàng tháng.
+
+
+<table><tr><td>Sản phẩm bảo hiểm</td><td>Sự kiện bảo hiểm</td><td>Giá trị chi trả (đồng)</td><td>Ghi chú</td></tr><tr><td colspan="4">Người được bảo hiểm: NGUYỄN THÁI BÌNH</td></tr><tr><td rowspan="3">SUN - Sống Chủ Động</td><td>Tử vong</td><td>Giá trị lớn hơn giữa 650.000.000 và Giá trị tài khoản.</td><td></td></tr><tr><td>Thương tật toàn bộ vĩnh viễn (TTTBVV)</td><td>Giá trị lớn hơn giữa 650.000.000 và Giá trị tài khoản.</td><td>Nếu Người được bảo hiểm bị Thương tật toàn bộ vĩnh viễn trong thời gian hợp đồng bảo hiểm có hiệu lực và trước Ngày ký niệm hợp đồng ngay sau ngày sinh nhật lần thứ 66 của Người được bảo hiểm.</td></tr><tr><td>Ung thư giai đoạn cuối</td><td>Tạm ứng không tính lãi lên đến 50% Giá trị tài khoản nhưng không vượt quá 500.000.000.</td><td>- Giá trị tài khoản bao gồm phần tạm ứng vẫn sẽ được tích lũy lãi trong 12 tháng kể từ ngày tạm ứng.<br/>- Không khấu trừ Phí bảo hiểm rủi ro trong 12 tháng kể từ Ngày ký niệm hàng tháng ngay sau ngày tạm ứng.<br/>- Khoản tạm ứng sẽ được khấu trừ từ Giá trị tài khoản nếu Người được bảo hiểm còn sống sau 12 tháng, hoặc Quyền lợi từ vong/Thương tật toàn bộ vĩnh viễn nếu Người được bảo hiểm từ vong/bị Thương tật toàn bộ vĩnh viễn trong 12 tháng kể từ ngày nhận tạm ứng.</td></tr></table>
+
+
+MINH HỌA QUYỀN LỢI SẢN PHẨM CHÍNH 
+
+
+Đơn vị tính: nghìn đồng 
+
+
+<table><tr><td rowspan="2">Năm hợp đồng/ Tuổi</td><td rowspan="2">Tổng phí bảo hiểm đã đóng<sup>(1)</sup></td><td rowspan="2">Các khoản thưởng<sup>(2)</sup></td><td colspan="3">Giá trị với lãi suất đảm bảo<sup>(3)</sup></td><td colspan="3">Giá trị với lãi suất 6,5%/năm<sup>(6)</sup></td></tr><tr><td>Giá trị tài khoản</td><td>Giá trị hoàn lại<sup>(4)</sup></td><td>Quyền lợi Tử vong /TTTBVV</td><td>Rút từ Giá trị tài khoản<sup>(5)</sup></td><td>Giá trị tài khoản</td><td>Giá trị hoàn lại<sup>(4)</sup></td><td>Quyền lợi Tử vong /TTTBVV</td><td>Rút từ Giá trị tài khoản<sup>(5)</sup></td></tr><tr><td>1/50</td><td>20.150</td><td rowspan="10">2.015</td><td>1.238</td><td></td><td>650.000</td><td></td><td>1.306</td><td></td><td>650.000</td></tr><tr><td>2/51</td><td>40.300</td><td>3.372</td><td></td><td>650.000</td><td></td><td>3.558</td><td></td><td>650.000</td></tr><tr><td>3/52</td><td>60.450</td><td>9.320</td><td></td><td>650.000</td><td></td><td>9.811</td><td></td><td>650.000</td></tr><tr><td>4/53</td><td>80.600</td><td>23.369</td><td>5.234</td><td>650.000</td><td></td><td>24.531</td><td>6.396</td><td>650.000</td></tr><tr><td>5/54</td><td>100.750</td><td>39.554</td><td>22.426</td><td>650.000</td><td></td><td>41.785</td><td>24.657</td><td>650.000</td></tr><tr><td>6/55</td><td>120.900</td><td>53.384</td><td>37.264</td><td>650.000</td><td></td><td>57.722</td><td>41.602</td><td>650.000</td></tr><tr><td>7/56</td><td>141.050</td><td>67.163</td><td>53.058</td><td>650.000</td><td></td><td>74.254</td><td>60.149</td><td>650.000</td></tr><tr><td>8/57</td><td>161.200</td><td>80.882</td><td>70.807</td><td>650.000</td><td></td><td>91.427</td><td>81.352</td><td>650.000</td></tr><tr><td>9/58</td><td>181.350</td><td>94.531</td><td>88.486</td><td>650.000</td><td></td><td>109.290</td><td>103.245</td><td>650.000</td></tr><tr><td>10/59</td><td>201.500</td><td>123.194</td><td>123.194</td><td>650.000</td><td></td><td>142.998</td><td>142.998</td><td>650.000</td></tr><tr><td>11/60</td><td>221.650</td><td>137.276</td><td>137.276</td><td>650.000</td><td></td><td>165.003</td><td>165.003</td><td>650.000</td></tr><tr><td>12/61</td><td>241.800</td><td>151.071</td><td>151.071</td><td>650.000</td><td></td><td>188.054</td><td>188.054</td><td>650.000</td></tr><tr><td>13/62</td><td>261.950</td><td>164.516</td><td>164.516</td><td>650.000</td><td></td><td>212.229</td><td>212.229</td><td>650.000</td></tr><tr><td>14/63</td><td>282.100</td><td>177.567</td><td>177.567</td><td>650.000</td><td></td><td>237.643</td><td>237.643</td><td>650.000</td></tr><tr><td>15/64</td><td>302.250</td><td>220.387</td><td>220.387</td><td>650.000</td><td></td><td>294.650</td><td>294.650</td><td>650.000</td></tr><tr><td>16/65</td><td>302.250</td><td>212.408</td><td>212.408</td><td>650.000</td><td></td><td>303.373</td><td>303.373</td><td>650.000</td></tr><tr><td>17/66</td><td>302.250</td><td>202.915</td><td>202.915</td><td>650.000</td><td></td><td>312.012</td><td>312.012</td><td>650.000</td></tr><tr><td>18/67</td><td>302.250</td><td>191.715</td><td>191.715</td><td>650.000</td><td></td><td>320.551</td><td>320.551</td><td>650.000</td></tr><tr><td>19/68</td><td>302.250</td><td>178.560</td><td>178.560</td><td>650.000</td><td></td><td>328.961</td><td>328.961</td><td>650.000</td></tr><tr><td>20/69</td><td>302.250</td><td>163.116</td><td>163.116</td><td>650.000</td><td></td><td>337.177</td><td>337.177</td><td>650.000</td></tr><tr><td>21/70</td><td>302.250</td><td>144.172</td><td>144.172</td><td>650.000</td><td></td><td>345.104</td><td>345.104</td><td>650.000</td></tr><tr><td>25/74</td><td>302.250</td><td>28.016</td><td>28.016</td><td>650.000</td><td></td><td>370.856</td><td>370.856</td><td>650.000</td></tr><tr><td>26/75</td><td>302.250</td><td>(*)</td><td></td><td></td><td></td><td>374.910</td><td>374.910</td><td>650.000</td></tr><tr><td>30/79</td><td>302.250</td><td></td><td></td><td></td><td></td><td>375.216</td><td>375.216</td><td>650.000</td></tr></table>
+
+
+Đơn vị tính: nghìn đồng 
+
+
+<table><tr><td rowspan="2">Năm hợp đồng/ Tuổi</td><td rowspan="2">Tổng phí bảo hiểm đã đóng<sup>(1)</sup></td><td rowspan="2">Các khoản thưởng<sup>(2)</sup></td><td colspan="4">Giá trị với lãi suất đảm bảo<sup>(3)</sup></td><td colspan="4">Giá trị với lãi suất 6,5%/năm<sup>(6)</sup></td></tr><tr><td>Giá trị tài khoản</td><td>Giá trị hoàn lại<sup>(4)</sup></td><td>Quyền lợi Tử vong /TTTBVV</td><td>Rút từ Giá trị tài khoản<sup>(5)</sup></td><td>Giá trị tài khoản</td><td>Giá trị hoàn lại<sup>(4)</sup></td><td>Quyền lợi Tử vong /TTTBVV</td><td>Rút từ Giá trị tài khoản<sup>(5)</sup></td></tr><tr><td>31/80</td><td>302.250</td><td></td><td></td><td></td><td></td><td></td><td>369.304</td><td>369.304</td><td>650.000</td><td></td></tr><tr><td>36/85</td><td>302.250</td><td></td><td></td><td></td><td></td><td></td><td>247.040</td><td>247.040</td><td>650.000</td><td></td></tr><tr><td>38/87</td><td>302.250</td><td></td><td></td><td></td><td></td><td></td><td>100.821</td><td>100.821</td><td>650.000</td><td></td></tr><tr><td>39/88</td><td></td><td></td><td></td><td></td><td></td><td></td><td>(*)</td><td></td><td></td><td></td></tr><tr><td>41/90</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>46/95</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>50/99</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+
+Ghi chú: 
+
+
+(1) Bao gồm Phí bảo hiểm cơ bản, Phí bảo hiểm đông thêm (nếu có) và Phí bảo hiểm của (các) sản phẩm bổ sung (nếu có). 
+
+
+(2) Bao gồm Thường duy trì hợp đồng và Thường đồng hành: 
+
+
+Thường duy trì hợp đồng: một khoản thường theo tỷ lệ % Phí bảo hiểm cơ bản theo định kỳ năm sẽ được tích lũy ngay vào Giá trị tài khoản vào Ngày kỷ niệm hợp đồng thứ 5, 10, 15, 20, 25 và 30 như bảng dưới đây nếu trong khoảng thời gian xét thường, Phí bảo hiểm cơ bản được đóng đầy đủ hàng năm và các khoản rút từ Giá trị tài khoản không vượt quá Phí bảo hiểm cơ bản theo định kỳ năm. Khoảng thời gian xét thường là mỗi 5 Năm hợp đồng, bắt đầu từ Năm hợp đồng thứ 1, 6, 11, 16, 21 và 26. 
+
+
+<table><tr><td>Ngày kỷ niệm hợp đồng</td><td>Lần thứ 5</td><td>Lần thứ 10</td><td>Lần thứ 15</td><td>Lần thứ 20</td><td>Lần thứ 25</td><td>Lần thứ 30</td></tr><tr><td>Thường duy trì hợp đồng<br/>(% của Phí bảo hiểm cơ bản<br/>theo định kỳ năm)</td><td>10%</td><td>75%</td><td>150%</td><td>200%</td><td>200%</td><td>200%</td></tr></table>
+
+
+Thường đồng hành: Kể từ Năm hợp đồng thứ 11, vào cuối mỗi Năm hợp đồng, 2% của tổng các khoản Phí bảo hiểm cơ bản đã đóng trong Năm hợp đồng đó sẽ được tích lũy vào Giá trị tài khoản nếu Phí bảo hiểm cơ bản được đóng đầy đủ hàng năm từ Năm hợp đồng thứ 6 đến Năm hợp đồng thứ 10 và Bên mua bảo hiểm không rút từ Giá trị tài khoản trong Năm hợp đồng liền kề trước đó. 
+
+
+(3) Lãi suất đảm bảo được quy định trong bảng sau: 
+
+
+<table><tr><td>Năm hợp đồng</td><td>1 - 2</td><td>3 - 5</td><td>6 - 10</td><td>11 - 20</td><td>21+</td></tr><tr><td>Lãi suất đảm bảo hàng năm</td><td>4,5%</td><td>4%</td><td>3%</td><td>2%</td><td>1,5%</td></tr></table>
+
+
+(4) Giá trị hoàn lại được xác định tại cuối mỗi Năm hợp đồng và là số tiền mà Bên mua bảo hiểm nhận được nếu chấm dứt Hợp đồng bảo hiểm trước hạn hoặc tại Ngày đáo hạn hợp đồng. 
+
+
+(5) Số tiền rút đã bao gồm Phí rút từ Giá trị tài khoản (nếu có). Kể từ Năm hợp đồng thứ 10 trở đi và sau khi Người được bảo hiểm đạt 65 tuổi, khách hàng có thể yêu cầu Rút tiền định kỳ tự động. 
+
+
+(6) Lãi suất minh họa không vượt quá trung bình các mức lãi suất tích lũy công bố trong 60 tháng gần nhất. 
+
+
+(*) Hợp đồng mất hiệu lực do Giá trị tài khoản không đủ để khấu trừ Phí bảo hiểm rủi ro và Phí quản lý hợp đồng hàng tháng. Quyền lợi bảo hiểm sẽ không được chi trả trong thời gian Hợp đồng bảo hiểm mất hiệu lực.
+
+
+1. Phí ban đầu : 
+
+
+Khoản phí được khấu trừ từ Phí bảo hiểm cơ bản và Phí bảo hiểm đóng thêm thu được tại mỗi lần đóng phí trước khi được phân bổ vào Giá trị tài khoản. Phí ban đầu được khấu trừ theo tỷ lệ sau: 
+
+
+<table><tr><td>Năm hợp đồng</td><td>1</td><td>2</td><td>3</td><td>4 - 5</td><td>6 - 10</td><td>11+</td></tr><tr><td>Phí bảo hiểm cơ bản</td><td>70%</td><td>64%</td><td>44%</td><td>4,5%</td><td>4,5%</td><td>0%</td></tr><tr><td>Phí bảo hiểm đóng thêm</td><td>5%</td><td>5%</td><td>5%</td><td>5%</td><td>2%</td><td>0%</td></tr></table>
+
+
+2. Phí bảo hiểm rủi ro 
+
+
+Khoản phí được khấu trừ hàng tháng để đảm bảo chi trả các quyền lợi bảo hiểm rủi ro theo hợp đồng. 
+
+
+3. Phí quản lý hợp đồng 
+
+
+Khoản phí được khấu trừ hàng tháng để chi trả cho việc quản lý, duy trì Hợp đồng bảo hiểm và cung cấp các thông tin liên quan đến Hợp đồng bảo hiểm. 
+
+
+Phí quản lý hợp đồng bằng 36.000 đồng/tháng trong năm 2021 và tự động tăng 2.000 đồng mỗi năm dương lịch sau đó. Trong mọi trường hợp, Phí quản lý hợp đồng không vượt quá 60.000 đồng/tháng. 
+
+
+4. Phí quản lý quỹ 
+
+
+Phí quản lý quỹ được dùng để chi trả cho các hoạt động đầu tư và quản lý Quỹ Liên kết chung. 
+
+
+Phí quản lý quỹ không vượt quá 2%/năm và sẽ được khấu trừ trước khi công bố lãi suất tích lũy. 
+
+
+5. Phí hủy hợp đồng trước hạn 
+
+
+Khoản phí mà Bên mua bảo hiểm phải chịu khi hủy hợp đồng trước hạn. Phí hủy hợp đồng trước hạn được tính trên tỷ lệ % của Phí bảo hiểm cơ bản theo định kỳ năm như sau: 
+
+
+<table><tr><td>Năm hợp đồng</td><td>1 - 3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10+</td></tr><tr><td>% Phí bảo hiểm cơ bản theo định kỳ năm</td><td>100%</td><td>90%</td><td>85%</td><td>80%</td><td>70%</td><td>50%</td><td>30%</td><td>0%</td></tr></table>
+
+
+## 6. Phí rút từ Giá trị tài khoản 
+
+
+Khoản phí mà Bên mua bảo hiểm phải chịu khi yêu cầu rút một phần từ Giá trị tài khoản trong các Năm hợp đồng 4-9. Trong mỗi Năm hợp đồng: 
+
+
+- Trong lần rút đầu tiên, 
+
+
++ Số tiền rút ≤ 20% Giá trị hoàn lại: miễn Phí rút từ Giá trị tài khoản. 
+
+
++ Số tiền rút > 20% Giá trị hoàn lại: Phí rút từ Giá trị tài khoản bằng 2% của số tiền vượt quá 20% Giá trị hoàn lại, nhưng không thấp hơn 100.000 đồng. 
+
+
+- Từ lần rút thứ 2 trở đi, Phí rút từ Giá trị tài khoản bằng 2% của số tiền rút, nhưng không thấp hơn 100.000 đồng. 
+
+
+- Từ Năm hợp đồng thứ 10 trở đi: miễn Phí rút từ Giá trị tài khoản. 
+
+
+Lưu ý: Các khoản phí nêu trên không được bảo đảm và có thể thay đổi theo phê duyệt của Bộ Tài chính.
+
+
+BẢNG TÓM TẮT CÁC LOẠI PHÍ 
+
+
+Đơn vị tính: nghìn đồng 
+
+
+<table><tr><td>Năm hợp đồng/ Tuổi</td><td>Phí bảo hiểm cơ bản theo định kỳ năm</td><td>Phí bảo hiểm đóng thêm</td><td>Phí bảo hiểm sản phẩm bổ sung theo định kỳ năm</td><td>Phí ban đầu</td><td>Tổng phí bảo hiểm được phân bổ</td><td>Phí quản lý hợp đồng</td><td>Phí bảo hiểm rủi ro của sản phẩm chính(*)</td><td>Khấu trừ phí bảo hiểm của sản phẩm bổ sung</td></tr><tr><td>1/50</td><td>20.150</td><td></td><td></td><td>14.105</td><td>6.045</td><td>436</td><td>4.523</td><td></td></tr><tr><td>2/51</td><td>20.150</td><td></td><td></td><td>12.896</td><td>7.254</td><td>460</td><td>4.913</td><td></td></tr><tr><td>3/52</td><td>20.150</td><td></td><td></td><td>8.866</td><td>11.284</td><td>484</td><td>5.313</td><td></td></tr><tr><td>4/53</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>508</td><td>5.696</td><td></td></tr><tr><td>5/54</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>532</td><td>6.103</td><td></td></tr><tr><td>6/55</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>556</td><td>6.507</td><td></td></tr><tr><td>7/56</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>580</td><td>6.941</td><td></td></tr><tr><td>8/57</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>604</td><td>7.383</td><td></td></tr><tr><td>9/58</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>628</td><td>7.834</td><td></td></tr><tr><td>10/59</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>652</td><td>8.309</td><td></td></tr><tr><td>11/60</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>676</td><td>8.562</td><td></td></tr><tr><td>12/61</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>700</td><td>9.101</td><td></td></tr><tr><td>13/62</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>720</td><td>9.699</td><td></td></tr><tr><td>14/63</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>720</td><td>10.356</td><td></td></tr><tr><td>15/64</td><td>20.150</td><td></td><td></td><td>907</td><td>19.243</td><td>720</td><td>11.066</td><td></td></tr><tr><td>16/65</td><td></td><td></td><td></td><td></td><td></td><td>720</td><td>11.534</td><td></td></tr><tr><td>17/66</td><td></td><td></td><td></td><td></td><td></td><td>720</td><td>12.874</td><td></td></tr><tr><td>18/67</td><td></td><td></td><td></td><td></td><td></td><td>720</td><td>14.376</td><td></td></tr><tr><td>19/68</td><td></td><td></td><td></td><td></td><td></td><td>720</td><td>16.089</td><td></td></tr><tr><td>20/69</td><td></td><td></td><td></td><td></td><td></td><td>720</td><td>18.092</td><td></td></tr><tr><td>21/70</td><td></td><td></td><td></td><td></td><td></td><td>720</td><td>20.500</td><td></td></tr><tr><td>25/74</td><td></td><td></td><td></td><td></td><td></td><td>720</td><td>36.774</td><td></td></tr><tr><td>26/75</td><td></td><td></td><td></td><td></td><td></td><td>720</td><td></td><td></td></tr><tr><td>30/79</td><td></td><td></td><td></td><td></td><td></td><td>720</td><td></td><td></td></tr></table>
+
+
+BẢNG TÓM TẮT CÁC LOẠI PHÍ (tiếp theo) 
+
+
+<table><tr><td>Năm hợp đồng/ Tuổi</td><td>Phí bảo hiểm cơ bản theo định kỳ năm</td><td>Phí bảo hiểm đóng thêm</td><td>Phí bảo hiểm sản phẩm bổ sung theo định kỳ năm</td><td>Phí ban đầu</td><td>Tổng phí bảo hiểm được phân bổ</td><td>Phí quản lý hợp đồng</td><td>Phí bảo hiểm rủi ro của sản phẩm chính(*)</td><td>Khấu trừ phí bảo hiểm của sản phẩm bổ sung</td></tr><tr><td>31/80</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>36/85</td><td></td><td></td><td></td><td></td><tr><td>38/87</td><td></td><td></td><td></td><td></td><tr><td>39/88</td><td></td><td></td><td></td><td></td><tr><td>41/90</td><td></td><td></td><td></td><td></td><tr><td>46/95</td><td></td><td></td><td></td><td></td><tr><td>50/99</td><td></td><td></td><td></td><td></td></tr></tr></tr></tr></tr></table>
+
+
+(*) Dựa trên mức lãi suất đảm bảo
+
+
+## XÁC NHẬN CỦA BÊN MUA BÁO HIỂM VÀ TƯ VẤN TÀI CHÍNH 
+
+
+Tôi, Bên mua bảo hiểm, ký tên vào Bảng minh họa quyền lợi bảo hiểm này, cam kết rằng đã đọc, hiểu rõ và đồng ý với những nội dung đề cập sau đây: 
+
+
+1. Tôi đã được Tư vấn Tài chính của Sun Life Việt Nam giải thích rõ về Bảng minh họa quyền lợi bảo hiểm này, các quyền lợi bảo hiểm, các điều kiện, điều khoản bảo hiểm của sản phẩm SUN - Sống Chủ Động và các sản phẩm bổ sung (nếu có). 
+
+
+2. Bảng minh họa quyền lợi bảo hiểm này được tính toán dựa trên điều kiện Người được bảo hiểm được thẩm định ở mức chuẩn và Phí bảo hiểm được đóng theo định kỳ năm. Bên mua bảo hiểm có thể yêu cầu Tư vấn Tài chính cung cấp Bảng minh họa quyền lợi bảo hiểm theo định kỳ đóng phí thực tế lựa chọn. 
+
+
+3. Giá trị tài khoản thực tế của Hợp đồng bảo hiểm tùy thuộc vào mức lãi suất thực tế, phí bảo hiểm thực đóng, định kỳ đóng phí thực tế, số tiền rút thực tế, Phí bảo hiểm rủi ro thực tế và có thể cao hơn hoặc thấp hơn Giá trị tài khoản được thể hiện trong Bảng minh họa quyền lợi bảo hiểm này. 
+
+
+4. Hợp đồng bảo hiểm này sẽ mất hiệu lực khi Phí bảo hiểm cơ bản không được đóng đầy đủ và đúng hạn trong 3 Năm hợp đồng đầu tiên hoặc khi Giá trị tài khoản nhỏ hơn Phí bảo hiểm rủi ro và Phí quản lý hợp đồng hàng tháng. 
+
+
+5. Trong trường hợp được sự chấp thuận của Bộ Tài chính, Sun Life Việt Nam có thể thay đổi mức phí của (các) sản phẩm bảo hiểm bổ sung, mức phí mới chỉ được áp dụng vào Ngày kỷ niệm hợp đồng và Sun Life Việt Nam sẽ thông báo trước 03 tháng cho Bên mua bảo hiểm bằng văn bản. 
+
+
+6. Bảng minh họa quyền lợi bảo hiểm này chỉ có giá trị sử dụng khi có đầy đủ số trang và không được xem như là Hợp đồng bảo hiểm hay đề nghị giao kết hợp đồng. 
+
+
+Ngày 30 Tháng 03 Năm 2021 
+
+
+## NGUYỄN THÁI BÌNH 
+
+
+Tôi, Tư vấn tài chính, ký tên vào Bảng minh họa quyền lợi bảo hiểm này, cam kết rằng đã phân tích nhu cầu tài chính, tư vấn giải pháp bảo hiểm phù hợp và giải thích Bảng minh họa quyền lợi bảo hiểm này với Bên mua bảo hiểm một cách đầy đủ, rõ ràng, cụ thể và trung thực. Tôi xác nhận chữ ký trên đây được ký trước sự chứng kiến của tôi và theo sự hiểu biết của tôi đó là chữ ký của Bên mua bảo hiểm. 
+
+
+Ngày 30 Tháng 03 Năm 2021 
+
+
+CHẾ THỊ THÙY DƯƠNG
+
+
+# SUN - SỐNG CHỦ ĐỘNG CÁC THÔNG TIN QUAN TRỌNG CẦN LƯU Ý 
+
+
+SUN - SỐNG CHỦ ĐỘNG GỒM NHỮNG QUYỀN LỢI BẢO HIỂM NÀO?¹) 
+
+
+## QUYỀN LỢI BẢO VỆ 
+
+
+TỬ VONG/THƯƠNG TẬT TOÀN BỘ VĨNH VIÊN (áp dụng trước 66 tuổi cho Quyền lợi Thương tật toàn bộ vĩnh viễn) 
+
+
+● Quyền lợi gia tăng tiết kiệm: giá trị lớn hơn giữa Số tiền bảo hiểm và Giá trị tài khoản. 
+
+● Quyền lợi gia tăng bảo vệ: Số tiền bảo hiểm cộng Giá trị tài khoản. 
+
+
+## TẠM ỨNG QUYỀN LỢI UNG THƯ GIAI ĐOẠN CUỐI 
+
+● Nhận tạm ứng 50% Giá trị tài khoản (không tính lãi) nhưng không vượt quá 500 triệu đồng. 
+
+
+● Giá trị tài khoản, bao gồm Quyền lợi Ung thư giai đoạn cuối đã chi trả, vẫn được tích lũy lãi trong 12 tháng. 
+
+
+● Không khấu trừ Phí bảo hiểm rủi ro trong 12 tháng. 
+
+
+## QUYỀN LỢI TIẾT KIỆM 
+
+
+## LÃI SUẤT TÍCH LŨY ĐẢM BẢO 
+
+
+Giá trị tài khoản được tích lũy không thấp hơn mức lãi suất đảm bảo trong suốt Thời hạn bảo hiểm. 
+
+## QUYỀN LỢI THƯỞNG DUY TRÌ HỢP ĐỒNG(2) 
+
+
+Thường vào Giá trị tài khoản ở các Ngày kỷ niệm hợp đồng lần thứ 5, 10, 15, 20, 25 và 30. 
+
+
+## QUYỀN LỢI THƯỞNG ĐỒNG HÀNH(3) 
+
+
+Thường vào Giá trị tài khoản ở cuối mỗi Năm hợp đồng kể từ Năm hợp đồng 11: 2% tổng Phí bảo hiểm cơ bản đã đóng trong mỗi Năm hợp đồng. 
+
+## QUYỀN LỢI ĐÁO HẠN 
+
+
+Nhận toàn bộ Giá trị tài khoản vào Ngày đáo hạn hợp đồng. 
+
+
+(1) Chi tiết quy định tại Điều 5 của Quy tắc và Điều khoản sản phẩm. 
+
+
+(2) Với điều kiện trong thời gian xét thưởng, Phí bảo hiểm cơ bản được đóng đầy đủ hàng năm và tổng các khoản tiền rút từ Giá trị tài khoản không vượt quá Phí bảo hiểm cơ bản năm. 
+
+
+(3) Với điều kiện Phí bảo hiểm cơ bản được đóng đầy đủ từ Năm hợp đồng thứ 6 đến Năm hợp đồng thứ 10 và không có giao dịch rút tiền từ Giá trị tài khoản trong Năm hợp đồng liền kề trước đó.
+
+
+# BẠN CÓ NHỮNG LỰA CHỌN LINH HOẠT NÀO?⁴ 
+
+
+## Tăng Số tiền bảo hiểm không cần thẩm định 
+
+
+khi phát sinh sự kiện làm gia tăng trách nhiệm tài chính (kết hôn, sinh con, nhân con nuôi, con đi học, vợ/chồng tử vong do tai nạn). 
+
+
+## Thay đổi Số tiền bảo hiểm 
+
+
+- Tăng Số tiền bảo hiểm trước khi Người được bảo hiểm đạt 65 tuổi⁵. 
+
+
+- Giảm Số tiền bảo hiểm vào bất cứ thời điểm nào trong Thời hạn bảo hiểm. 
+
+
+(4) Chỉ tiết quy định tại Điều 16 của Quy tắc và Điều khoản sản phẩm. 
+
+
+(5) Nếu Người được bảo hiểm đáp ứng các yêu cầu về thẩm định của Sun Life Việt Nam. 
+
+
+## Dịch vụ rút tiền định kỳ tự động 
+
+
+và miễn phí kể từ Năm hợp đồng 10 và ngay sau khi Người được bảo hiểm đạt 65 tuổi. 
+
+
+## Linh hoạt đóng phí 
+
+
+kể từ Năm hợp đồng 4 với điều kiện Giá trị tài khoản lớn hơn Khoản khấu trừ hàng tháng. 
+
+
+## Rút tiền dễ dàng từ Giá trị tài khoản 
+
+
+kể từ Năm hợp đồng 4 và hoàn toàn miễn phí kể từ Năm hợp đồng 10⁶. 
+
+
+(6) Những không vượt quá 80% Giá trị hoàn lại sau khi trừ Khoản nợ (nếu có). 
+
+
+# BẠN CẦN CHUẨN BỊ GÌ ĐỂ YÊU CẦU NHẬN QUYỀN LỢI BẢO HIỂM?⁷ 
+
+
+<table><tr><td>Giấy tờ cần thiết</td><td>Quyền lợi từ vong</td><td>Quyền lợi Thương tật toàn bộ vĩnh viễn</td><td>Quyền lợi Ung thư giai đoạn cuối</td><td>Quyền lợi đáo hạn</td></tr><tr><td>Hợp đồng bảo hiểm</td><td>✓</td><td>✓</td><td></td><td>✓</td></tr><tr><td>Giấy yêu cầu giải quyết quyền lợi bảo hiểm theo mẫu của Sun Life Việt Nam</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>Bản sao CMND/hộ chiếu/thẻ căn cước công dân của người nhận quyền lợi bảo hiểm</td><td>✓</td><td>✓</td><td>✓</td><td>✓</td></tr><tr><td>Trích lục chứng từ và/hoặc biên bản tai nạn, biên bản giải phẫu pháp y, hoặc Hồ sơ y tế liên quan (Giấy ra viện, Bản sao hoặc hồ sơ tóm tắt bệnh án)</td><td>✓</td><td></td><td></td><td></td></tr><tr><td>Tài liệu chứng minh quyền được nhận quyền lợi bảo hiểm (nếu có) như giấy tờ chứng minh mối quan hệ với Người được bảo hiểm, văn bản thỏa thuận phân chia tài sản thừa kế</td><td>✓</td><td></td><td></td><td></td></tr><tr><td>Kết quả giám định tình trạng thương tật do Hội đồng giám định Y khoa cấp tỉnh, thành phố cấp, và/hoặc biên bản tai nạn (nếu có, trong trường hợp thương tật do tai nạn), hoặc Hồ sơ y tế liên quan (Giấy ra viện, bản sao hoặc hồ sơ tóm tắt bệnh án)</td><td></td><td>✓</td><td></td><td></td></tr><tr><td>Bản công chứng, chứng thực hợp pháp hóa lãnh sự các giấy tờ, bằng chứng (bằng tiếng Anh hoặc tiếng Việt) cho trường hợp khám và điều trị ở nước ngoài</td><td></td><td>✓</td><td>✓</td><td></td></tr><tr><td>Tóm tắt bệnh án hoặc bản sao hồ sơ bệnh án (số khám bệnh và các chứng từ y tế liên quan đến việc khám, chẩn đoán và điều trị) có chẩn đoán Ung thư giai đoạn cuối được cấp bởi Bệnh viện/cơ sở y tế</td><td></td><td></td><td>✓</td><td></td></tr><tr><td>Chứng từ nằm viện (giấy ra viện, bản kê chi tiết viện phí điều trị, biên lai, hóa đơn viện phí)</td><td></td><td></td><td>✓</td><td></td></tr><tr><td>Các bằng chứng hoặc giấy tờ cần thiết khác, nếu cần</td><td></td><td></td><td></td><td>✓</td></tr></table>
+
+
+(7) Chỉ tiết quy định tại Điều 17 của Quy tắc và Điều khoản sản phẩm 
+
+
+# CÁC LƯU Ý KHÁC 
+
+
+- Bên mua bảo hiểm và (các) Người được bảo hiểm phải kê khai thông tin trung thực và thông báo khi có thay đổi các thông tin liên quan đến Hợp đồng bảo hiểm theo quy định tại Điều 12, Điều 13, Điều 16 của Quy tắc và Điều khoản sản phẩm này. Việc kê khai thông tin không đúng về sức khỏe và tiền sử bệnh sẽ dẫn đến rủi ro không được Sun Life Việt Nam chi trả quyền lợi bảo hiểm của sản phẩm. 
+
+
+- Bên mua bảo hiểm có thể đóng phí linh hoạt từ Năm hợp đồng 4 theo khả năng tài chính. Tuy nhiên, việc giảm hoặc tạm ngưng đóng phí có thể dẫn đến Hợp đồng bảo hiểm mất hiệu lực do Giá trị tài khoản không đủ khấu trừ Phí bảo hiểm rủi ro và Phí quản lý hợp đồng hàng tháng. Quyền lợi bảo hiểm sẽ không được chi trả trong thời gian Hợp đồng bảo hiểm mất hiệu lực. 
+
+
+- Việc tham gia các sản phẩm bảo hiểm bổ sung đính kèm không phải là điều kiện bắt buộc để duy trì hiệu lực của Hợp đồng bảo hiểm. 
+
+
+- Sun Life Việt Nam sẽ không chi trả Quyền lợi bảo hiểm cho các trường hợp loại trừ bảo hiểm được quy định tại Điều 6 của Quy tắc và Điều khoản sản phẩm này.
+
+
+# QUY TẮC VÀ ĐIỀU KHOẢN SẢN PHẨM BẢO HIỂM LIÊN KẾT CHUNG 2018 (SUN – SỐNG CHỦ ĐỘNG) 
+
+
+(Được chấp thuận theo Công văn số 1052/BTC-QLBH ngày 23/01/2019 và Công văn sửa đổi, bổ sung số 1152/BTC-QLBH ngày 07/02/2020 của Bộ Tài chính) 
+
+
+## MỤC LỤC 
+
+
+ĐIỀU 1: ĐỊNH NGHĨA ................................................................................................................. 2    ĐIỀU 2: HỢP ĐỒNG BẢO HIỂM ............................................................................................. 4    ĐIỀU 3: THỜI GIAN CẦN NHẮC ............................................................................................. 5    ĐIỀU 4: BẢO HIỂM TẠM THỜI ............................................................................................... 5    ĐIỀU 5: QUYỀN LỢI BẢO HIỂM ............................................................................................. 5    ĐIỀU 6: ĐIỀU KHOẢN LOẠI TRỪ ............................................................................................. 8    ĐIỀU 7: CÁC KHOẢN PHÍ CÓ THỂ KHẤU TRỪ ..................................................................... 10    ĐIỀU 8: ĐÓNG PHÍ BẢO HIỂM ............................................................................................. 11    ĐIỀU 9: THỜI GIAN GIA HẠN ĐÓNG PHÍ ............................................................................. 11    ĐIỀU 10: KHỐI PHỤC HIỆU LỰC HỢP ĐỒNG ....................................................................... 11    ĐIỀU 11: MIỄN TRUY XÉT ..................................................................................................... 12    ĐIỀU 12: TRÁCH NHIỆM KÊ KHAI, CUNG CẤP VÀ BẢO MẬT THÔNG TIN ............ 12    ĐIỀU 13: NHẰM LẪN KHI KÊ KHAI TUỔI, GIỚI TÍNH ..................................................... 13    ĐIỀU 14: CHẤM DỨT HỢP ĐỒNG BẢO HIỂM ....................................................................... 14    ĐIỀU 15: THÔNG TIN VỀ QUỸ LIÊN KẾT CHUNG VÀ GIÁ TRỊ TÀI KHOẢN ........... 14    ĐIỀU 16: CÁC THAY ĐỔI TRONG QUÁ TRÌNH THỰC HIỆN HỢP ĐỒNG    BẢO HIỂM ................................................................................................................................. 15    ĐIỀU 17: THỦ TỤC GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM ............................................. 18    ĐIỀU 18: LUẬT ÁP DỤNG VÀ GIẢI QUYẾT TRANH CHẤP ............................................ 21
+
+
+## ĐIỀU 1: ĐỊNH NGHĨA 
+
+
+1.1. “Công ty” là Công ty TNHH Bảo hiểm Nhân thọ Sun Life Việt Nam, được Bộ Tài chính cấp Giấy phép Thành lập và Hoạt động số 68 GP/KDBH ngày 24/01/2013 (đã được sửa đổi, bổ sung). 
+
+
+1.2. “Bên mua bảo hiểm” là tổ chức được thành lập và hoạt động hợp pháp tại Việt Nam, hoặc cá nhân từ đủ 18 tuổi trở lên hiện đang sinh sống tại Việt Nam, có năng lực hành vi dân sự đầy đủ; là người trực tiếp kê khai, ký tên trên Hồ sơ yêu cầu bảo hiểm, đóng phí bảo hiểm và thực hiện các quyền và nghĩa vụ quy định trong Hợp đồng bảo hiểm. 
+
+
+1.3. “Người được bảo hiểm” là cá nhân có độ tuổi từ 30 ngày tuổi đến 65 tuổi vào Ngày hiệu lực hợp đồng và được Công ty chấp nhận bảo hiểm theo Quy tắc và Điều khoản sản phẩm này. 
+
+
+1.4. “Người thụ hưởng” là cá nhân hoặc tổ chức được Bên mua bảo hiểm chỉ định (với sự đồng ý của Người được bảo hiểm hoặc người đại diện theo pháp luật của Người được bảo hiểm) nhận quyền lợi bảo hiểm theo Quy tắc và Điều khoản sản phẩm này. 
+
+
+Người thụ hưởng được ghi tên trong Hồ sơ yêu cầu bảo hiểm, Giấy chứng nhận bảo hiểm và các thỏa thuận bổ sung của Hợp đồng bảo hiểm (nếu có). 
+
+
+1.5. “Tuổi bảo hiểm” là tuổi của Người được bảo hiểm tính theo ngày sinh nhật gần nhất trước Ngày hiệu lực hợp đồng hoặc Ngày kỷ niệm hợp đồng trong các Năm hợp đồng tiếp theo. 
+
+
+1.6. “Số tiền bảo hiểm” là số tiền Công ty chấp thuận bảo hiểm theo Quy tắc và Điều khoản sản phẩm này và được ghi trên Giấy chứng nhận bảo hiểm và/hoặc tài liệu sửa đổi, bổ sung liên quan gần nhất (nếu có). 
+
+
+1.7. “Phí bảo hiểm cơ bản” là khoản phí bảo hiểm được tính toán dựa trên Số tiền bảo hiểm, tuổi và giới tính của Người được bảo hiểm tại thời điểm tham gia Hợp đồng bảo hiểm. Phí bảo hiểm cơ bản được ghi trên Giấy chứng nhận bảo hiểm và/hoặc tài liệu sửa đổi, bổ sung liên quan gần nhất (nếu có). 
+
+
+1.8. “Phí bảo hiểm đóng thêm” là khoản phí bảo hiểm do Bên mua bảo hiểm đóng thêm sau khi đã đóng đủ Phí bảo hiểm định kỳ của Năm hợp đồng hiện tại. 
+
+
+Trong mỗi Năm hợp đồng, tổng số Phí bảo hiểm đóng thêm không vượt quá 5 lần Phí bảo hiểm cơ bản theo định kỳ năm. Công ty có thể dừng nhận Phí bảo hiểm đóng thêm hoặc thay đổi mức tối đa này nhưng không vượt quá quy định của pháp luật hiện hành. 
+
+
+1.9. “Phí bảo hiểm định kỳ” là khoản phí bảo hiểm Bên mua bảo hiểm phải đóng theo định kỳ, bao gồm Phí bảo hiểm cơ bản và phí bảo hiểm của (các) sản phẩm bổ sung, nếu có. 
+
+
+1.10. “Thời hạn bảo hiểm” là thời gian có hiệu lực của Hợp đồng bảo hiểm, và được ghi trên Giấy chứng nhận bảo hiểm. Thời hạn bảo hiểm của sản phẩm này là từ 35 đến 100 năm, tùy theo độ tuổi của Người được bảo hiểm khi tham gia bảo hiểm; và trong mọi trường hợp cũng sẽ không vượt quá Ngày kỷ niệm hợp đồng ngay sau lần sinh nhật thứ 100 của Người được bảo hiểm. 
+
+
+1.11. “Thời hạn đóng phí” là thời gian Bên mua bảo hiểm đóng phí bảo hiểm cho Công ty và bằng với Thời hạn bảo hiểm. Thời hạn đóng phí bắt buộc là 3 Năm hợp đồng đầu
+
+
+tiên, Bên mua bảo hiểm có thể đóng phí linh hoạt từ Năm hợp đồng thứ 4. 
+
+
+1.12. “Ngày hiệu lực hợp đồng” là ngày Bên mua bảo hiểm hoàn tất Hồ sơ yêu cầu bảo hiểm và đóng đủ Phí bảo hiểm định kỳ nếu Bên mua bảo hiểm và Người được bảo hiểm còn sống vào thời điểm Hồ sơ yêu cầu bảo hiểm được Công ty chấp thuận. Ngày hiệu lực hợp đồng được ghi trên Giấy chứng nhận bảo hiểm. 
+
+
+1.13. “Ngày đến hạn đóng phí” là ngày đóng Phí bảo hiểm định kỳ theo thỏa thuận tại Hợp đồng bảo hiểm hoặc các sửa đổi, bổ sung liên quan gần nhất (nếu có). 
+
+
+1.14. “Ngày kỷ niệm hợp đồng” là ngày kỷ niệm tương ứng hàng năm của Ngày hiệu lực hợp đồng trong suốt thời hạn Hợp đồng bảo hiểm. Nếu năm không có ngày này thì ngày cuối cùng của tháng đó sẽ là Ngày kỷ niệm hợp đồng. 
+
+
+1.15. “Ngày kỷ niệm tháng hợp đồng” là ngày tương ứng hàng tháng của Ngày hiệu lực hợp đồng; trường hợp trong tháng không có ngày tương ứng, ngày liền trước đó sẽ được áp dụng. 
+
+
+1.16. “Ngày đáo hạn hợp đồng” là ngày cuối cùng của thời hạn hợp đồng được ghi trên Giấy chứng nhận bảo hiểm nếu hợp đồng còn hiệu lực đến thời điểm đó. 
+
+
+1.17. “Năm hợp đồng” là một năm dương lịch kể từ Ngày hiệu lực hợp đồng hoặc từ Ngày kỷ niệm hợp đồng. 
+
+
+1.18. “Thương tật toàn bộ vĩnh viễn” là trường hợp: 
+
+
+a) Người được bảo hiểm bị mất, liệt hoàn toàn và không thể phục hồi được chức năng của: 
+
+
+i) Hai tay, hoặc; 
+
+
+ii) Hai chân, hoặc; 
+
+
+iii) Một tay và một chân, hoặc; 
+
+
+iv) Hai mắt, hoặc; 
+
+
+v) Một tay và một mắt, hoặc; 
+
+
+vi) Một chân và một mắt. 
+
+
+Trong trường hợp này, mất hoàn toàn và không thể phục hồi được chức năng của (i) tay được tính từ cổ tay trở lên, (ii) chân được tính từ mắt cá chân trở lên, (iv) mắt được hiểu là mất hẳn mất hoặc mù hoàn toàn. 
+
+
+Việc chứng nhận Người được bảo hiểm bị mất hoàn toàn bộ phận cơ thể (tay, chân hoặc mắt) có thể được thực hiện ngay sau khi sự kiện bảo hiểm xảy ra. 
+
+
+Việc chứng nhận bị liệt hoàn toàn và không thể phục hồi chức năng của các bộ phận cơ thể phải được thực hiện không sớm hơn 180 ngày kể từ ngày xảy ra sự kiện bảo hiểm hoặc từ ngày bệnh lý được chẩn đoán xác định. 
+
+
+Hoặc: 
+
+
+b) Người được bảo hiểm bị thương tật từ 81% trở lên theo xác nhận của cơ quan y tế/Hội đồng giám định Y khoa cấp tỉnh trở lên.
+
+
+1.19. “Giá trị hoàn lại” là số tiền Bên mua bảo hiểm sẽ nhận được khi Hợp đồng bảo hiểm chấm dứt trước hạn. Giá trị hoàn lại bằng Giá trị tài khoản trừ Phí hủy hợp đồng trước hạn. Công ty có trách nhiệm tính Giá trị hoàn lại phù hợp cơ sở kỹ thuật đã đăng ký với Bộ Tài chính. Công ty trình bày Giá trị hoàn lại ước tính vào Ngày kỷ niệm hợp đồng hàng năm tại Bảng minh họa quyền lợi bảo hiểm. 
+
+
+1.20. “Giá trị tài khoản” là số tiền được tích lũy từ các khoản phí bảo hiểm trừ Phí ban đầu, Khoản khấu trừ hàng tháng và cộng vào các khoản lãi và thưởng khác (nếu có). Giá trị tài khoản được tính lãi theo mức lãi suất tích lũy được Công ty công bố hàng tháng trên trang thông tin điện tử (website) chính thức của Công ty. 
+
+
+1.21. “Khoản khấu trừ hàng tháng” là khoản Phí bảo hiểm rủi ro và Phí quản lý hợp đồng được Công ty khấu trừ từ Giá trị tài khoản vào ngày phát hành Giấy chứng nhận bảo hiểm hoặc Ngày kỷ niệm tháng hợp đồng. 
+
+
+1.22. “Khoản nợ” là khoản tiền bao gồm các khoản Phí bảo hiểm cơ bản đến hạn nhưng chưa được đóng trong 3 Năm hợp đồng đầu tiên, các Khoản khấu trừ hàng tháng đến hạn nhưng chưa được khấu trừ, Quyền lợi Ung thư giai đoạn cuối đã chi trả và chưa khấu trừ (nếu có), và các khoản khác mà Bên mua bảo hiểm còn nợ Công ty theo Quy tắc và Điều khoản sản phẩm này. Khoản nợ sẽ được khấu trừ từ bất kỳ khoản tiền nào mà Công ty phải chi trả theo Quy tắc và Điều khoản sản phẩm này. 
+
+
+1.23. “Ung thư giai đoạn cuối” là tình trạng bệnh được chẩn đoán là ung thư giai đoạn 4 hoặc giai đoạn cuối. Bệnh phải được chẩn đoán xác định bởi bác sĩ chuyên khoa ung thư và bởi bác sĩ do Công ty chỉ định. 
+
+
+1.24. “Bệnh có sẵn” là tình trạng bệnh tật hoặc thương tật của Người được bảo hiểm đã được bác sĩ khám, chẩn đoán hoặc điều trị trước Ngày hiệu lực hợp đồng hoặc ngày khỏi phục hợp đồng gần nhất (nếu có). Hồ sơ y tế, tiền sử bệnh được lưu giữ tại bệnh viện/cơ sở y tế được thành lập hợp pháp hoặc các thông tin do Bên mua bảo hiểm/Người được bảo hiểm tự kê khai được xem là bằng chứng đầy đủ và hợp pháp về Bệnh có sẵn. 
+
+
+## ĐIỀU 2: HỢP ĐỒNG BẢO HIỂM 
+
+
+2.1. Hợp đồng bảo hiểm là thỏa thuận bằng văn bản giữa Bên mua bảo hiểm và Công ty, trong đó ghi nhận quyền và nghĩa vụ của các bên trong quá trình thực hiện hợp đồng. 
+
+
+Hợp đồng bảo hiểm bao gồm các tài liệu sau: 
+
+
+- Hồ sơ yêu cầu bảo hiểm; 
+
+
+- Giấy chứng nhận bảo hiểm; 
+
+
+- Quy tắc và Điều khoản sản phẩm đã được Bộ Tài chính phê chuẩn; 
+
+
+- Bảng minh họa quyền lợi bảo hiểm; 
+
+
+- Các văn bản sửa đổi, bổ sung Hợp đồng bảo hiểm (nếu có). 
+
+
+2.2. Hồ sơ yêu cầu bảo hiểm là văn bản yêu cầu bảo hiểm theo mẫu của Công ty, trong đó ghi các nội dung đề nghị tham gia bảo hiểm và thông tin do người đề nghị tham gia bảo hiểm cung cấp để Công ty đánh giá rủi ro, làm căn cứ chấp nhận bảo hiểm hoặc từ chối bảo hiểm. Hồ sơ yêu cầu bảo hiểm do Bên mua bảo hiểm (và Người được bảo hiểm) kê khai, ký tên và cung cấp cho Công ty.
+
+
+2.3. Giấy chứng nhận bảo hiểm là văn bản do Công ty cấp cho Bên mua bảo hiểm (hoặc Người được bảo hiểm trong trường hợp bảo hiểm nhóm), trong đó thể hiện các thông tin cơ bản của Hợp đồng bảo hiểm, và là một phần không tách rời của Hợp đồng bảo hiểm. 
+
+
+2.4. Bảng minh họa quyền lợi bảo hiểm là tài liệu minh họa về sản phẩm được cung cấp cho Bên mua bảo hiểm/Người được bảo hiểm, thể hiện các thông tin cơ bản về Hợp đồng bảo hiểm theo điều kiện, điều khoản bảo hiểm được thỏa thuận giữa Bên mua bảo hiểm và Công ty. 
+
+
+## ĐIỀU 3: THỜI GIAN CÂN NHẮC 
+
+
+Trong vòng 21 ngày kể từ ngày nhận được Hợp đồng bảo hiểm, Bên mua bảo hiểm có quyền từ chối không tham gia bảo hiểm bằng cách gửi văn bản thông báo đến Công ty. Công ty hoàn trả phí bảo hiểm đã đóng, không có lãi, trừ chi phí khám sức khỏe (nếu có). 
+
+
+## ĐIỀU 4: BẢO HIỂM TẠM THỜI 
+
+
+## 4.1. Thời gian bảo hiểm tạm thời 
+
+
+Thời gian bảo hiểm tạm thời bắt đầu từ khi Bên mua bảo hiểm hoàn tất Hồ sơ yêu cầu bảo hiểm và đóng đủ phí bảo hiểm tạm tính. Thời gian bảo hiểm tạm thời sẽ kết thúc vào ngày Công ty cấp Giấy chứng nhận bảo hiểm hoặc từ chối chấp nhận bảo hiểm hoặc Bên mua bảo hiểm đề nghị hủy Hồ sơ yêu cầu bảo hiểm bằng văn bản, tùy ngày nào đến trước. 
+
+
+## 4.2. Quyền lợi bảo hiểm tạm thời 
+
+
+Nếu Người được bảo hiểm tử vong do tai nạn trong thời gian bảo hiểm tạm thời, Công ty sẽ chi trả Số tiền bảo hiểm được ghi trong Hồ sơ yêu cầu bảo hiểm, nhưng không vượt quá 200.000.000 đồng trên mỗi Người được bảo hiểm. Trong trường hợp tổng phí bảo hiểm đã đóng lớn hơn 200.000.000 đồng, Công ty sẽ hoàn lại tổng phí bảo hiểm đã đóng. 
+
+
+## 4.3. Loại trừ đối với bảo hiểm tạm thời 
+
+
+Công ty không chi trả quyền lợi bảo hiểm tạm thời và hoàn lại toàn bộ phí bảo hiểm đã đóng, trừ chi phí xét nghiệm y khoa (nếu có), nếu Người được bảo hiểm tử vong do một trong các nguyên nhân sau: 
+
+
+a) Hành động tự tử; hoặc 
+
+
+b) Do hành vi cố ý của Bên mua bảo hiểm, Người thụ hưởng đối với Người được bảo hiểm; hoặc 
+
+
+c) Bị ảnh hưởng trực tiếp hoặc gián tiếp do sử dụng trái phép ma túy, các chất gây nghiện, các chất kích thích tương tự ma túy hoặc sử dụng các thức uống có cồn vi phạm pháp luật hiện hành. 
+
+
+## ĐIỀU 5: QUYỀN LỢI BẢO HIỂM 
+
+
+## 5.1. Quyền lợi tử vong 
+
+
+Nếu Người được bảo hiểm tử vong trong thời gian Hợp đồng bảo hiểm có hiệu lực, ngoại trừ các trường hợp quy định tại Điều 6.1, Công ty sẽ chi trả Quyền lợi tử vong
+
+
+theo một trong hai lựa chọn quyền lợi sau đây do Bên mua bảo hiểm chỉ định và được ghi trên Giấy chứng nhận bảo hiểm và/hoặc tài liệu sửa đổi, bổ sung liên quan gần nhất (nếu có), trừ Khoản nợ (nếu có): 
+
+
+- Quyền lợi gia tăng tiết kiệm: chi trả giá trị lớn hơn giữa Số tiền bảo hiểm và Giá trị tài khoản tại thời điểm Người được bảo hiểm tử vong; hoặc 
+
+
+- Quyền lợi gia tăng bảo vệ: chi trả Số tiền bảo hiểm cộng Giá trị tài khoản tại thời điểm Người được bảo hiểm tử vong. 
+
+
+Quyền lợi gia tăng bảo vệ sẽ tự động chuyển sang Quyền lợi gia tăng tiết kiệm vào Ngày kỷ niệm hợp đồng ngay sau ngày sinh nhật lần thứ 70 của Người được bảo hiểm. 
+
+
+Hợp đồng bảo hiểm sẽ chấm dứt hiệu lực ngay khi Người được bảo hiểm tử vong. 
+
+
+## 5.2. Quyền lợi Thương tật toàn bộ vĩnh viễn 
+
+
+Nếu Người được bảo hiểm bị Thương tật toàn bộ vĩnh viễn trong thời gian Hợp đồng bảo hiểm có hiệu lực và trước Ngày kỷ niệm hợp đồng ngay sau ngày sinh nhật lần thứ 66 của Người được bảo hiểm, ngoại trừ các trường hợp quy định tại Điều 6.2, Công ty sẽ chi trả quyền lợi Thương tật toàn bộ vĩnh viễn theo một trong hai lựa chọn quyền lợi sau đây do Bên mua bảo hiểm chỉ định và được ghi trên Giấy chứng nhận bảo hiểm và/hoặc tài liệu sửa đổi, bổ sung liên quan gần nhất (nếu có), trừ Khoản nợ (nếu có): 
+
+
+- Quyền lợi gia tăng tiết kiệm: chi trả giá trị lớn hơn giữa Số tiền bảo hiểm và Giá trị tài khoản tại thời điểm Người được bảo hiểm bị Thương tật toàn bộ vĩnh viễn; hoặc 
+
+
+- Quyền lợi gia tăng bảo vệ: chi trả Số tiền bảo hiểm cộng Giá trị tài khoản tại thời điểm Người được bảo hiểm bị Thương tật toàn bộ vĩnh viễn. 
+
+
+Hợp đồng bảo hiểm sẽ chấm dứt hiệu lực ngay khi Quyền lợi Thương tật toàn bộ vĩnh viễn được chấp thuận chi trả. 
+
+
+## 5.3. Quyền lợi Ung thư giai đoạn cuối 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực, ngoại trừ các trường hợp quy định tại Điều 6.3, nếu Người được bảo hiểm bị chẩn đoán mắc Ung thư giai đoạn cuối: 
+
+
+- Bên mua bảo hiểm sẽ được tạm ứng không tính lãi lên đến 50% Giá trị tài khoản nhưng không vượt quá 500.000.000 đồng; và 
+
+
+- Giá trị tài khoản, bao gồm Quyền lợi Ung thư giai đoạn cuối đã chi trả, vẫn được tích lũy lãi trong 12 tháng kể từ ngày tạm ứng; và 
+
+
+- Không khấu trừ Phí bảo hiểm rủi ro từ Giá trị tài khoản trong 12 tháng kể từ Ngày kỷ niệm tháng hợp đồng ngay sau ngày tạm ứng. 
+
+
+Quyền lợi Ung thư giai đoạn cuối sẽ được khấu trừ từ: 
+
+
+- Giá trị tài khoản nếu Người được bảo hiểm còn sống sau 12 tháng kể từ ngày nhận Quyền lợi Ung thư giai đoạn cuối; hoặc 
+
+
+- Quyền lợi tử vong/Thương tật toàn bộ vĩnh viễn nếu Người được bảo hiểm tử vong/bị Thương tật toàn bộ vĩnh viễn trong vòng 12 tháng kể từ ngày nhận Quyền lợi Ung thư giai đoạn cuối.
+
+
+Đối với lựa chọn Quyền lợi gia tăng tiết kiệm, nếu Giá trị tài khoản sau khi khấu trừ quyền lợi Ung thư giai đoạn cuối thấp hơn Số tiền bảo hiểm trước khi khấu trừ, Số tiền bảo hiểm sẽ bị điều chỉnh giảm tương tự như quy định tại Điều 16.4. 
+
+
+## 5.4. Quyền lợi nhận lãi từ kết quả đầu tư của Quỹ Liên kết chung 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực, Giá trị tài khoản sẽ được tích lũy theo mức lãi suất được Công ty công bố hàng tháng trên website chính thức của Công ty. Lãi suất tích lũy được đảm bảo không thấp hơn tỷ lệ dưới đây trong suốt Thời hạn bảo hiểm: 
+
+
+<table><tr><td>Năm hợp đồng</td><td>Lãi suất đảm bảo hàng năm</td></tr><tr><td>1 - 2</td><td>4,5%</td></tr><tr><td>3 - 5</td><td>4%</td></tr><tr><td>6 - 10</td><td>3%</td></tr><tr><td>11 - 20</td><td>2%</td></tr><tr><td>21+</td><td>1,5%</td></tr></table>
+
+
+## 5.5. Quyền lợi thưởng duy trì hợp đồng 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực, Quyền lợi thưởng duy trì hợp đồng bằng tỷ lệ phần trăm của Phí bảo hiểm cơ bản theo định kỳ năm sẽ được tích lũy ngay vào Giá trị tài khoản tại các Ngày kỷ niệm hợp đồng như quy định trong bảng sau, với điều kiện trong thời gian xét thưởng, Phí bảo hiểm cơ bản được đóng đầy đủ hàng năm và tổng các khoản rút từ Giá trị tài khoản không vượt quá Phí bảo hiểm cơ bản theo định kỳ năm: 
+
+
+<table><tr><td>Ngày kỷ niệm hợp đồng</td><td>Thưởng duy trì hợp đồng<br/>(% của Phí bảo hiểm cơ bản theo định kỳ năm)</td></tr><tr><td>Lần thứ 5</td><td>10%</td></tr><tr><td>Lần thứ 10</td><td>75%</td></tr><tr><td>Lần thứ 15</td><td>150%</td></tr><tr><td>Lần thứ 20</td><td>200%</td></tr><tr><td>Lần thứ 25</td><td>200%</td></tr><tr><td>Lần thứ 30</td><td>200%</td></tr></table>
+
+
+Thời gian xét thưởng là mỗi 5 Năm hợp đồng bắt đầu từ Năm hợp đồng thứ 1, 6, 11, 16, 21 và 26. 
+
+
+## 5.6. Quyền lợi thưởng đồng hành 
+
+
+Kể từ Năm hợp đồng thứ 11 trở đi, vào cuối mỗi Năm hợp đồng, 2% của tổng các khoản Phí bảo hiểm cơ bản đã đóng trong Năm hợp đồng đó sẽ được tích lũy vào Giá trị tài khoản, với điều kiện Phí bảo hiểm cơ bản được đóng đầy đủ hàng năm từ Năm hợp đồng thứ 6 đến Năm hợp đồng thứ 10 và Bên mua bảo hiểm không rút từ Giá trị tài khoản trong Năm hợp đồng liền kề trước đó.
+
+
+## 5.7. Quyền lợi đáo hạn 
+
+
+Nếu Hợp đồng bảo hiểm còn hiệu lực và Người được bảo hiểm còn sống vào Ngày đáo hạn hợp đồng, Công ty sẽ chi trả Giá trị tài khoản vào Ngày đáo hạn hợp đồng, trừ Khoản nợ (nếu có). 
+
+
+## ĐIỀU 6: ĐIỀU KHOẢN LOẠI TRỪ 
+
+
+## 6.1. Điều khoản loại trừ của Quyền lợi tử vong: 
+
+
+Công ty sẽ không chi trả Quyền lợi tử vong tại Điều 5.1 trong trường hợp Người được bảo hiểm tử vong do: 
+
+
+- Hành động tự tử trong vòng 2 năm kể từ Ngày hiệu lực hợp đồng hoặc ngày khôi phục hiệu lực hợp đồng gần nhất (nếu có). 
+
+
+Ngoài ra, trong trường hợp Bên mua bảo hiểm tăng Số tiền bảo hiểm, loại trừ bảo hiểm do nguyên nhân tự tử quy định tại Điều này sẽ được áp dụng cho phần tăng thêm của Số tiền bảo hiểm trong vòng 2 năm tính từ ngày có hiệu lực của việc tăng Số tiền bảo hiểm; 
+
+
+- Hành vi cố ý của Bên mua bảo hiểm, Người thụ hưởng đối với Người được bảo hiểm. 
+
+
+Trong trường hợp một hoặc một số Người thụ hưởng cố ý gây ra cái chết cho Người được bảo hiểm, Công ty chỉ trả tiền bảo hiểm cho những Người thụ hưởng khác tương ứng với phần thuộc về những Người thụ hưởng này; 
+
+
+- Từ vong do bị thi hành án tử hình; 
+
+
+- Hội chứng suy giảm miễn dịch mắc phải AIDS, các bệnh có liên quan đến AIDS hay do vi rút gây bệnh AIDS, ngoại trừ trường hợp nhiễm HIV trong khi đang thực hiện nhiệm vụ tại nơi làm việc như là một nhân viên y tế hoặc công an, cảnh sát; 
+
+
+- Bệnh có sẵn. 
+
+
+## 6.2. Điều khoản loại trừ của Quyền lợi Thương tật toàn bộ vĩnh viễn: 
+
+
+Công ty sẽ không chi trả Quyền lợi Thương tật toàn bộ vĩnh viễn tại Điều 5.2 trong trường hợp Người được bảo hiểm bị Thương tật toàn bộ vĩnh viễn do: 
+
+
+- Sử dụng chất kích thích, ma túy, hoặc cố tình tự gây thương tích trong lúc tỉnh táo hay mất trí; 
+
+
+- Chiến tranh hoặc các hoạt động gây chiến, bao gồm hành động xâm lược, hành động của nước thù địch, chiến tranh (tuyên chiến hay không tuyên chiến), nội chiến, nổi loạn, cách mạng, khởi nghĩa, đảo chính quân sự hoặc tiếm quyền; 
+
+
+- Hành vi cố ý của Bên mua bảo hiểm, Người được bảo hiểm hoặc Người thụ hưởng. Trong trường hợp là Người thụ hưởng, Công ty sẽ chỉ trả quyền lợi bảo hiểm cho Người thụ hưởng được chỉ định nào không tham gia vào các hành vi đó và theo phần quyền lợi bảo hiểm được chỉ định hoặc theo tỷ lệ; 
+
+
+- Phục vụ cho quân đội vào thời gian chiến tranh có tuyên chiến hay không tuyên chiến, hoặc hành động theo mệnh lệnh chiến đấu hay lập lại trật tự công cộng;
+
+
+- Tham gia các môn thể thao nguy hiểm, kể cả với tư cách là vận động viên chuyên nghiệp, ví dụ như lặn có bình dưỡng khí, nhảy bungee, nhảy dù, leo núi, đua ngựa hay đua trên các phương tiện có bánh xe; 
+
+
+- Lên, xuống, vận hành, phục vụ, hoặc đang được chở trên các thiết bị hoặc phương tiện vận chuyển hàng không trừ trường hợp khi Người được bảo hiểm, với tư cách là một hành khách, đi trên các chuyến bay thương mại với các lịch trình thường xuyên trên các tuyến đường đã được xác lập; 
+
+
+- Điều trị nhiễm bức xạ hoặc nhiễm phóng xạ; 
+
+
+- Hành vi phạm tội hoặc cố tình tham gia vào các hành vi phạm tội, hoặc hành vi vi phạm pháp luật của Người được bảo hiểm; 
+
+
+- Bệnh có sẵn. 
+
+
+## 6.3. Điều khoản loại trừ của Quyền lợi Ung thư giai đoạn cuối: 
+
+
+Công ty sẽ không chi trả Quyền lợi Ung thư giai đoạn cuối tại Điều 5.3 trong trường hợp Người được bảo hiểm bị Ung thư giai đoạn cuối do: 
+
+
+- Hội chứng suy giảm miễn dịch mắc phải AIDS, các bệnh có liên quan đến AIDS hay do vi rút gây bệnh AIDS, ngoại trừ trường hợp nhiễm HIV trong khi đang thực hiện nhiệm vụ tại nơi làm việc như là một nhân viên y tế hoặc công an, cảnh sát; 
+
+
+- Bệnh có sẵn. 
+
+
+6.4. Khi Người được bảo hiểm tử vong trong những trường hợp quy định tại Điều 6.1, Công ty không chi trả quyền lợi bảo hiểm, Hợp đồng bảo hiểm chấm dứt hiệu lực, Công ty sẽ trả cho Bên mua bảo hiểm giá trị nào lớn hơn giữa: 
+
+
+- tổng phí bảo hiểm của sản phẩm chính đã đóng (không có lãi), trừ (các) khoản tiền đã rút (nếu có); hoặc 
+
+
+- Giá trị hoàn lại (nếu có) tại thời điểm Người được bảo hiểm tử vong 
+
+
+trừ Khoản nợ (nếu có) và chi phí xét nghiệm y khoa (nếu có). 
+
+
+Nếu Người được bảo hiểm tử vong do tự tử trong vòng 2 năm kể từ ngày tăng Số tiền bảo hiểm nhưng ngày này đã vượt quá 2 năm kể từ Ngày hiệu lực hợp đồng hoặc ngày khôi phục hiệu lực hợp đồng gần nhất (nếu có), Công ty sẽ chi trả quyền lợi bảo hiểm theo Số tiền bảo hiểm trước khi tăng. 
+
+
+Khi Người được bảo hiểm bị Thương tật toàn bộ vĩnh viễn trong những trường hợp quy định tại Điều 6.2, 
+
+
+- Nếu Bên mua bảo hiểm yêu cầu chấm dứt Hợp đồng bảo hiểm, Hợp đồng bảo hiểm sẽ chấm dứt hiệu lực và Công ty sẽ trả cho Bên mua bảo hiểm giá trị nào lớn hơn giữa: 
+
+
+• tổng phí bảo hiểm của sản phẩm chính đã đóng (không có lãi), trừ (các) khoản tiền đã rút (nếu có); hoặc 
+
+
+• Giá trị hoàn lại (nếu có) tại thời điểm Người được bảo hiểm bị Thương tật toàn bộ vĩnh viễn
+
+
+trừ Khoản nợ (nếu có) và chi phí xét nghiệm y khoa (nếu có). 
+
+
+- Nếu Bên mua bảo hiểm muốn tiếp tục tham gia Hợp đồng bảo hiểm, Hợp đồng bảo hiểm sẽ duy trì hiệu lực và Người được bảo hiểm vẫn tiếp tục được bảo vệ cho các trường hợp không thuộc điều khoản loại trừ này. 
+
+
+## ĐIỀU 7: CÁC KHOẢN PHÍ CÓ THỂ KHẨU TRỪ 
+
+
+Tất cả các khoản phí quy định tại đây có thể được thay đổi tùy thuộc vào sự chấp thuận của Bộ Tài chính. Mọi thay đổi sau khi được Bộ Tài chính chấp thuận sẽ được thông báo với Bên mua bảo hiểm bằng văn bản ít nhất 3 tháng trước thời điểm áp dụng. 
+
+
+### 7.1. Phí ban đầu
+là toàn bộ các khoản phí mà Công ty được phép khấu trừ từ Phí bảo hiểm cơ bản và Phí bảo hiểm đóng thêm thu được tại mỗi lần đóng phí trước khi được phân bổ vào Giá trị tài khoản. Phí ban đầu được khấu trừ theo tỷ lệ sau: 
+
+
+<table><tr><td>Năm hợp đồng</td><td>1</td><td>2</td><td>3</td><td>4 - 5</td><td>6 - 10</td><td>11+</td></tr><tr><td>Phí bảo hiểm cơ bản</td><td>70%</td><td>64%</td><td>44%</td><td>4,5%</td><td>4,5%</td><td>0%</td></tr><tr><td>Phí bảo hiểm đóng thêm</td><td>5%</td><td>5%</td><td>5%</td><td>5%</td><td>2%</td><td>0%</td></tr></table>
+
+
+### 7.2. Phí bảo hiểm rủi ro
+là khoản phí được khấu trừ hàng tháng để đảm bảo chi trả các quyền lợi bảo hiểm rủi ro theo hợp đồng. Trong thời gian Hợp đồng bảo hiểm có hiệu lực, Phí bảo hiểm rủi ro được khấu trừ từ Giá trị tài khoản vào mỗi Ngày kỷ niệm tháng hợp đồng, trừ trường hợp được quy định tại Điều 5.3. 
+
+
+### 7.3. Phí quản lý hợp đồng
+là khoản phí được khấu trừ hàng tháng từ Giá trị tài khoản vào mỗi Ngày kỷ niệm tháng hợp đồng để chi trả cho việc quản lý, duy trì Hợp đồng bảo hiểm và cung cấp các thông tin liên quan đến Hợp đồng bảo hiểm cho Bên mua bảo hiểm. 
+
+
+Phí quản lý hợp đồng là 30.000 đồng/tháng trong năm 2018 và tự động tăng 2.000 đồng mỗi năm dương lịch sau đó. Trong mọi trường hợp, Phí quản lý hợp đồng không vượt quá 60.000 đồng/tháng. 
+
+
+### 7.4. Phí quản lý quỹ
+được dùng để chi trả cho các hoạt động đầu tư và quản lý Quỹ Liên kết chung. Phí quản lý quỹ được tính trên Giá trị tài khoản, không vượt quá 2%/năm. Phí quản lý quỹ được khấu trừ trước khi Công ty công bố lãi suất tích lũy. 
+
+
+### 7.5. Phí hủy hợp đồng trước hạn
+là khoản phí mà Bên mua bảo hiểm phải chịu khi hủy hợp đồng trước hạn. Phí hủy hợp đồng trước hạn được tính bằng tỷ lệ phần trăm của Phí bảo hiểm cơ bản theo định kỳ năm tại thời điểm yêu cầu chấm dứt Hợp đồng bảo hiểm như quy định trong bảng sau: 
+
+
+<table><tr><td>Năm hợp đồng</td><td>1-3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10+</td></tr><tr><td>% Phí bảo hiểm cơ bản theo định kỳ năm</td><td>100%</td><td>90%</td><td>85%</td><td>80%</td><td>70%</td><td>50%</td><td>30%</td><td>0%</td></tr></table>
+
+
+### 7.6. Phí rút từ Giá trị tài khoản
+là khoản phí mà Bên mua bảo hiểm phải chịu khi yêu cầu rút một phần từ Giá trị tài khoản. Trong mỗi Năm hợp đồng: 
+
+
+- Trong lần rút đầu tiên, Công ty sẽ không tính Phí rút từ Giá trị tài khoản trên số tiền rút nhỏ hơn hoặc bằng 20% Giá trị hoàn lại sau khi trừ Khoản nợ (nếu có). Nếu Bên
+
+
+mua bảo hiểm yêu cầu rút lớn hơn 20% Giá trị hoàn lại sau khi trừ Khoản nợ (nếu có), Phí rút từ Giá trị tài khoản sẽ được tính bằng 2% của số tiền vượt quá 20% Giá trị hoàn lại sau khi trừ Khoản nợ (nếu có), nhưng không thấp hơn 100.000 đồng. 
+
+
+- Kể từ lần rút thứ hai trở đi, Phí rút từ Giá trị tài khoản bằng 2% của số tiền rút, nhưng không thấp hơn 100.000 đồng. 
+
+
+Công ty sẽ không tính Phí rút từ Giá trị tài khoản kể từ Năm hợp đồng thứ 10 trở đi. 
+
+
+## ĐIỀU 8: ĐÓNG PHÍ BẢO HIỂM 
+
+
+Trong 3 Năm hợp đồng đầu tiên, Bên mua bảo hiểm có trách nhiệm đóng Phí bảo hiểm định kỳ đầy đủ và đúng hạn để duy trì hiệu lực hợp đồng, ngay cả khi không nhận được thông báo của Công ty về việc đóng phí bảo hiểm. 
+
+
+Kể từ Năm hợp đồng thứ 4 trở đi, Bên mua bảo hiểm có thể đóng phí bảo hiểm vào bất kỳ thời điểm nào để đảm bảo duy trì Giá trị tài khoản không thấp hơn Khoản khấu trừ hàng tháng. 
+
+
+## ĐIỀU 9: THỜI GIAN GIA HẠN ĐÓNG PHÍ 
+
+
+Thời gian gia hạn đóng phí là 60 ngày kể từ Ngày đến hạn đóng phí trong 3 Năm hợp đồng đầu tiên hoặc thời điểm Giá trị tài khoản nhỏ hơn Khoản khấu trừ hàng tháng. Trong thời gian gia hạn đóng phí này, Công ty không tính lãi suất đối với khoản phí chưa thanh toán và Hợp đồng bảo hiểm vẫn có hiệu lực. 
+
+
+Nếu Bên mua bảo hiểm không tiếp tục đóng phí bảo hiểm khi kết thúc thời gian gia hạn đóng phí, Hợp đồng bảo hiểm sẽ mất hiệu lực. 
+
+
+## ĐIỀU 10: KHỐI PHỤC HIỆU LỰC HỢP ĐỒNG 
+
+
+## 10.1. Khi Hợp đồng bảo hiểm mất hiệu lực, Bên mua bảo hiểm có thể yêu cầu khôi phục hiệu lực hợp đồng nếu đáp ứng tất cả các điều kiện sau: 
+
+
+- Bên mua bảo hiểm đưa ra yêu cầu khôi phục hiệu lực hợp đồng trong thời gian 24 tháng kể từ ngày mất hiệu lực hợp đồng; 
+
+
+- Bên mua bảo hiểm và Người được bảo hiểm đủ điều kiện tham gia theo quy định của Quy tắc và Điều khoản sản phẩm này. 
+
+
+- Bên mua bảo hiểm đóng các khoản tiền cần thiết như sau: 
+
+
+• Trường hợp mất hiệu lực do không đóng đủ Phí bảo hiểm định kỳ trong 3 Năm hợp đồng đầu tiên: đóng toàn bộ các khoản Phí bảo hiểm định kỳ quá hạn. 
+
+
+• Trường hợp mất hiệu lực do Giá trị tài khoản nhỏ hơn Khoản khấu trừ hàng tháng: đóng tối thiểu 1 khoản Phí bảo hiểm định kỳ hoặc 3 khoản Phí bảo hiểm định kỳ nếu là định kỳ đóng phí tháng sao cho Giá trị tài khoản sau khi trừ Khoản nợ (nếu có) phải lớn hơn 0. 
+
+
+10.2. Nếu được Công ty chấp nhận yêu cầu khôi phục hiệu lực hợp đồng, thời điểm có hiệu lực của việc khôi phục hợp đồng này được tính từ ngày Công ty xác nhận chấp thuận việc khôi phục hiệu lực hợp đồng bằng văn bản, với điều kiện cả Bên mua bảo hiểm và Người được bảo hiểm phải còn sống vào thời điểm Công ty chấp thuận khôi phục hiệu lực hợp đồng. Công ty không bảo hiểm cho những sự kiện bảo hiểm xảy ra trong thời gian mất hiệu lực hợp đồng.
+
+
+## ĐIỀU 11: MIỄN TRUY XÉT 
+
+
+Khi Người được bảo hiểm còn sống, các nội dung kê khai không chính xác hoặc bỏ sót trong Hồ sơ yêu cầu bảo hiểm và các giấy tờ có liên quan sẽ được Công ty miễn truy xét sau 24 tháng kể từ Ngày hiệu lực hợp đồng, hoặc kể từ ngày khôi phục hiệu lực hợp đồng gần nhất, hoặc kể từ ngày tăng Số tiền bảo hiểm gần nhất. 
+
+
+Quy định trên sẽ không được áp dụng trong trường hợp Bên mua bảo hiểm đã cố ý kê khai không trung thực những thông tin mà nếu biết được những thông tin đó, Công ty sẽ từ chối chấp thuận bảo hiểm hoặc chỉ chấp thuận bảo hiểm có điều kiện. 
+
+
+## ĐIỀU 12: TRÁCH NHIỆM KÊ KHAI, CUNG CẤP VÀ BẢO MẬT THÔNG TIN 
+
+
+## 12.1. Trách nhiệm cung cấp, giải thích đầy đủ, trung thực và chính xác thông tin cho Bên mua bảo hiểm của Công ty 
+
+
+Công ty có trách nhiệm cung cấp đầy đủ thông tin liên quan đến Hợp đồng bảo hiểm, giải thích các điều kiện, điều khoản bảo hiểm cho Bên mua bảo hiểm/Người được bảo hiểm. 
+
+
+Trường hợp Công ty cố ý cung cấp thông tin sai sự thật nhằm giao kết hợp đồng thì Bên mua bảo hiểm có quyền đơn phương đình chỉ thực hiện Hợp đồng bảo hiểm; Công ty phải bồi thường thiệt hại phát sinh cho Bên mua bảo hiểm do việc cung cấp thông tin sai sự thật. 
+
+
+## 12.2. Trách nhiệm kê khai thông tin trung thực, đầy đủ và chính xác của Bên mua bảo hiểm/Người được bảo hiểm 
+
+
+Bên mua bảo hiểm (và Người được bảo hiểm trong trường hợp bảo hiểm nhóm) có trách nhiệm kê khai đầy đủ và trung thực theo hiểu biết của mình tất cả các thông tin cần thiết để Công ty đánh giá khả năng chấp nhận bảo hiểm cho Hợp đồng bảo hiểm này. Việc thẩm định sức khỏe, nếu có, không thay thế cho nghĩa vụ kê khai trung thực của Bên mua bảo hiểm/Người được bảo hiểm theo quy định tại Điều này. 
+
+
+Nếu Bên mua bảo hiểm/Người được bảo hiểm cố ý kê khai không trung thực các thông tin cần thiết theo yêu cầu của Công ty, theo đó, nếu với thông tin chính xác, Công ty sẽ không chấp nhận bảo hiểm, Công ty không có trách nhiệm chi trả các quyền lợi bảo hiểm và có quyền đơn phương đình chỉ Hợp đồng bảo hiểm này ngay sau khi phát hiện ra hành vi vi phạm của Bên mua bảo hiểm/Người được bảo hiểm. Trong trường hợp này, Công ty sẽ hoàn trả cho Bên mua bảo hiểm toàn bộ phí bảo hiểm đã đóng (không có lãi), trừ các khoản sau đây (nếu có): Khoản nợ, chi phí khám sức khỏe, các khoản rút tiền từ Giá trị tài khoản và các quyền lợi đã được chi trả trước đó. 
+
+
+Trong trường hợp Bên mua bảo hiểm và/hoặc Người được bảo hiểm vi phạm nghĩa vụ kê khai thông tin tại Điều này nhưng việc vi phạm này không làm ảnh hưởng tới quyết định chấp thuận bảo hiểm hoặc quyết định khôi phục hiệu lực Hợp đồng bảo hiểm theo quy định của Công ty tại từng thời điểm, Công ty vẫn sẽ chi trả quyền lợi bảo hiểm nếu có sự kiện bảo hiểm xảy ra theo Quy tắc và Điều khoản của sản phẩm này. 
+
+
+Trong trường hợp Hợp đồng bảo hiểm tiếp tục duy trì hiệu lực, Công ty và Bên mua bảo hiểm có thể thỏa thuận về việc thu thêm khoản Phí bảo hiểm rủi ro hoặc điều chỉnh Số tiền bảo hiểm giảm tương ứng với mức rủi ro (nếu có).
+
+
+## 12.3. Trách nhiệm bảo mật thông tin khách hàng của Công ty 
+
+
+Công ty không được chuyển giao thông tin cá nhân do Bên mua bảo hiểm/Người được bảo hiểm cung cấp tại Hợp đồng bảo hiểm cho bất kỳ bên thứ ba nào khác, trừ các trường hợp sau đây: 
+
+
+a) Thu thập, sử dụng, chuyển giao theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc cho mục đích thẩm định, tính toán phí bảo hiểm, phát hành Hợp đồng bảo hiểm, thu phí bảo hiểm, tái bảo hiểm, trích lập dự phòng nghiệp vụ, giải quyết chi trả quyền lợi bảo hiểm, nghiên cứu thiết kế sản phẩm, phòng chống trục lợi bảo hiểm, nghiên cứu, đánh giá tình hình tài chính, khả năng thanh toán, mức độ đầy đủ vốn, yêu cầu vốn. 
+
+
+b) Các trường hợp khác được Bên mua bảo hiểm/Người được bảo hiểm đồng ý bằng văn bản, với điều kiện: 
+
+
+- Bên mua bảo hiểm/Người được bảo hiểm phải được thông báo về mục đích chuyển giao thông tin và được quyền lựa chọn giữa đồng ý hoặc không đồng ý với việc chuyển giao đó; và 
+
+
+- Việc Bên mua bảo hiểm/Người được bảo hiểm từ chối cho phép chuyển giao thông tin cho bên thứ ba ngoài điểm a khoản này không được sử dụng làm lý do để từ chối giao kết hợp đồng. 
+
+
+Bên mua bảo hiểm/Người được bảo hiểm có quyền yêu cầu Công ty bằng văn bản cung cấp những thông tin cá nhân mà Công ty đã thu thập, lưu trữ của Bên mua bảo hiểm/Người được bảo hiểm. 
+
+
+Nếu có bất kỳ thắc mắc, khiếu nại liên quan đến bảo mật thông tin, Bên mua bảo hiểm/Người được bảo hiểm liên hệ với Công ty để được giải đáp. 
+
+
+## ĐIỀU 13: NHẢM LÃN KHI KÊ KHAI TUỔI, GIỚI TÍNH 
+
+
+Trường hợp nhầm lẫn khi kê khai ngày sinh hoặc giới tính của Người được bảo hiểm, Phí bảo hiểm rủi ro, và/hoặc Số tiền bảo hiểm sẽ được điều chỉnh lại theo tuổi và/hoặc giới tính đúng. Cụ thể như sau: 
+
+
+- Nếu Phí bảo hiểm rủi ro đã khấu trừ thấp hơn Phí bảo hiểm rủi ro được tính trên cơ sở tuổi và/hoặc giới tính đúng, Công ty sẽ khấu trừ phần Phí bảo hiểm rủi ro còn thiếu vào Giá trị tài khoản cho phù hợp với tuổi và/hoặc giới tính đúng. 
+
+
+- Nếu Phí bảo hiểm rủi ro đã khấu trừ cao hơn Phí bảo hiểm rủi ro được tính trên cơ sở tuổi và/hoặc giới tính đúng, Công ty sẽ hoàn lại phần chênh lệnh của Phí bảo hiểm rủi ro đã khấu trừ vào Giá trị tài khoản. 
+
+
+- Nếu theo tuổi và/hoặc giới tính đúng, Người được bảo hiểm không thể được bảo hiểm thì Công ty có quyền hủy Hợp đồng bảo hiểm và trả cho Bên mua bảo hiểm giá trị nào lớn hơn giữa: 
+
+
+• tổng phí bảo hiểm của sản phẩm chính đã đóng (không có lãi), trừ (các) khoản tiền đã rút (nếu có); hoặc 
+
+
+• Giá trị hoàn lại (nếu có) tại thời điểm Hợp đồng bảo hiểm bị hủy 
+
+
+trừ Khoản nợ (nếu có) và chi phí xét nghiệm y khoa (nếu có).
+
+
+## ĐIỀU 14: CHẤM DỨT HỢP ĐỒNG BẢO HIỂM 
+
+
+Hợp đồng bảo hiểm sẽ tự động chấm dứt hiệu lực nếu một trong các sự kiện sau xảy ra, tùy thuộc vào sự kiện nào xảy ra trước: 
+
+
+- Ngày đáo hạn hợp đồng; hoặc 
+
+
+- Người được bảo hiểm tử vong; hoặc 
+
+
+- Quyền lợi Thương tật toàn bộ vĩnh viễn được Công ty chấp thuận chi trả; hoặc 
+
+
+- Hợp đồng bảo hiểm chấm dứt hiệu lực theo các điều kiện và điều khoản được quy định tại Quy tắc và Điều khoản sản phẩm này. 
+
+
+Các sản phẩm bổ sung đính kèm (nếu có) sẽ chấm dứt hiệu lực nếu Hợp đồng bảo hiểm của sản phẩm chính chấm dứt hiệu lực. 
+
+
+Ngoài các quy định về việc chấm dứt Hợp đồng bảo hiểm tại các quy định nêu trên, Bên mua bảo hiểm có quyền yêu cầu chấm dứt Hợp đồng bảo hiểm bằng cách gửi thông báo bằng văn bản cho Công ty trong thời gian Hợp đồng bảo hiểm có hiệu lực. Ngày chấm dứt Hợp đồng bảo hiểm là ngày Công ty nhận được giấy yêu cầu chấm dứt hiệu lực Hợp đồng bảo hiểm của Bên mua bảo hiểm. 
+
+
+Nếu Bên mua bảo hiểm yêu cầu chấm dứt Hợp đồng bảo hiểm và Hợp đồng bảo hiểm đã có Giá trị hoàn lại, Bên mua bảo hiểm sẽ nhận được Giá trị hoàn lại trừ Khoản nợ (nếu có) vào thời điểm chấm dứt Hợp đồng bảo hiểm. Nếu Hợp đồng bảo hiểm chưa có Giá trị hoàn lại, Bên mua bảo hiểm sẽ không được nhận lại bất kỳ khoản tiền nào. 
+
+
+## ĐIỀU 15: THÔNG TIN VỀ QUỸ LIÊN KẾT CHUNG VÀ GIÁ TRỊ TÀI KHOẢN 
+
+
+## 15.1. Thông tin về Quỹ Liên kết chung 
+
+
+Quỹ Liên kết chung được hình thành từ phí bảo hiểm của các Hợp đồng bảo hiểm liên kết chung. Quỹ Liên kết chung được tách riêng khỏi Quỹ chủ sở hữu và các Quỹ chủ hợp đồng khác của Công ty. Công ty có quyền quyết định chính sách đầu tư và phương thức quản lý quỹ phù hợp với quy định của pháp luật hiện hành. 
+
+
+Công ty sẽ thực hiện chính sách đầu tư thận trọng bằng việc tập trung đầu tư chủ yếu vào các tài sản có thu nhập ổn định như trái phiếu Chính phủ, trái phiếu đô thị, trái phiếu doanh nghiệp và tiền gửi ngân hàng, đồng thời đầu tư vào các tài sản có tiềm năng tăng trưởng vốn như chứng khoán chưa niêm yết và chứng khoán đang được niêm yết trên Sàn giao dịch chứng khoán Việt Nam. 
+
+
+## 15.2. Thông tin về Giá trị tài khoản 
+
+
+Giá trị tài khoản được hình thành từ các khoản Phí bảo hiểm cơ bản và Phí bảo hiểm đóng thêm (nếu có) và điều chỉnh theo các giao dịch sau: 
+
+
+a) tăng thêm sau khi được cộng Phí bảo hiểm cơ bản và Phí bảo hiểm đóng thêm (nếu có); 
+
+
+b) tăng thêm sau khi được cộng tiền lãi từ lãi suất tích lũy; 
+
+
+c) tăng thêm sau khi được cộng Quyền lợi thưởng duy trì hợp đồng (nếu có);
+
+
+d) tăng thêm sau khi được cộng Quyền lợi thưởng đồng hành (nếu có); 
+
+
+e) giảm đi sau khi trừ Phí ban đầu (nếu có); 
+
+
+f) giảm đi sau khi trừ Khoản khấu trừ hàng tháng (nếu có); 
+
+
+g) giảm đi sau khi trừ các khoản rút tiền và Phí rút từ Giá trị tài khoản (nếu có); 
+
+
+h) giảm đi sau khi trừ Quyền lợi Ung thư giai đoạn cuối đã chi trả (nếu có). 
+
+
+## ĐIỀU 16: CÁC THAY ĐỔI TRONG QUÁ TRÌNH THỰC HIỆN HỢP ĐỒNG BÁO HIỂM 
+
+
+## 16.1. Thay đổi Người thụ hưởng 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực và Người được bảo hiểm còn sống, nếu được Người được bảo hiểm đồng ý bằng văn bản, Bên mua bảo hiểm có thể gửi yêu cầu thay đổi (những) Người thụ hưởng hoặc tỷ lệ thụ hưởng của mỗi Người thụ hưởng của Hợp đồng bảo hiểm cho Công ty. Việc thay đổi chỉ có hiệu lực khi Công ty chấp nhận và Công ty không chịu trách nhiệm về tính hợp pháp cũng như tranh chấp (nếu có) của Bên mua bảo hiểm hoặc những người liên quan đến việc chỉ định thay đổi Người thụ hưởng. 
+
+
+## 16.2. Thay đổi nghề nghiệp/nơi cư trú/ra khỏi lãnh thổ Việt Nam 
+
+
+Trường hợp Bên mua bảo hiểm và/hoặc Người được bảo hiểm thay đổi thông tin liên hệ, thông tin cá nhân, nghề nghiệp, Bên mua bảo hiểm phải thông báo bằng văn bản cho Công ty trong vòng 30 ngày kể từ ngày có thay đổi. 
+
+
+Nếu Người được bảo hiểm ra khỏi phạm vi lãnh thổ Việt Nam trong thời gian từ 3 tháng trở lên, Bên mua bảo hiểm phải thông báo bằng văn bản cho Công ty tối thiểu 30 ngày trước ngày Người được bảo hiểm xuất cảnh. 
+
+
+Đối với các thay đổi nêu trên, Công ty có thể thẩm định lại rủi ro có thể được bảo hiểm để (i) xác định lại mức Phí bảo hiểm rủi ro, (ii) loại trừ trách nhiệm bảo hiểm, (iii) giảm quyền lợi bảo hiểm, hoặc (iv) chấm dứt Hợp đồng bảo hiểm. Nếu Công ty chấm dứt Hợp đồng bảo hiểm, Công ty sẽ chi trả cho Bên mua bảo hiểm Giá trị hoàn lại tại thời điểm đó, trừ Khoản nợ (nếu có). Nếu Hợp đồng bảo hiểm chưa có Giá trị hoàn lại, Công ty sẽ hoàn lại số phí bảo hiểm đã đóng tương ứng với thời gian còn lại của Hợp đồng bảo hiểm (nếu có). 
+
+
+## 16.3. Thay đổi định kỳ đóng phí 
+
+
+Bên mua bảo hiểm có quyền yêu cầu thay đổi định kỳ đóng phí bảo hiểm, tùy thuộc vào sự chấp nhận của Công ty. Yêu cầu thay đổi định kỳ đóng phí bảo hiểm phải được lập thành văn bản và gửi cho Công ty chậm nhất 30 ngày trước Ngày đến hạn đóng phí. 
+
+
+## 16.4. Rút từ Giá trị tài khoản 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực, kể từ Năm hợp đồng thứ 4 trở đi, Bên mua bảo hiểm có quyền yêu cầu rút một phần Giá trị tài khoản bằng cách gửi yêu cầu bằng văn bản cho Công ty. 
+
+
+Trong mọi trường hợp, số tiền yêu cầu rút không được vượt quá 80% Giá trị hoàn lại
+
+
+tại thời điểm rút trừ Khoản nợ (nếu có). Giá trị tài khoản sau khi rút phải lớn hơn mức tối thiểu theo quy định của Công ty tại từng thời điểm. Phí rút từ Giá trị tài khoản sẽ được áp dụng theo quy định tại Điều 7.6. 
+
+
+Đối với lựa chọn Quyền lợi gia tăng tiết kiệm, Số tiền bảo hiểm sẽ bị điều chỉnh giảm nếu Giá trị tài khoản sau khi rút nhỏ hơn Số tiền bảo hiểm trước khi rút. Tuy nhiên, Số tiền bảo hiểm sau khi rút không được nhỏ hơn Số tiền bảo hiểm tối thiểu theo quy định của Công ty tại từng thời điểm. 
+
+
+## 16.5. Rút tiền định kỳ tự động 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực, kể từ Năm hợp đồng thứ 10 trở đi và sau khi Người được bảo hiểm đạt 65 tuổi, Bên mua bảo hiểm có quyền yêu cầu rút tiền định kỳ tự động mà không phải trả Phí rút từ Giá trị tài khoản, với điều kiện Giá trị tài khoản sau khi trừ Khoản nợ (nếu có) tại thời điểm yêu cầu lớn hơn mức tối thiểu theo quy định của Công ty tại từng thời điểm. Số tiền rút định kỳ tại mỗi lần rút sẽ do Bên mua bảo hiểm chọn. 
+
+
+Đối với lựa chọn Quyền lợi gia tăng tiết kiệm, Số tiền bảo hiểm sẽ bị điều chỉnh giảm nếu Giá trị tài khoản sau mỗi lần rút nhỏ hơn Số tiền bảo hiểm trước khi rút. 
+
+
+Việc rút tiền định kỳ tự động sẽ tạm dừng trong các trường hợp sau: 
+
+
+- Bên mua bảo hiểm thực hiện yêu cầu rút từ Giá trị tài khoản được quy định tại Điều 16.4; hoặc 
+
+
+- Giá trị tài khoản sau khi trừ Khoản nợ (nếu có) nhỏ hơn mức tối thiểu theo quy định của Công ty tại từng thời điểm; hoặc 
+
+
+- Số tiền bảo hiểm sau khi rút nhỏ hơn Số tiền bảo hiểm tối thiểu theo quy định của Công ty tại từng thời điểm. 
+
+
+## 16.6. Thay đổi Số tiền bảo hiểm 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực, Bên mua bảo hiểm có thể yêu cầu tăng hoặc giảm Số tiền bảo hiểm. Việc thay đổi Số tiền bảo hiểm sẽ có hiệu lực từ Ngày kỷ niệm tháng hợp đồng tiếp theo ngay sau khi Công ty chấp thuận yêu cầu thay đổi Số tiền bảo hiểm. Phí bảo hiểm cơ bản sẽ không thay đổi, nhưng Phí bảo hiểm rủi ro và các điều kiện khác có liên quan của Hợp đồng bảo hiểm sẽ được điều chỉnh tương ứng. 
+
+
+Trường hợp tăng Số tiền bảo hiểm, Người được bảo hiểm không được vượt quá 65 tuổi tại thời điểm yêu cầu và phải đáp ứng các yêu cầu về thẩm định của Công ty. Yêu cầu tăng Số tiền bảo hiểm chỉ được thực hiện khi Công ty vẫn còn đang cung cấp sản phẩm này. 
+
+
+Số tiền bảo hiểm sau khi thay đổi phải đáp ứng quy định của Công ty về Số tiền bảo hiểm tối thiểu và tối đa vào từng thời điểm. 
+
+
+## 16.7. Tăng Số tiền bảo hiểm không cần thẩm định 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực và trước khi Người được bảo hiểm đạt 56 tuổi, Bên mua bảo hiểm có thể yêu cầu tăng Số tiền bảo hiểm mà không cần thẩm định khi đáp ứng các điều kiện sau:
+
+
+i) Bên mua bảo hiểm yêu cầu tăng Số tiền bảo hiểm trong vòng 180 ngày kể từ ngày phát sinh một trong các sự kiện sau: 
+
+
+- Người được bảo hiểm kết hôn; hoặc 
+
+
+- Người được bảo hiểm/vợ của Người được bảo hiểm sinh con hoặc nhận con nuôi; hoặc 
+
+
+- Con của Người được bảo hiểm bắt đầu vào học cấp 1, hoặc cấp 2, hoặc cấp 3, hoặc đại học; hoặc 
+
+
+- Vợ/chồng của Người được bảo hiểm tử vong do tai nạn; và 
+
+
+ii) Người được bảo hiểm được thẩm định ở mức rủi ro chuẩn tại thời điểm phát hành Hợp đồng bảo hiểm, tăng Số tiền bảo hiểm hoặc khôi phục hiệu lực hợp đồng gần nhất, tùy ngày nào xảy ra sau; và 
+
+
+iii) Người được bảo hiểm chưa từng được chấp thuận giải quyết quyền lợi bảo hiểm liên quan đến bệnh hiểm nghèo hoặc bệnh ung thư cho bất kỳ Hợp đồng bảo hiểm nào của Công ty. 
+
+
+Số tiền bảo hiểm tăng thêm tối đa là 50% Số tiền bảo hiểm tại thời điểm phát hành hợp đồng nhưng không vượt quá 500.000.000 đồng. Số tiền bảo hiểm sau khi tăng không vượt quá Số tiền bảo hiểm tối đa theo quy định của Công ty. 
+
+
+Số tiền bảo hiểm sau khi tăng sẽ có hiệu lực vào Ngày kỷ niệm tháng hợp đồng ngay sau khi yêu cầu tăng Số tiền bảo hiểm được Công ty chấp thuận. Phí bảo hiểm cơ bản sẽ không thay đổi. Tuy nhiên, Phí bảo hiểm rủi ro và các điều kiện khác có liên quan của Hợp đồng bảo hiểm sẽ được điều chỉnh tương ứng. 
+
+
+Quyền thực hiện tăng Số tiền bảo hiểm không cần thẩm định chỉ được thực hiện 1 lần trong suốt Thời hạn bảo hiểm. 
+
+
+## 16.8. Tạm dừng đóng phí 
+
+
+Kể từ Năm hợp đồng thứ 4, Bên mua bảo hiểm có quyền tạm dừng đóng phí. Hợp đồng bảo hiểm vẫn còn hiệu lực với điều kiện Giá trị tài khoản lớn hơn Khoản khấu trừ hàng tháng. 
+
+
+Tuy nhiên, việc tạm dừng đóng phí có thể ảnh hưởng đến quyền lợi bảo hiểm và Hợp đồng bảo hiểm có thể bị mất hiệu lực theo quy định tại Điều 9. 
+
+
+## 16.9. Tham gia hoặc chấm dứt hiệu lực (các) sản phẩm bổ sung 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực, Bên mua bảo hiểm có thể tham gia hoặc chấm dứt hiệu lực (các) sản phẩm bổ sung. 
+
+
+Bên mua bảo hiểm có thể tham gia (các) sản phẩm bổ sung với điều kiện: 
+
+
+- (Các) Người được bảo hiểm đáp ứng đủ các yêu cầu về thẩm định; và 
+
+
+- Phí bảo hiểm của (các) sản phẩm bổ sung được đóng đầy đủ theo quy định của Công ty; và 
+
+
+- (Các) sản phẩm bổ sung này đang được Công ty cung cấp tại thời điểm yêu cầu tham gia.
+
+
+## 16.10. Chuyển nhượng hợp đồng bảo hiểm 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực và Người được bảo hiểm còn sống, Bên mua bảo hiểm có thể chuyển nhượng toàn bộ Hợp đồng bảo hiểm cho cá nhân khác (hoặc tổ chức khác trong trường hợp bảo hiểm nhóm) nếu việc chuyển nhượng phù hợp quy định tại Luật Kinh doanh Bảo hiểm, bên nhận chuyển nhượng phải đáp ứng yêu cầu về mối quan hệ có thể được bảo hiểm và đáp ứng các quy định của pháp luật liên quan tại thời điểm chuyển nhượng. 
+
+
+Việc chuyển nhượng Hợp đồng bảo hiểm chỉ có hiệu lực khi Bên mua bảo hiểm thông báo yêu cầu chuyển nhượng bằng văn bản và được Công ty chấp thuận và xác nhận việc chuyển nhượng đó bằng văn bản với điều kiện bên được chuyển nhượng thỏa mãn các yêu cầu của Quy tắc và Điều khoản sản phẩm tham gia và các quy định pháp luật liên quan. 
+
+
+Khi việc chuyển nhượng có hiệu lực, bên được chuyển nhượng sẽ có toàn bộ quyền lợi và nghĩa vụ của Bên mua bảo hiểm đối với Hợp đồng bảo hiểm. Tuy nhiên, Người được bảo hiểm (hoặc thành viên được bảo hiểm trong trường hợp bảo hiểm nhóm) của Hợp đồng bảo hiểm sẽ không thay đổi. 
+
+
+Công ty không chịu trách nhiệm về tính hợp pháp của việc chuyển nhượng giữa Bên mua bảo hiểm và bên được chuyển nhượng. 
+
+
+## ĐIỀU 17: THỦ TỤC GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM 
+
+
+## 17.1. Thứ tự ưu tiên nhận quyền lợi bảo hiểm 
+
+
+## 17.1.1. Đối với Quyền lợi đáo hạn: 
+
+
+a) Bên mua bảo hiểm là cá nhân: 
+
+
+- Bên mua bảo hiểm; 
+
+
+- Người thụ hưởng. Nếu có hơn một Người thụ hưởng, quyền lợi bảo hiểm sẽ được chi trả cho những Người thụ hưởng theo tỷ lệ đã được chi định. Nếu một Người thụ hưởng không còn sống, phần quyền lợi bảo hiểm của người này sẽ được chia theo tỷ lệ đã được chi định cho (những) Người thụ hưởng còn lại; 
+
+
+- Người thừa kế hợp pháp của Bên mua bảo hiểm. 
+
+
+## b) Bên mua bảo hiểm là tổ chức: 
+
+
+- Bên mua bảo hiểm; 
+
+
+- Người thụ hưởng. Nếu có hơn một Người thụ hưởng, quyền lợi bảo hiểm sẽ được chi trả cho những Người thụ hưởng theo tỷ lệ đã được chi định. Nếu một Người thụ hưởng không còn sống, phần quyền lợi bảo hiểm của người này sẽ được chia theo tỷ lệ đã được chi định cho (những) Người thụ hưởng còn lại; 
+
+
+- Người được bảo hiểm. 
+
+
+## 17.1.2. Đối với Quyền lợi tử vong: 
+
+
+a) Bên mua bảo hiểm là cá nhân:
+
+
+- Người thụ hưởng. Nếu có hơn một Người thụ hưởng, quyền lợi bảo hiểm sẽ được chi trả cho những Người thụ hưởng theo tỷ lệ đã được chi định. Nếu một Người thụ hưởng không còn sống, phần quyền lợi bảo hiểm của người này sẽ được chia theo tỷ lệ đã được chi định cho (những) Người thụ hưởng còn lại; 
+
+
+- Bên mua bảo hiểm; 
+
+
+- Người thừa kế hợp pháp của Bên mua bảo hiểm. 
+
+
+b) Bên mua bảo hiểm là tổ chức: 
+
+
+- Người thụ hưởng. Nếu có hơn một Người thụ hưởng, quyền lợi bảo hiểm sẽ được chi trả cho những Người thụ hưởng theo tỷ lệ đã được chi định. Nếu một Người thụ hưởng không còn sống, phần quyền lợi bảo hiểm của người này sẽ được chia theo tỷ lệ đã được chi định cho (những) Người thụ hưởng còn lại; 
+
+
+- Người thừa kế hợp pháp của Người được bảo hiểm. 
+
+
+17.1.3. Đối với Quyền lợi Thương tật toàn bộ vĩnh viễn và Quyền lợi Ung thư giai đoạn cuối: 
+
+
+a) Bên mua bảo hiểm là cá nhân: 
+
+
+- Bên mua bảo hiểm; 
+
+
+- Người thụ hưởng. Nếu có hơn một Người thụ hưởng, quyền lợi bảo hiểm sẽ được chi trả cho những Người thụ hưởng theo tỷ lệ đã được chi định. Nếu một Người thụ hưởng không còn sống, phần quyền lợi bảo hiểm của người này sẽ được chia theo tỷ lệ đã được chi định cho (những) Người thụ hưởng còn lại; 
+
+
+- Người thừa kế hợp pháp của Bên mua bảo hiểm. 
+
+
+b) Bên mua bảo hiểm là tổ chức: 
+
+
+- Người được bảo hiểm; 
+
+
+- Người thụ hưởng. Nếu có hơn một Người thụ hưởng, quyền lợi bảo hiểm sẽ được chi trả cho những Người thụ hưởng theo tỷ lệ đã được chi định. Nếu một Người thụ hưởng không còn sống, phần quyền lợi bảo hiểm của người này sẽ được chia theo tỷ lệ đã được chi định cho (những) Người thụ hưởng còn lại; 
+
+
+- Người thừa kế hợp pháp của Người được bảo hiểm. 
+
+
+## 17.2. Thời hạn nộp yêu cầu giải quyết quyền lợi bảo hiểm 
+
+
+Bên mua bảo hiểm hoặc Người thụ hưởng có nghĩa vụ thông báo cho Công ty về sự kiện bảo hiểm trong thời gian sớm nhất kể từ khi Bên mua bảo hiểm hoặc Người thụ hưởng biết được sự kiện bảo hiểm và cung cấp các chứng từ theo quy định để giải quyết quyền lợi bảo hiểm. Thời hạn nộp đơn yêu cầu giải quyết quyền lợi bảo hiểm tới Công ty tối đa là 1 năm kể từ ngày xảy ra sự kiện bảo hiểm, thời gian 1 năm này không bao gồm thời gian trì hoãn do các trở ngại khách quan và sự kiện bất khả kháng. 
+
+
+## 17.3. Hồ sơ yêu cầu chi trả quyền lợi bảo hiểm 
+
+
+a) Các tài liệu cần cung cấp trong trường hợp giải quyết quyền lợi bảo hiểm khi từ vong, gồm:
+
+
+- Bộ Hợp đồng bảo hiểm. Nếu bộ Hợp đồng bảo hiểm bị mất, người yêu cầu giải quyết quyền lợi bảo hiểm phải thông báo cho Công ty theo mẫu có sẵn; 
+
+
+- Giấy yêu cầu giải quyết quyền lợi bảo hiểm theo mẫu của Công ty; 
+
+
+- Bằng chứng về sự kiện tử vong (Trích lục chứng tử và/hoặc biên bản tai nạn, biên bản giải phẫu pháp y (nếu có trong trường hợp tử vong do tai nạn)), hoặc Hồ sơ y tế liên quan (Giấy ra viện, Bản sao hoặc hồ sơ tóm tắt bệnh án); 
+
+
+- Bản sao giấy tờ tùy thân của người nhận quyền lợi bảo hiểm (CMND hoặc hộ chiếu hoặc thẻ căn cước công dân); 
+
+
+- Tài liệu chứng minh quyền được nhận quyền lợi bảo hiểm (nếu có) như giấy tờ chứng minh mối quan hệ với Người được bảo hiểm, văn bản thỏa thuận phân chia tài sản thừa kế... 
+
+
+b) Các tài liệu cần cung cấp trong trường hợp giải quyết Quyền lợi Thương tật toàn bộ vĩnh viễn, gồm: 
+
+
+- Bộ Hợp đồng bảo hiểm. Nếu bộ Hợp đồng bảo hiểm bị mất, người yêu cầu giải quyết quyền lợi bảo hiểm phải thông báo cho Công ty theo mẫu có sẵn; 
+
+
+- Giấy yêu cầu giải quyết Quyền lợi bảo hiểm theo mẫu của Công ty; 
+
+
+- Bằng chứng về Thương tật toàn bộ vĩnh viễn (Kết quả giám định tình trạng thương tật do Hội đồng giám định Y khoa cấp tỉnh, thành phố cấp, và/hoặc biên bản tai nạn (nếu có, trong trường hợp thương tật do tai nạn)), hoặc Hồ sơ y tế liên quan (Giấy ra viện, bản sao hoặc hồ sơ tóm tắt bệnh án); 
+
+
+- Bản công chứng, chứng thực hợp pháp hóa lãnh sự các giấy tờ, bằng chứng (bằng tiếng Anh hoặc tiếng Việt) cho trường hợp khám và điều trị ở nước ngoài; 
+
+
+- Bản sao giấy tờ tùy thân của người nhận quyền lợi bảo hiểm (CMND hoặc hộ chiếu hoặc thẻ căn cước công dân) 
+
+
+c) Các tài liệu cần cung cấp trong trường hợp giải quyết Quyền lợi Ung thư giai đoạn cuối, gồm: 
+
+
+- Giấy yêu cầu giải quyết Quyền lợi bảo hiểm theo mẫu của Công ty; 
+
+
+- Tóm tắt bệnh án hoặc bản sao hồ sơ bệnh án (sổ khám bệnh và các chứng từ y tế liên quan đến việc khám, chẩn đoán và điều trị) có chẩn đoán Ung thư giai đoạn cuối được cấp bởi Bệnh viện/cơ sở y tế; 
+
+
+- Chứng từ nằm viện (giấy ra viện, bản kê chi tiết viện phí điều trị, biên lai, hóa đơn viện phí); 
+
+
+- Bản công chứng, chứng thực hợp pháp hóa lãnh sự các giấy tờ, bằng chứng (bằng tiếng Anh hoặc tiếng Việt) cho trường hợp khám và điều trị ở nước ngoài; 
+
+
+- Bản sao giấy tờ tùy thân của người nhận quyền lợi bảo hiểm (CMND hoặc hộ chiếu hoặc thẻ căn cước công dân); 
+
+
+- Ngoài các giấy tờ nêu trên, Công ty có quyền yêu cầu cung cấp thêm các bằng
+
+
+chứng hoặc giấy tờ cần thiết khác để giúp cho việc giải quyết quyền lợi bảo hiểm. Chi phí cung cấp các chứng từ hoặc giấy tờ này do Công ty chi trả. 
+
+
+d) Các tài liệu cần cung cấp trong trường hợp giải quyết Quyền lợi đáo hạn, gồm: 
+
+
+- Bộ Hợp đồng bảo hiểm. Nếu bộ Hợp đồng bảo hiểm bị mất, người yêu cầu giải quyết quyền lợi bảo hiểm phải thông báo cho Công ty theo mẫu có sẵn; 
+
+
+- Giấy yêu cầu giải quyết quyền lợi bảo hiểm theo mẫu của Công ty; 
+
+
+- Bản sao giấy tờ tùy thân của Người nhận quyền lợi bảo hiểm (CMND hoặc hộ chiếu hoặc thẻ căn cước công dân). 
+
+
+## 17.4. Nghĩa vụ chứng minh 
+
+
+Sau khi nhận được đầy đủ hồ sơ yêu cầu chi trả quyền lợi bảo hiểm, nếu Công ty từ chối chi trả quyền lợi bảo hiểm thì Công ty phải nêu rõ lý do từ chối bằng văn bản cho người yêu cầu giải quyết quyền lợi bảo hiểm. 
+
+
+## 17.5. Thời gian giải quyết quyền lợi bảo hiểm 
+
+
+Công ty sẽ chi trả quyền lợi bảo hiểm trong vòng 5 ngày làm việc đối với Quyền lợi đáo hạn và tối đa không quá 30 ngày đối với quyền lợi khác kể từ ngày Công ty nhận được đầy đủ hồ sơ hợp lệ. 
+
+
+Nếu việc trì hoãn chi trả là do lỗi Công ty thì Công ty sẽ trả thêm tiền lãi của số tiền này. Mức lãi suất áp dụng cho khoản chi trả chậm này sẽ bằng với mức lãi suất tạm ứng từ Giá trị hoàn lại do Công ty công bố trên website chính thức của Công ty. 
+
+
+## ĐIỀU 18: LUẬT ÁP DỤNG VÀ GIẢI QUYẾT TRANH CHẤP 
+
+
+Hợp đồng bảo hiểm này được hướng dẫn và điều chỉnh bởi pháp luật của Việt Nam. 
+
+
+Mọi tranh chấp phát sinh từ Hợp đồng bảo hiểm này sẽ được giải quyết thông qua thương lượng giữa các bên. Trong trường hợp Bên mua bảo hiểm và Công ty không thể tự giải quyết được tranh chấp, mỗi bên có quyền đưa tranh chấp ra tòa án có thẩm quyền tại nơi bị đơn cư trú hoặc có trụ sở chính để giải quyết. 
+
+
+Thời hiệu khởi kiện là 3 năm kể từ thời điểm phát sinh tranh chấp.
+
+
+# QUY TÁC VÀ ĐIỀU KHOẢN SẢN PHẨM BẢO HIỂM BỔ SUNG - TAI NẠN TOÀN DIỆN 2020 (SẢN PHẨM BẢO HIỂM BỔ SUNG - SỐNG AN) 
+
+
+(Được chấp thuận theo Công văn số 14440/BTC-QLBH ngày 25/11/2020 của Bộ Tài chính) 
+
+
+## MỤC LỤC 
+
+
+ĐIỀU 1: QUYỀN LỢI BẢO HIỂM................................................................................................ 2 Bảng I – Chấn thương do Tai nạn........................................................................................ 2 Bảng II – Thương tật vĩnh viễn/Chấn thương nghiêm trọng do Tai nạn ..................................... 3 Bảng III – Tử vong do Tai nạn ................................................................................................ 4 ĐIỀU 2:  QUY ĐỊNH CHI TRẢ QUYỀN LỢI BẢO HIỂM ....................................................... 4 ĐIỀU 3: ĐIỀU KHOẢN LOẠI TRỪ ............................................................................................ 5 ĐIỀU 4: HỒ SƠ GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM: ........................................................ 6 ĐIỀU 5: PHÍ BẢO HIỂM VÀ QUY ĐỊNH ĐÓNG PHÍ ................................................................ 7 ĐIỀU 6: CHẤP NHẬN BẢO HIỂM CÓ ĐIỀU KIỆN ................................................................ 7 ĐIỀU 7: CÁC ĐIỀU KHOẢN KHÁC ........................................................................................ 8 ĐIỀU 8: ĐỊNH NGHĨA ............................................................................................................ 8
+
+
+“Sản phẩm bảo hiểm bổ sung” (sau đây gọi tắt là “sản phẩm bổ sung”): là sản phẩm bảo hiểm được tham gia kèm với một sản phẩm bảo hiểm chính (sau đây gọi tắt là “sản phẩm chính”) trong cùng một Hợp đồng bảo hiểm để bảo hiểm cho (những) người có quyền lợi có thể được bảo hiểm với Bên mua bảo hiểm được ghi nhận trong Hợp đồng bảo hiểm. 
+
+
+Tất cả các thuật ngữ sử dụng trong Quy tắc và Điều khoản sản phẩm bổ sung này đều được hiểu như những thuật ngữ trong Quy tắc và Điều khoản của sản phẩm bảo hiểm chính. Quy tắc và Điều khoản của sản phẩm bảo Hiểm chính sẽ được áp dụng cho sản phẩm bổ sung. Trong trường hợp có mâu thuẫn giữa sản phẩm chính và sản phẩm bổ sung, Quy tắc và Điều khoản sản phẩm bổ sung sẽ được áp dụng. 
+
+
+## ĐIỀU 1: QUYỀN LỢI BẢO HIỂM 
+
+
+Trong khi sản phẩm bổ sung này còn hiệu lực, ngoại trừ các trường hợp quy định tại Điều 3 của Quy tắc và Điều khoản sản phẩm bổ sung này, nếu Người được bảo hiểm bị Tai nạn dẫn đến Chấn thương, Thương tật vĩnh viễn, Chấn thương nghiêm trọng hoặc tử vong, Công ty sẽ chi trả tỷ lệ phần trăm của Số tiền bảo hiểm theo quy định tại Bảng chi tiết quyền lợi bảo hiểm và tại Điều 2 của Quy tắc và Điều khoản này, trừ các Khoản nợ (nếu có). 
+
+
+## BẢNG CHI TIẾT QUYỀN LỢI BẢO HIỂM 
+
+
+Bảng I – Chấn thương do Tai nạn 
+
+
+<table><tr><td>Chấn thương</td><td>Tỷ lệ phần trăm của Số tiền bảo hiểm</td><td>Mức chi trả tối đa trên một Tai nạn (triệu đồng)</td></tr><tr><td>A. Chấn thương cơ quan nội tạng</td><td></td><td></td></tr><tr><td>Chấn thương các cơ quan nội tạng và có trải qua phẫu thuật ở vùng ngực/bụng</td><td>15%</td><td>150</td></tr><tr><td>Tràn khí màng phổi và/hoặc tràn máu màng phổi</td><td>10%</td><td>100</td></tr><tr><td>B. Gãy xương</td><td></td><td></td></tr><tr><td>Nứt hoặc Vỡ xương sọ (loại trừ các xương mặt), và /hoặc Chấn thương sọ não có phẫu thuật mở hộp sọ</td><td>30%</td><td>300</td></tr><tr><td>Gãy một hoặc nhiều xương chậu</td><td>30%</td><td>300</td></tr><tr><td>Gãy một hoặc hai xương đùi</td><td>30%</td><td>300</td></tr><tr><td>Gãy một hoặc nhiều thân đốt sống</td><td>15%</td><td>120</td></tr><tr><td>Gãy xương hàm trên</td><td>5%</td><td>50</td></tr><tr><td>Gãy xương hàm dưới</td><td>5%</td><td>50</td></tr><tr><td>Gãy các xương mặt khác</td><td>5%</td><td>50</td></tr><tr><td>Gãy một hoặc nhiều xương sườn</td><td>5%</td><td>50</td></tr><tr><td>Gãy một hoặc nhiều các xương sau: Xương đòn, Xương cánh tay, Xương trụ, Xương quay và/hoặc Xương vai</td><td>5%</td><td>50</td></tr><tr><td>Gãy một hoặc cả hai xương bánh chè</td><td>5%</td><td>50</td></tr><tr><td>Gãy xương mác và xương chày</td><td>5%</td><td>50</td></tr><tr><td>Gãy một hoặc nhiều xương cố tay hoặc đốt bàn tay</td><td>2%</td><td>10</td></tr><tr><td>Vỡ mắt cá, hoặc gãy xương gót chân, hoặc xương sên</td><td>2%</td><td>10</td></tr></table>
+
+
+<table><tr><td>Gãy một hoặc nhiều xương đốt bàn chân</td><td>2%</td><td>10</td></tr><tr><td>Gãy một hoặc nhiều xương đốt ngón chân</td><td>1%</td><td>5</td></tr><tr><td>Gãy một hoặc nhiều xương đốt ngón tay</td><td>1%</td><td>5</td></tr><tr><td>C. Mô liên kết</td><td></td><td></td></tr><tr><td>Đứt một hoặc nhiều dây chằng của khớp gối của một chân</td><td>5%</td><td>50</td></tr><tr><td>D. Bông</td><td></td><td></td></tr><tr><td>Bông độ 3 từ 10% đến dưới 20% bề mặt cơ thể</td><td>50%</td><td>300</td></tr><tr><td>Bông độ 2 từ 20% bề mặt cơ thể trở lên</td><td>10%</td><td>100</td></tr></table>
+
+
+Bảng II – Thương tật vĩnh viễn/Chấn thương nghiêm trọng do Tai nạn 
+
+
+<table><tr><td>Thương tật vĩnh viễn/Chấn thương nghiêm trọng</td><td>Tỷ lệ phần trăm của Số tiền bảo hiểm</td></tr><tr><td colspan="2">A. Thương tật bộ phận vĩnh viễn</td></tr><tr><td colspan="2">Nhóm 1:</td></tr><tr><td>Mất một cánh tay</td><td>70%</td></tr><tr><td>Mất một bàn tay</td><td>50%</td></tr><tr><td>Mất bốn ngón tay của một bàn tay (không bao gồm ngón tay cái)</td><td>35%</td></tr><tr><td>Mất xương bàn tay ngón cái</td><td>18%</td></tr><tr><td>Mất một ngón tay cái</td><td>15%</td></tr><tr><td>Mất xương bàn tay ngón trỏ</td><td>13%</td></tr><tr><td>Mất một ngón tay trỏ</td><td>10%</td></tr><tr><td>Mất xương bàn tay ngón giữa</td><td>8%</td></tr><tr><td>Mất một ngón tay giữa</td><td>6%</td></tr><tr><td>Mất xương bàn tay ngón áp út</td><td>7%</td></tr><tr><td>Mất một ngón tay áp út</td><td>5%</td></tr><tr><td>Mất xương bàn tay ngón út</td><td>6%</td></tr><tr><td>Mất một ngón tay út</td><td>4%</td></tr><tr><td colspan="2">Nhóm 2:</td></tr><tr><td>Mất một chân</td><td>60%</td></tr><tr><td>Mất một bàn chân</td><td>50%</td></tr><tr><td>Mất tất cả các ngón chân của một bàn chân</td><td>25%</td></tr><tr><td>Mất một ngón chân cái</td><td>5%</td></tr><tr><td>Mất một ngón chân bất kỳ (khác ngón chân cái)</td><td>1%</td></tr><tr><td colspan="2">Nhóm 3:</td></tr><tr><td>Mất thị lực một mắt</td><td>50%</td></tr><tr><td>Mất thính lực một tai</td><td>25%</td></tr><tr><td colspan="2">B. Thương tật toàn bộ vĩnh viễn</td></tr></table>
+
+
+<table><tr><td>Thương tật dẫn đến mất khả năng lao động từ 81% trở lên</td><td>100%</td></tr><tr><td>Mất hoặc liệt hai tay</td><td>100%</td></tr><tr><td>Mất hoặc liệt hai chân</td><td>100%</td></tr><tr><td>Mất hoặc liệt một tay và một chân</td><td>100%</td></tr><tr><td>Mất thị lực hai mắt</td><td>100%</td></tr><tr><td>Mất hoặc liệt một tay và mất thị lực một mắt</td><td>100%</td></tr><tr><td>Mất hoặc liệt một chân và mất thị lực một mắt</td><td>100%</td></tr><tr><td>C. Chấn thương nghiêm trọng</td><td></td></tr><tr><td>Bỏng độ 3 từ 20% bề mặt cơ thể trở lên</td><td>100%</td></tr><tr><td>Hôn mê</td><td>100%</td></tr><tr><td>Chấn thương sọ não nghiêm trọng</td><td>100%</td></tr></table>
+
+
+Bảng III – Tử vong do Tai nạn 
+
+
+<table><tr><td>Tử vong</td><td>Tỷ lệ phần trăm của Số tiền bảo hiểm</td></tr><tr><td>Tử vong do Tai nạn khi đang là hành khách trên các chuyến bay thương mại có lịch trình được định sẵn và dành cho hành khách có mua vé</td><td>300%</td></tr><tr><td>Tử vong do Tai nạn khi đang là hành khách trên các Phương tiện giao thông công cộng</td><td rowspan="4">200%</td></tr><tr><td>Tử vong do Tai nạn trong các Ngày nghỉ Lễ/Tết của Việt Nam</td></tr><tr><td>Tử vong do Tai nạn hóa hoạn hoặc sự cố thang máy trong các Tòa nhà công cộng</td></tr><tr><td>Tử vong do Tai nạn khi đang làm việc</td></tr><tr><td>Người được bảo hiểm và vợ hoặc chồng của Người được bảo hiểm tử vong trong cùng một Tai nạn</td><td></td></tr><tr><td>Tử vong do Tai nạn khác</td><td>100%</td></tr></table>
+
+
+## ĐIỀU 2: QUY ĐỊNH CHI TRẢ QUYỀN LỢI BẢO HIỂM 
+
+
+2.1. Nếu cùng một Tai nạn gây ra nhiều Chấn thương và Thương tật bộ phận vĩnh viễn, Công ty sẽ chi trả quyền lợi bảo hiểm cho tất cả các Chấn thương và Thương tật bộ phận vĩnh viễn theo quy định tại Bảng I và Bảng II - Mục A, nhưng không vượt quá tỷ lệ quy định tại Điều 2.4 của Quy tắc và Điều khoản này. 
+
+
+2.2. Công ty chi chi trả một lần cho mỗi Thương tật bộ phận vĩnh viễn do Tai nạn trong suốt Thời hạn bảo hiểm. 
+
+
+2.3. Quyền lợi Chấn thương do Tai nạn theo quy định tại Bảng I sẽ chấm dứt khi tổng quyền lợi chi trả cho Chấn thương do Tai nạn đạt 200% Số tiền bảo hiểm. 
+
+
+2.4. Trong cùng một Tai nạn hoặc cùng một Năm hợp đồng (ngày xác định quyền lợi bảo hiểm sẽ căn cứ vào ngày xảy ra Tai nạn):
+
+
+- Tổng quyền lợi bảo hiểm chi trả (bao gồm quyền lợi Chấn thương do Tai nạn và quyền lợi Thương tật vĩnh viễn/Chấn thương nghiêm trọng do Tai nạn được quy định tại Bảng I và Bảng II) sẽ không vượt quá 100% Số tiền bảo hiểm. 
+
+
+- Quyền lợi Chấn thương do Tai nạn và quyền lợi Thương tật bộ phận vĩnh viễn do Tai nạn được quy định tại Bảng I và Bảng II – Mục A đã chi trả (nếu có) sẽ bị khấu trừ khi Công ty chi trả quyền lợi tử vong được quy định tại Bảng III. 
+
+
+2.5. Trong cùng một Tai nạn, nếu Người được bảo hiểm thỏa cùng lúc nhiều sự kiện bảo hiểm dẫn đến chấm dứt hiệu lực sản phẩm bổ sung theo quy định tại Khoản 7.2. của Quy tắc và Điều khoản này, Công ty sẽ chỉ chi trả cho một sự kiện bảo hiểm có tỷ lệ phần trăm cao nhất. 
+
+
+## ĐIỀU 3: ĐIỀU KHOẢN LOẠI TRỪ 
+
+
+3.1. Quyền lợi bảo hiểm của sản phẩm bổ sung này sẽ không được chi trả nếu nguyên nhân gây ra Tai nạn có liên quan đến: 
+
+
+a. Tự tử trong vòng 24 tháng kể từ Ngày hiệu lực hợp đồng hoặc ngày khôi phục hiệu lực hợp đồng gần nhất (nếu có); hoặc 
+
+
+b. Tự gây thương tích; hoặc 
+
+
+c. Bạo động, dân biến, nội chiến hoặc hành động thù địch của các lực lượng có vũ trang, dù Người được bảo hiểm có thực sự tham gia vào các sự kiện đó hay không; hoặc 
+
+
+d. Tham gia đánh nhau, ẩu đả; hay chống lại việc bắt giữ của cơ quan có thẩm quyền; hoặc 
+
+
+e. Người được bảo hiểm tham gia lực lượng hải quân, quân đội hoặc không quân, hoặc bất kỳ hoạt động hoặc nhiệm vụ chiến đấu nào với bất kỳ lực lượng vũ trang nào của bất kỳ quốc gia, vùng lãnh thổ hoặc tổ chức quốc tế nào; hoặc 
+
+
+f. Người được bảo hiểm tham gia các loại hình thể thao hoặc hoạt động mạo hiểm nào, như các loại hình hoạt động dưới nước liên quan đến thiết bị hỗ trợ thở, các loại hình hoạt động nào liên quan đến độ cao cho dù có hay không có thiết bị hỗ trợ, các môn thể thao nào liên quan đến võ, đấm bốc, bất kỳ hoạt động nào liên quan đến chất nổ hoặc nổ, lái xe hoặc đua xe ở bất kỳ loại hình đua nào, tất cả các loại hình thể thao chuyên nghiệp loại trừ cờ vua, cờ tướng; hoặc 
+
+
+g. Người được bảo hiểm bay hoặc thực hiện bất kỳ hoạt động hàng không nào khác trừ khi là hành khách đi máy bay có trả cước phí của một hãng hàng không được cấp phép hoặc được công nhận hợp lệ; hoặc 
+
+
+h. Người được bảo hiểm, Bên mua bảo hiểm hoặc Người thụ hưởng phạm tội hoặc mưu toan phạm tội (theo Bộ luật hình sự). 
+
+
+Trong trường hợp có hơn một Người thụ hưởng, và một hoặc một số người trong đó cố ý gây ra các hành vi phạm tội đối với Người được bảo hiểm, Công ty vẫn trả Quyền lợi bảo hiểm cho những Người thụ hưởng khác theo tỷ lệ tương ứng với tỷ lệ mà Bên mua
+
+
+bảo hiểm đã chi định trong Hồ sơ Yêu cầu bảo hiểm; hoặc 
+
+
+i. Người được bảo hiểm sử dụng bất kỳ thức uống có cồn vượt quá nồng độ cho phép theo quy định của pháp luật hoặc chất kích thích, chất gây nghiện, thuốc ngủ, thuốc, thuốc an thần hoặc chất độc nào, trừ trường hợp việc sử dụng thuốc theo chỉ định của Bác sĩ; hoặc 
+
+
+j. Nhiễm trùng, nhiễm độc trừ khi là hậu quả trực tiếp từ Tai nạn; hoặc đột tử; hoặc do tai biến; hoặc do hậu quả của quá trình điều trị bệnh, phẫu thuật; hoặc 
+
+
+k. Nổ hoặc phóng xạ từ các loại vũ khí hạt nhân, nguyên tử hoặc hóa học hoặc việc nhiễm độc phóng xạ từ các cơ sở hạt nhân hoặc nguyên tử. 
+
+
+3.2. Khi Công ty không chi trả quyền lợi bảo hiểm trong các trường hợp quy định tại Khoản 3.1: 
+
+
+a. Sản phẩm bổ sung này sẽ chấm dứt hiệu lực khi Người được bảo hiểm tử vong. 
+
+
+b. Sản phẩm bổ sung này vẫn tiếp tục duy trì hiệu lực cho các trường hợp còn lại và Người được bảo hiểm vẫn được bảo vệ cho các trường hợp không thuộc các điều khoản loại trừ này. 
+
+
+## ĐIỀU 4: HỒ SƠ GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM: 
+
+
+## 4.1. Trường hợp Người được bảo hiểm tử vong do Tai nạn 
+
+
+Trong thời hạn 12 tháng kể từ ngày Người được bảo hiểm tử vong do Tai nạn, Người yêu cầu giải quyết quyền lợi bảo hiểm phải thông báo và cung cấp cho Công ty đầy đủ các giấy tờ sau trong thời gian sớm nhất có thể: 
+
+
+- Giấy yêu cầu giải quyết Quyền lợi bảo hiểm theo mẫu của Công ty; 
+
+
+- Bằng chứng về sự kiện tử vong như giấy khai tử, giấy chứng tử/trích lục khai tử của Người được bảo hiểm do các cơ quan có thẩm quyền cấp; 
+
+
+- Bằng chứng của Tai nạn đã dẫn đến tử vong của Người được bảo hiểm, như báo cáo của cơ quan công an, biên bản Tai nạn, kết quả điều tra do cơ quan có thẩm quyền cấp và biên bản khám nghiệm tử thi (nếu có); 
+
+
+- Bằng chứng y tế hợp pháp về việc cấp cứu/điều trị sau Tai nạn (nếu có) bao gồm: Sổ khám bệnh, Giấy ra viện, bản sao Hồ sơ bệnh án, Bảng kê chi tiết chi phí điều trị và các chứng từ y tế liên quan đến việc khám, chẩn đoán và điều trị; 
+
+
+- Bằng chứng về quyền được nhận quyền lợi bảo hiểm (giấy ủy quyền, biên bản phân chia di sản thừa kế, bản sao y các giấy tờ chứng minh nhân thân và chứng minh các mối quan hệ hôn nhân, huyết thống, nuôi dưỡng cấp dưỡng), bản sao giấy tờ tùy thân hợp pháp của Người nhận quyền lợi bảo hiểm (chứng minh nhân dân/hộ chiếu/căn cước công dân…);
+
+
+4.2. Trường hợp Người được bảo hiểm bị Chấn thương do Tai nạn, Thương tật vĩnh viễn/Chấn thương nghiêm trọng do Tai nạn 
+
+
+Trong thời hạn 12 tháng kể từ ngày Người được bảo hiểm bị Chấn thương do Tai nạn, Thương tật vĩnh viễn/Chấn thương nghiêm trọng do Tai nạn, Người yêu cầu giải quyết quyền lợi bảo hiểm phải thông báo và cung cấp cho Công ty đầy đủ các giấy tờ sau trong thời gian sớm nhất có thể: 
+
+
+- Giấy yêu cầu giải quyết Quyền lợi bảo hiểm theo mẫu của Công ty; 
+
+
+- Bằng chứng y tế hợp pháp về việc cấp cứu/điều trị sau Tai nạn (nếu có) bao gồm: Sổ khám bệnh, Giấy ra viện, bản sao Hồ sơ bệnh án, Bảng kê chi tiết chi phí điều trị và các chứng từ y tế liên quan đến việc khám, chẩn đoán và điều trị, giấy chứng nhận thương tật và biên bản giám định thương tật; 
+
+
+- Bằng chứng hợp pháp về Tai nạn (sơ đồ hiện trường, báo cáo của cơ quan công an, biên bản Tai nạn và kết luận điều tra của cơ quan có thẩm quyền); 
+
+
+- Bằng chứng về quyền được nhận quyền lợi bảo hiểm (giấy ủy quyền, biên bản phân chia di sản thừa kế, bản sao y các giấy tờ chứng minh nhân thân và chứng minh các mối quan hệ hôn nhân, huyết thống, nuôi dưỡng cấp dưỡng), bản sao giấy tờ tùy thân hợp pháp của Người nhận quyền lợi bảo hiểm (chứng minh nhân dân/hộ chiếu/thẻ căn cước…); 
+
+
+## ĐIỀU 5: PHÍ BẢO HIỂM VÀ QUY ĐỊNH ĐÓNG PHÍ 
+
+
+- Phí bảo hiểm và định kỳ đóng phí của sản phẩm bổ sung này được thể hiện trên Giấy chứng nhận bảo hiểm hoặc các sửa đổi, bổ sung liên quan gần nhất (nếu có). Định kỳ đóng phí của sản phẩm bổ sung luôn giống với định kỳ đóng phí của sản phẩm chính của Hợp đồng bảo hiểm. 
+
+
+- Trong trường hợp được sự chấp thuận của Bộ Tài chính, Công ty có thể thay đổi Phí bảo hiểm của sản phẩm bổ sung này trong Thời hạn đóng phí. Công ty sẽ thông báo trước ít nhất 3 tháng cho Bên mua bảo hiểm và Phí bảo hiểm mới sẽ được áp dụng vào Ngày kỷ niệm năm hợp đồng kế tiếp. 
+
+
+## ĐIỀU 6: CHẤP NHẬN BẢO HIỂM CÓ ĐIỀU KIỆN 
+
+
+- Trong trường hợp chấp nhận bảo hiểm với những điều kiện và thỏa thuận đặc biệt phù hợp với quy định của pháp luật bao gồm: chấp nhận bảo hiểm với Số tiền bảo hiểm/Quyền lợi bảo hiểm điều chỉnh, Phí bảo hiểm điều chỉnh, hoặc điều chỉnh phạm vi loại trừ trách nhiệm bảo hiểm, hoặc điều chỉnh các điều kiện bảo hiểm khác dựa trên kết quả đánh giá, thẩm định Hồ sơ yêu cầu bảo hiểm hoặc Hồ sơ yêu cầu tham gia sản phẩm bổ sung này. Công ty sẽ gửi thông báo bằng văn bản đến Bên mua bảo hiểm, trong đó ghi rõ những điều kiện và thỏa thuận đặc biệt này. 
+
+
+- Sản phẩm bổ sung này chỉ được phát hành khi Bên mua bảo hiểm chấp thuận những điều kiện và thỏa thuận đặc biệt này và Công ty đã nhận đủ phí bảo hiểm bổ sung (nếu
+
+
+có). Những điều kiện và thỏa thuận đặc biệt được Bên mua bảo hiểm và Công ty chấp thuận sẽ làm thành bộ phận không tách rời của Hợp đồng và được thể hiện tại Giấy chứng nhận bảo hiểm hoặc các sửa đổi, bổ sung liên quan gần nhất (nếu có). 
+
+
+## ĐIỀU 7: CÁC ĐIỀU KHOẢN KHÁC 
+
+
+## 7.1. Thay đổi nghề nghiệp/nơi cư trú/ra khỏi lãnh thổ Việt Nam 
+
+
+Trường hợp Người được bảo hiểm thay đổi thông tin liên hệ, thông tin cá nhân, nghề nghiệp, Bên mua bảo hiểm phải thông báo bằng văn bản cho Công ty trong vòng 30 ngày kể từ ngày có thay đổi. 
+
+
+Nếu Người được bảo hiểm ra khỏi phạm vi lãnh thổ Việt Nam trong thời gian 3 tháng trở lên, Bên mua bảo hiểm phải thông báo bằng văn bản cho Công ty tối thiểu 30 ngày trước ngày Người được bảo hiểm xuất cảnh. Trong trường hợp này, Công ty sẽ thẩm định lại và có thể (i) xác định lại mức phí bảo hiểm, và/hoặc loại trừ trách nhiệm bảo hiểm, và/hoặc giảm quyền lợi bảo hiểm; hoặc (ii) chấm dứt hiệu lực sản phẩm bổ sung này. Nếu Công ty chấm dứt hiệu lực sản phẩm bổ sung này, Công ty sẽ hoàn lại phí bảo hiểm của sản phẩm bổ sung này tương ứng với thời gian còn lại của kỳ phí bảo hiểm đã đóng (nếu có). 
+
+
+## 7.2. Chấm dứt hiệu lực sản phẩm bổ sung 
+
+
+Sản phẩm bổ sung này sẽ chấm dứt hiệu lực vào các ngày sau, tùy thuộc vào sự kiện nào xảy ra trước: 
+
+
+- Ngày kết thúc Thời hạn bảo hiểm của sản phẩm bổ sung; hoặc 
+
+
+- Quyền lợi Thương tật toàn bộ vĩnh viễn do Tai nạn được quy định tại Bảng II - Mục B hoặc Quyền lợi Chấn thương nghiêm trọng do Tai nạn quy định tại Bảng II - Mục C được chấp thuận chi trả; hoặc 
+
+
+- Bên mua bảo hiểm yêu cầu chấm dứt hiệu lực sản phẩm bổ sung này; hoặc 
+
+
+- Sản phẩm bổ sung này chấm dứt hiệu lực theo quy định tại Khoản 7.1. của Quy tắc và Điều khoản này; hoặc 
+
+
+- Sản phẩm chính chuyển đổi thành Hợp đồng có Số tiền bảo hiểm giảm; hoặc 
+
+
+- Sản phẩm chính chấm dứt hiệu lực; hoặc 
+
+
+- Người được bảo hiểm Từ vong. 
+
+
+## ĐIỀU 8: ĐỊNH NGHĨA 
+
+
+8.1. “Người được bảo hiểm”: là cá nhân có độ tuổi từ 6 tháng tuổi đến 65 tuổi tính theo ngày sinh nhật gần nhất trước Ngày hiệu lực của sản phẩm bổ sung này và được Công ty chấp nhận bảo hiểm theo Quy tắc và Điều khoản sản phẩm bổ sung này.
+
+
+## 8.2. “Thời hạn bảo hiểm”: 
+
+
+- Trường hợp tham gia kèm với sản phẩm chính có Thời hạn bảo hiểm 10 năm – Đóng phí 3 năm hoặc Thời hạn bảo hiểm 15 năm – Đóng phí 5 năm: Thời hạn bảo hiểm bằng Thời hạn bảo hiểm của sản phẩm chính. 
+
+
+- Trường hợp tham gia kèm với các sản phẩm chính khác: từ 5 năm đến tối đa bằng với Thời hạn đóng phí còn lại của Sản phẩm chính, với điều kiện tuổi của Người được bảo hiểm không vượt quá 70 tuổi tại thời điểm kết thúc Thời hạn bảo hiểm. 
+
+
+## 8.3. “Thời hạn đóng phí”: 
+
+
+- Trường hợp tham gia kèm với sản phẩm chính có Thời hạn bảo hiểm 10 năm – Đóng phí 3 năm hoặc Thời hạn bảo hiểm 15 năm – Đóng phí 5 năm: Thời hạn đóng phí bằng Thời hạn đóng phí của sản phẩm chính. 
+
+
+- Trường hợp tham gia kèm với các sản phẩm chính khác: Thời hạn đóng phí bằng Thời hạn bảo hiểm của sản phẩm bổ sung này. 
+
+
+8.4. “Ngày hiệu lực của sản phẩm bổ sung”: là ngày Công ty chấp thuận bảo hiểm và được thể hiện trên Giấy chứng nhận bảo hiểm hoặc các sửa đổi, bổ sung liên quan gần nhất (nếu có), với điều kiện Bên mua bảo hiểm và Người được bảo hiểm còn sống vào thời điểm Hồ sơ yêu cầu bảo hiểm hoặc Hồ sơ yêu cầu tham gia sản phẩm bổ sung này được Công ty chấp thuận. 
+
+
+8.5. “Số tiền bảo hiểm”: là số tiền Công ty chấp thuận bảo hiểm theo Quy tắc và Điều khoản sản phẩm bổ sung này và được thể hiện trên Giấy chứng nhận bảo hiểm hoặc các sửa đổi, bổ sung liên quan gần nhất (nếu có). 
+
+
+8.6. “Tai nạn”: là một sự kiện hoặc một chuỗi sự kiện không bị gián đoạn gây ra bởi tác động của một lực hoặc một vật bất ngờ từ bên ngoài, không chủ động và ngoài ý muốn của Người được bảo hiểm lên cơ thể và gây chấn thương cho Người được bảo hiểm, xảy ra trong thời gian có hiệu lực của Sản phẩm bảo hiểm bổ sung này. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân duy nhất, trực tiếp, và không liên quan đến bất kỳ nguyên nhân nào khác gây ra Chấn thương, thương tật hoặc tử vong cho Người được bảo hiểm trong vòng 180 ngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó. 
+
+
+8.7. “Chấn thương”: bao gồm 1 hoặc nhiều thương tật thuộc các nhóm Cơ quan nội tạng, Gãy xương, Mô liên kết và Bỏng gây ra do Tai nạn và được quy định tại Bảng I của Quy tắc và Điều khoản của Sản phẩm bổ sung này. 
+
+
+8.8. “Gãy xương”: là tình trạng gãy hoàn toàn hoặc vỡ của xương hoặc gãy lìa toàn bộ mặt cắt của xương, nhưng không bao gồm các trường hợp Nứt xương hay Gãy cành tươi. Chẩn đoán Gãy xương phải được Bác sĩ xác nhận căn cứ vào kết quả chụp X-quang, hoặc chụp CT hoặc MRI. 
+
+
+8.9. “Nứt xương”: là một đường gãy mảnh trên phim X-quang hoặc hình ảnh chụp CT hoặc MRI giữa 2 mảnh của 1 xương nhưng các mảnh xương vẫn dính liền với nhau và đường gãy này không kéo dài hết chiều ngang của xương.
+
+
+8.10. “Gãy cành tươi”: là tình trạng xương bị gãy ngang phần vỏ, kéo dài vào phần giữa và hướng xuống trục dọc của xương mà không gãy lìa sang phần vỏ xương đối diện và thường gặp ở trẻ em. 
+
+
+8.11. “Thương tật vĩnh viễn”: là khi Người được bảo hiểm bị liệt hoặc mất hoặc liệt hoàn toàn, vĩnh viễn và không thể phục hồi chức năng của một hoặc nhiều bộ phận cơ thể do Tai nạn; hoặc bị thương tật do Tai nạn được quy định tại Bảng II – mục A và B của Quy tắc và Điều khoản sản phẩm bổ sung này. Trong định nghĩa này: 
+
+
+- Mất ngón tay hoặc ngón chân: là đứt rời ngón tay hoặc ngón chân từ khớp bàn ngón; 
+
+
+- Mất bàn tay hoặc bàn chân: là tình trạng cụt hoàn toàn tính từ cổ tay hoặc cổ chân trở lên; 
+
+
+- Mất xương bàn tay (của bất kỳ ngón tay nào): nghĩa là mất hoàn toàn xương đốt bàn của ngón tay tương ứng; 
+
+
+- Mất một cánh tay: là tình trạng cụt hoàn toàn tính từ khuỷu tay trở lên; 
+
+
+- Mất một chân: là tình trạng cụt hoàn toàn tính từ đầu gối trở lên; 
+
+
+- Mất thính lực: là mất hoàn toàn và không thể phục hồi chức năng nghe của 1 hoặc 2 tai. Chẩn đoán phải được xác định dựa trên cơ sở kết quả đo thính lực đồ và các thử nghiệm ngưỡng âm thanh được thực hiện và xác định bởi Bác sĩ chuyên khoa tai mũi họng. Mất thính lực hoàn toàn là khi không thể nghe được ít nhất 80 decibels ở mọi tần số của âm thanh (có hoặc không có sự hỗ trợ); 
+
+
+- Mất thị lực: là mất hoàn toàn và không thể phục hồi thị lực của 1 hoặc 2 mắt. Chẩn đoán phải được xác định bởi Bác sĩ chuyên khoa mắt. 
+
+
+Việc chứng nhận Người được bảo hiểm bị mất hoàn toàn bộ phận cơ thể có thể được thực hiện ngay sau khi sự kiện bảo hiểm xảy ra. 
+
+
+Việc chứng nhận bị mất thính lực, mất thị lực, hoặc liệt và không thể phục hồi chức năng của các bộ phận cơ thể phải được thực hiện sau 180 ngày kể từ ngày xảy ra Tai nạn và được xác nhận bởi cơ quan y tế có thẩm quyền. 
+
+
+Việc chứng nhận Thương tật dẫn đến mất khả năng lao động từ 81% trở lên phải được thực hiện sau 180 ngày kể từ ngày xảy ra Tai nạn và được xác nhận bởi Hội đồng giám định Y khoa cấp tỉnh trở lên. 
+
+
+8.12. “Chấn thương nghiêm trọng”: bao gồm 1 hoặc nhiều thương tật được quy định tại Bảng II – mục C của Quy tắc và Điều khoản của Sản phẩm bổ sung này. 
+
+
+8.13. “Phương tiện giao thông công cộng”: là các phương tiện vận chuyển theo lịch trình thường xuyên, theo những tuyến đường đã được xác lập và dành cho các hành khách có mua vé, như: xe buýt, ô tô chở khách tuyến cổ định, máy bay, tàu hỏa chở khách (gồm
+
+
+cả phương tiện đường sắt đô thị), tàu thủy chở khách, phà chở khách, tàu điện; và được vận hành bởi các đơn vị được cấp giấy phép kinh doanh vận tải hành khách hợp pháp. 
+
+
+Phương tiện giao thông công cộng không bao gồm taxi, xe công nghệ (là xe cung cấp dịch vụ vận chuyển thông qua phần mềm ứng dụng hỗ trợ kết nối vận tải), máy bay tư nhân các loại, xe thuê, hoặc bất kỳ phương tiện thuê nào sử dụng cho mục đích đi lại cá nhân. 
+
+
+8.14. “Ngày nghỉ Lễ/Tết của Việt Nam”: theo quy định của Bộ luật lao động Việt Nam hiện hành, bao gồm cả ngày nghỉ bù theo luật định và hướng dẫn của cơ quan nhà nước có thẩm quyền. 
+
+
+8.15. “Từ vong do Tai nạn khi đang làm việc”: Người được bảo hiểm tử vong do Tai nạn khi đang làm việc: 
+
+
+(i) tại nơi làm việc và trong giờ làm việc theo hợp đồng lao động; hoặc 
+
+
+(ii) tại nơi làm việc khác và/hoặc ngoài giờ làm việc theo yêu cầu của người sử dụng lao động của Người được bảo hiểm. 
+
+
+Tai nạn khi đang làm việc theo định nghĩa này không bao gồm Tai nạn xảy ra trong quá trình di chuyển bên ngoài nơi làm việc. 
+
+
+Riêng đối với các nghề nghiệp gắn liền với quá trình vận chuyển, di chuyển (không áp dụng đối với nghề nghiệp liên quan đến hoạt động bay hoặc bất kỳ hoạt động hàng không nào khác), Tai nạn khi đang làm việc là Tai nạn xảy ra khi Người được bảo hiểm đang thực hiện công việc theo quy định tại hợp đồng lao động hoặc theo sự chỉ định của người sử dụng lao động, và Người được bảo hiểm không vi phạm quy định pháp luật về trật tự, an toàn giao thông. 
+
+
+8.16. “Tòa nhà công cộng”: bao gồm bệnh viện, trung tâm y tế, nhà hát, rạp chiếu phim, trung tâm thương mại, trụ sở làm việc của cơ quan Nhà nước, tòa nhà văn phòng của các tổ chức có giấy phép kinh doanh bất động sản, trường học, sân vận động, nhà thi đấu và trung tâm thể thao. 
+
+
+8.17. “Hôn mê”: là tình trạng bất tình kéo dài ít nhất 96 giờ liên tục. Việc chẩn đoán xác định phải bao gồm tất cả những dấu hiệu sau: 
+
+
+- Không có phản ứng với những kích thích bên ngoài hay những nhu cầu bên trong cơ thể; và 
+
+
+- Cần sự trợ giúp của các biện pháp hỗ trợ để duy trì sự sống trong ít nhất là 96 giờ; và 
+
+
+- Bị tổn thương não và để lại di chứng thần kinh khiến cho mất hoàn toàn và vĩnh viễn khả năng thực hiện 3 trong 6 “chức năng sinh hoạt hàng ngày” ít nhất là 30 ngày kể từ khi bắt đầu tình trạng hôn mê. 
+
+
+Loại trừ trách nhiệm bảo hiểm trong những trường hợp hôn mê do rượu hoặc ma túy.
+
+
+## 6 chức năng sinh hoạt hàng ngày bao gồm: 
+
+
+- Tắm rửa – có khả năng tự tắm rửa ở bồn tắm, buồng tắm đứng hoặc các hình thức khác, bao gồm cả việc ra và vào bồn tắm, buồng tắm đứng hoặc các hình thức khác; 
+
+
+- Mặc quần áo – có khả năng mặc và cởi quần áo, thắt và tháo dây đai, trang phục, niềng răng, chân tay giả hoặc các dụng cụ chỉnh hình khác; 
+
+
+- Dịch chuyển – có khả năng dịch chuyển lên hoặc xuống giường, ghế hoặc xe lăn; 
+
+
+- Di động – Khả năng di chuyển từ nơi này qua nơi khác trong nhà và trên bề mặt bằng phẳng; 
+
+
+- Vệ sinh – có khả năng sử dụng nhà vệ sinh, kiểm soát cả các chức năng đại tiện và tiểu tiện, hoặc duy trì vệ sinh cá nhân ở mức độ hợp lý khi không thể kiểm soát được chức năng đại tiện hoặc tiểu tiện hoặc cả hai chức năng này; 
+
+
+- Ăn uống – có khả năng tự đưa thức ăn đã làm sẵn từ bát, đĩa vào miệng. 
+
+
+8.18. “Chấn thương sọ não nghiêm trọng”: là chấn thương đầu do Tai nạn dẫn đến di chứng thần kinh vĩnh viễn và không thể phục hồi, được đánh giá ít nhất 6 tuần sau khi xảy ra Tai nạn. Chẩn đoán được xác định bởi Bác sĩ chuyên khoa thần kinh, dựa trên cơ sở hình ảnh tổn thương não trên hình ảnh Cộng hưởng từ nhân não (MRI) hoặc trên phim Chụp cắt lớp não (CT), hoặc các kết quả xét nghiệm hình ảnh học đáng tin cậy khác. 
+
+
+Loại trừ trách nhiệm bảo hiểm trong những trường hợp sau: 
+
+
+- Chấn thương tủy sống; 
+
+
+- Chấn thương đầu do những nguyên nhân khác. 
+
+
+8.19. “Bác sĩ”: là người có bằng cấp chuyên môn y khoa và/hoặc nha khoa, được cơ quan có thẩm quyền cấp phép hoặc thừa nhận được thực hành nghề y/nha khoa hợp pháp trong phạm vi giấy phép theo pháp luật của nước sở tại nơi Người được bảo hiểm tiến hành việc khám và điều trị. Trừ trường hợp được Công ty chấp thuận bằng văn bản hoặc những người sau đây làm nhiệm vụ theo sự phân công của cấp có thẩm quyền, Bác sĩ không được đồng thời là: 
+
+
+- Bên mua bảo hiểm, Người được bảo hiểm hoặc Người thụ hưởng; hoặc 
+
+
+- Vợ/chồng, cha/mẹ, con, anh chị em ruột của Bên mua bảo hiểm/Người được bảo hiểm.
+
+
+# QUY TÁC VÀ ĐIỀU KHOẢN SẢN PHẨM BẢO HIỂM BỔ SUNG – CHI TRẢ CHI PHÍ Y TẾ THỰC TẾ (BẢO VỆ SỨC KHỎE TOÀN DIỆN) 
+
+
+(Được chấp thuận theo Công văn số 7838 /BTC-QLBH  ngày 26/06/2020 của Bộ Tài chính) 
+
+
+## МІС ЛІС 
+
+
+ĐIỀU 1: QUYỀN LỢI BẢO HIỂM................................................................................................ 2  1.1 QUYỀN LỢI ĐIỀU TRỊ NỘI TRÚ ............................................................................. 3  1.2 QUYỀN LỢI ĐIỀU TRỊ NGOẠI TRÚ ........................................................................ 5  1.3 QUYỀN LỢI ĐIỀU TRỊ NHA KHOA ........................................................................ 6 ĐIỀU 2: ĐIỀU KHOẢN LOẠI TRỪ ....................................................................................... 7 ĐIỀU 3: GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM................................................................ 9 ĐIỀU 4: THỜI HẠN BẢO HIỂM VÀ PHÍ BẢO HIỂM ....................................................... 9 ĐIỀU 5: CHẤP NHẬN BẢO HIỂM CÓ ĐIỀU KIỆN ......................................................... 10 ĐIỀU 6: CÁC ĐIỀU KHOẢN KHÁC ................................................................................. 11 ĐIỀU 7: ĐỊNH NGHĨA ..................................................................................................... 11
+
+
+“Sản phẩm bảo hiểm bổ sung” (sau đây gọi tắt là “sản phẩm bổ sung”): là sản phẩm bảo hiểm được tham gia kèm với một sản phẩm bảo hiểm chính (sau đây gọi tắt là “sản phẩm chính”) trong cùng một Hợp đồng bảo hiểm để bảo hiểm cho (những) người có quyền lợi có thể được bảo hiểm với Bên mua bảo hiểm được ghi nhận trong Hợp đồng bảo hiểm. 
+
+
+Tất cả các thuật ngữ sử dụng trong Quy tắc và Điều khoản sản phẩm bổ sung này đều được hiểu như những thuật ngữ trong Quy tắc và Điều khoản của sản phẩm bảo hiểm chính. Quy tắc và Điều khoản của sản phẩm bảo Hiểm chính sẽ được áp dụng cho sản phẩm bổ sung. Trong trường hợp có mâu thuẫn giữa sản phẩm chính và sản phẩm bổ sung, Quy tắc và Điều khoản sản phẩm bổ sung sẽ được áp dụng. 
+
+
+## ĐIỀU 1: QUYỀN LỢI BẢO HIỂM 
+
+
+Tại thời điểm tham gia bảo hiểm, Bên mua bảo hiểm có thể lựa chọn tham gia 1 trong 4 Kế hoạch bảo hiểm với Số tiền bảo hiểm cho mỗi Người được bảo hiểm như mô tả trong Bảng 1. 
+
+
+Bảng 1: Tóm tắt quyền lợi bảo hiểm 
+
+
+Đơn vị tính: đồng 
+
+
+<table><tr><td>Kế hoạch bảo hiểm</td><td>Cơ bản</td><td>Nâng cao</td><td>VIP</td><td>VIP Plus</td></tr><tr><td>Phạm vi địa lý</td><td>Việt Nam</td><td>Việt Nam</td><td>Việt Nam</td><td>Châu Á</td></tr><tr><td>Số tiền bảo hiểm</td><td>100.000.000</td><td>200.000.000</td><td>500.000.000</td><td>1.000.000.000</td></tr><tr><td colspan="5">Quyền lợi tối đa/Năm hợp đồng</td></tr><tr><td>1. Điều trị nội trú</td><td>100.000.000</td><td>200.000.000</td><td>500.000.000</td><td>1.000.000.000</td></tr><tr><td>2. Điều trị ngoại trú</td><td>Không áp dụng</td><td>5.000.000</td><td>10.000.000</td><td>20.000.000</td></tr><tr><td>3. Điều trị nha khoa</td><td colspan="3">Không áp dụng</td><td>10.000.000</td></tr></table>
+
+
+Trong mọi trường hợp, tổng số tiền thanh toán trừ mức Đồng thanh toán (nếu có) cho tất cả các yêu cầu giải quyết quyền lợi bảo hiểm cho 1 Người được bảo hiểm phát sinh trong 1 Năm
+
+
+hợp đồng không vượt quá Số tiền bảo hiểm tương ứng với Kế hoạch bảo hiểm mà Bên mua bảo hiểm đã chọn. Chi tiết về quyền lợi bảo hiểm được mô tả tại các điều khoản sau đây. 
+
+
+## 1.1 QUYỀN LỢI ĐIỀU TRỊ NỘI TRÚ 
+
+
+Trong thời gian Sản phẩm bổ sung này có hiệu lực, ngoại trừ các trường hợp quy định tại Điều 2 của Quy tắc và Điều khoản sản phẩm bổ sung này, Công ty sẽ chi trả Chi phí y tế thực tế như mô tả trong Bảng 2. Trong mọi trường hợp, tổng số tiền thanh toán cho Quyền lợi điều trị nội trú không vượt quá Quyền lợi tối đa mỗi Năm hợp đồng và tổng số tiền thanh toán cho mỗi hạng mục trong Quyền lợi điều trị nội trú không vượt quá Hạn mức như quy định ở Bảng 2. 
+
+
+Bảng 2: Chi tiết Quyền lợi bảo hiểm - Điều trị nội trú: 
+
+
+Đơn vị: đồng 
+
+
+<table><tr><td colspan="2">Kế hoạch bảo hiểm</td><td>Cơ Bản</td><td>Nâng Cao</td><td>VIP</td><td>VIP Plus</td></tr><tr><td colspan="2">Quyền lợi tối đa mỗi Năm hợp đồng</td><td>100.000.000</td><td>200.000.000</td><td>500.000.000</td><td>1.000.000.000</td></tr><tr><td colspan="2">Đồng thanh toán</td><td colspan="4">Không áp dụng</td></tr><tr><td colspan="2">Các loại Chi phí y tế thực tế</td><td colspan="4">Hạn mức</td></tr><tr><td>I</td><td>Viện phí và các chi phí y tế/Đợt điều trị (bao gồm các hạng mục từ 1.1 đến 1.9)</td><td>20.000.000</td><td>40.000.000</td><td>100.000.000</td><td>200.000.000</td></tr><tr><td>1.1</td><td>Phòng và giường/ngày (tối đa 45 ngày/Đợt điều trị)</td><td>500.000</td><td>1.000.000</td><td>2.000.000</td><td>3.000.000</td></tr><tr><td>1.2</td><td>Phòng và giường cho 1 người thân/ngày (áp dụng đối với Người được bảo hiểm dưới 18 tuổi và tối đa 10 ngày/Năm hợp đồng)</td><td>250.000</td><td>500.000</td><td>1.000.000</td><td>1.500.000</td></tr><tr><td>1.3</td><td>Dịch vụ chăm sóc y tế tại nhà/ngày (tối đa 30 ngày/Năm hợp đồng)</td><td>100.000</td><td>200.000</td><td>400.000</td><td>600.000</td></tr><tr><td>1.4</td><td>Chi phí Khoa chăm sóc đặc biệt/ngày (tối đa 30 ngày/Năm hợp đồng)</td><td>1.000.000</td><td>2.000.000</td><td>4.000.000</td><td>6.000.000</td></tr></table>
+
+
+<table><tr><td colspan="2">Kế hoạch bảo hiểm</td><td>Cơ Bản</td><td>Nâng Cao</td><td>VIP</td><td>VIP Plus</td></tr><tr><td colspan="2">Quyền lợi tối đa mỗi Năm hợp đồng</td><td>100.000.000</td><td>200.000.000</td><td>500.000.000</td><td>1.000.000.000</td></tr><tr><td>1.5</td><td>Chi phí phẫu thuật/Đợt điều trị</td><td>20.000.000</td><td>40.000.000</td><td>100.000.000</td><td>200.000.000</td></tr><tr><td>1.6</td><td>Điều trị trước khi nhập viện</td><td rowspan="3">Theo Chi phí y tế thực tế</td><td rowspan="3"></td><td rowspan="3"></td><td rowspan="3"></td></tr><tr><td>1.7</td><td>Điều trị sau khi xuất viện</td></tr><tr><td>1.8</td><td>Phí khám bệnh của Bác sĩ/Bác sĩ chuyên khoa (tối đa 2 lần/ngày cho Bác sĩ và 1 lần/ngày cho Bác sĩ chuyên khoa)</td></tr><tr><td>1.9</td><td>Chi phí y tế nội trú khác/Đợt điều trị</td><td>5.000.000</td><td>10.000.000</td><td>25.000.000</td><td>50.000.000</td></tr><tr><td colspan="2">II Các điều trị đặc biệt</td><td rowspan="2">50.000.000</td><td rowspan="2">100.000.000</td><td rowspan="2">250.000.000</td><td rowspan="2">500.000.000</td></tr><tr><td>2.1</td><td>Cấy ghép nội tạng/Năm hợp đồng (bao gồm các hạng mục 2.1.1 và 2.1.2)</td></tr><tr><td>2.1.1</td><td>Người nhận tạng</td><td>50.000.000</td><td>100.000.000</td><td>250.000.000</td><td>500.000.000</td></tr><tr><td>2.1.2</td><td>Người hiến tạng</td><td>25.000.000</td><td>50.000.000</td><td>125.000.000</td><td>250.000.000</td></tr><tr><td>2.2</td><td>Điều trị ung thư/Năm hợp đồng</td><td>100.000.000</td><td>200.000.000</td><td>500.000.000</td><td>1.000.000.000</td></tr><tr><td>2.3</td><td>Lọc thận/Năm hợp đồng</td><td>10.000.000</td><td>20.000.000</td><td>50.000.000</td><td>100.000.000</td></tr><tr><td colspan="2">III Điều trị cấp cứu do Tai nạn</td><td rowspan="3">1.000.000</td><td rowspan="3">2.000.000</td><td rowspan="3">5.000.000</td><td rowspan="3">10.000.000</td></tr><tr><td>3.1</td><td>Vận chuyển cấp cứu trong nước/Năm hợp đồng</td></tr><tr><td>3.2</td><td>Điều trị cấp cứu/Tai nạn</td></tr></table>
+
+
+<table><tr><td>Kế hoạch bảo hiểm</td><td>Cơ Bản</td><td>Nâng Cao</td><td>VIP</td><td>VIP Plus</td></tr><tr><td>Quyền lợi tối đa mỗi Năm hợp đồng</td><td>100.000.000</td><td>200.000.000</td><td>500.000.000</td><td>1.000.000.000</td></tr><tr><td>3.3</td><td>Điều trị tổn thương răng/Tai nạn</td><td>1.000.000</td><td>2.000.000</td><td>5.000.000</td><td>10.000.000</td></tr><tr><td>IV</td><td>Chăm sóc thai sản</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>Sinh thường (bao gồm các hạng mục từ 4.1 đến 4.6)</td><td rowspan="5">Không áp dụng</td><td rowspan="5">Không áp dụng</td><td>10.000.000</td><td>15.000.000</td></tr><tr><td></td><td>Sinh mổ (bao gồm các hạng mục từ 4.1 đến 4.6)</td><td>15.000.000</td><td>25.000.000</td></tr><tr><td>4.1</td><td>Phòng và Giường/ngày (tối đa 45 ngày/Đợt điều trị)</td><td>1.000.000</td><td>2.000.000</td></tr><tr><td>4.2</td><td>Chi phí Khoa chăm sóc đặc biệt/ngày (tối đa 30 ngày/Năm hợp đồng)</td><td>2.000.000</td><td>4.000.000</td></tr><tr><td>4.3</td><td>Khám thai/lần (tối đa 3 lần/ Năm hợp đồng)</td><td>1.000.000</td><td>1.500.000</td></tr><tr><td>4.4</td><td>Xét nghiệm chẩn đoán thai kì</td><td rowspan="3"></td><td rowspan="3"></td><td></td><td></td></tr><tr><td>4.5</td><td>Chi phí chăm sóc trẻ sơ sinh</td><td>Theo Chi phí y tế thực tế</td></tr><tr><td>4.6</td><td>Điều trị Biến chứng thai sản</td><td></td></tr></table>
+
+
+## 1.2 QUYỀN LỢI ĐIỀU TRỊ NGOẠI TRÚ 
+
+
+Trong thời gian sản phẩm bổ sung này có hiệu lực, ngoại trừ các trường hợp quy định tại Điều 2 của Quy tắc và Điều khoản sản phẩm bổ sung này, Công ty sẽ chi trả Chi phí y tế thực tế, trừ mức Đồng thanh toán (nếu có) như mô tả trong Bảng 3. Trong mọi trường hợp, tổng số tiền thanh toán cho Quyền lợi điều trị ngoại trú không vượt quá Quyền lợi tối đa mỗi Năm hợp đồng và tổng số tiền thanh toán cho mỗi hạng mục trong Quyền lợi điều trị ngoại trú không vượt quá Hạn mức như quy định ở Bảng 3.
+
+
+Bảng 3: Chi tiết Quyền lợi bảo hiểm - Điều trị ngoại trú: 
+
+
+Đơn vị: đồng 
+
+
+<table><tr><td colspan="2">Kế hoạch bảo hiểm</td><td>Cơ bản</td><td>Nâng cao</td><td>VIP</td><td>VIP Plus</td></tr><tr><td colspan="2">Quyền lợi tối đa mỗi Năm hợp đồng</td><td>Không áp dụng</td><td>5.000.000</td><td>10.000.000</td><td>20.000.000</td></tr><tr><td colspan="2">Đồng thanh toán</td><td colspan="4">Ngoài Hệ thống bảo lãnh viện phí: 20%<br/>Trong Hệ thống bảo lãnh viện phí: 10%<br/>Khám/điều trị tại Bệnh viện công hoặc đã được chi trả bởi Bảo hiểm y tế hoặc công ty bảo hiểm khác: không áp dụng</td></tr><tr><td colspan="2">Các loại Chi phí y tế thực tế/Lần thăm khám</td><td colspan="4">Hạn mức</td></tr><tr><td>1</td><td>Chi phí thăm khám, Vật lý trị liệu, Thuốc kê toa, chi phí xét nghiệm, chẩn đoán hình ảnh</td><td rowspan="2">Không áp dụng</td><td>1.000.000</td><td>2.000.000</td><td>3.000.000</td></tr><tr><td>2</td><td>Y học thay thế</td><td>500.000</td><td>1.000.000</td><td>1.500.000</td></tr></table>
+
+
+## 1.3 QUYỀN LỢI ĐIỀU TRỊ NHA KHOA 
+
+
+Trong thời gian sản phẩm bổ sung này có hiệu lực, ngoại trừ các trường hợp quy định tại Điều 2 của Quy tắc và Điều khoản sản phẩm bổ sung này, Công ty sẽ chi trả Chi phí y tế thực tế, trừ mức Đồng thanh toán (nếu có) như mô tả trong Bảng 4. Trong mọi trường hợp, tổng số tiền thanh toán cho Quyền lợi điều trị nha khoa không vượt quá Quyền lợi tối đa mỗi Năm hợp đồng và tổng số tiền thanh toán cho mỗi hạng mục trong Quyền lợi điều trị nha khoa không vượt quá Hạn mức như quy định ở Bảng 4.
+
+
+Bảng 4: Chi tiết Quyền lợi bảo hiểm - Điều trị nha khoa: 
+
+
+Đơn vị: đồng 
+
+
+<table><tr><td colspan="2">Kế hoạch bảo hiểm</td><td>Cơ bản</td><td>Nâng cao</td><td>VIP</td><td>VIP Plus</td></tr><tr><td colspan="2">Quyền lợi tối đa mỗi Năm hợp đồng</td><td rowspan="2">Không áp dụng</td><td rowspan="2"></td><td rowspan="2"></td><td>10.000.000</td></tr><tr><td colspan="2">Đồng thanh toán</td><td>Ngoài Hệ thống bảo lãnh viện phí: 20%<br/>Trong Hệ thống bảo lãnh viện phí: 10%<br/>Khám/điều trị tại Bệnh viện công hoặc đã được chi trả bởi Bảo hiểm y tế hoặc công ty bảo hiểm khác: không áp dụng</td></tr><tr><td colspan="2">Các loại Chi phí y tế thực tế</td><td colspan="4">Hạn mức</td></tr><tr><td>1</td><td>Cạo vôi răng/Năm hợp đồng (tối đa 2 lần)</td><td rowspan="2">Không áp dụng</td><td rowspan="2"></td><td rowspan="2"></td><td>2.000.000</td></tr><tr><td>2</td><td>Chi phí điều trị nha khoa (bao gồm chi phí xét nghiệm, chẩn đoán và thuốc) phát sinh trong các điều trị sau:<br/>- Viêm nướu<br/>- Nhổ răng sâu (không phẫu thuật)<br/>- Trám răng bằng chất liệu thông thường (amalgam, composite, GIC, fuji hoặc tương đương)<br/>- Chữa tủy răng<br/>- Chụp X-quang theo chỉ định của Bác sĩ<br/>- Cắt mô cứng của răng, cắt cuống răng<br/>- Răng giả, mão răng (không bao gồm trồng răng)</td><td>Theo Chi phí y tế thực tế</td></tr></table>
+
+
+## ĐIỀU 2: ĐIỀU KHOẢN LOẠI TRỪ 
+
+
+Công ty sẽ không chi trả quyền lợi bảo hiểm như quy định tại Điều 1 của Quy tắc và Điều khoản sản phẩm bổ sung này trong các trường hợp sau: 
+
+
+- Việc điều trị y tế của Người được bảo hiểm xảy ra trong Thời gian chờ, trừ trường hợp do Tai nạn; hoặc 
+
+
+- Bệnh có sẵn; hoặc
+
+
+- Bệnh bẩm sinh/Dị tật bẩm sinh; hoặc 
+
+
+- Điều trị liên quan đến nạo phá thai (trừ trường hợp theo chỉ định của Bác sĩ), vô sinh, rối loạn chức năng tình dục, thụ tinh nhân tạo, phòng tránh thai, triệt sản; hoặc 
+
+
+- Kiểm tra mắt và phẫu thuật liên quan đến điều trị tật khúc xạ mắt, mua mắt kính hoặc kính áp tròng; hoặc 
+
+
+- Tự tử hoặc tự gây Thương tật trong lúc tinh táo hay mất trí; hoặc 
+
+
+- Người được bảo hiểm sử dụng thức uống có cồn vượt quá nồng độ quy định của pháp luật hoặc sử dụng trái phép chất kích thích, chất gây nghiện, thuốc ngủ, thuốc an thần hoặc bất kỳ chất độc nào; hoặc 
+
+
+- Mua nội tạng để ghép tạng, ngoại trừ Chi phí y tế thực tế cho việc Cấy ghép nội tạng được quy định tại Quy tắc và Điều khoản sản phẩm bổ sung này; hoặc 
+
+
+- Chiến tranh (tuyên chiến hay không tuyên chiến) hoặc các hoạt động gây chiến, bao gồm hành động xâm lược, hành động của nước thù địch, nội chiến, nổi loạn, cách mạng, khởi nghĩa, đảo chính quân sự hoặc tiếm quyền; hoặc 
+
+
+- Sử dụng dược mỹ phẩm, thuốc bổ, khoáng chất, thực phẩm chức năng, dinh dưỡng bổ sung; hoặc 
+
+
+- Phẫu thuật chuyển giới, phẫu thuật thẩm mỹ, phẫu thuật tạo hình (trừ trường hợp do Tai nạn), làm đẹp bao gồm cả việc điều trị các vấn đề về da, mụn trứng cá, nám da, tàn nhang, mụn thịt dư, khuyết tật sắc tố da, gàu; hoặc 
+
+
+- Điều trị thử nghiệm, nghỉ dưỡng, phục hồi sức khỏe, điều trị phòng ngừa (tiêm chủng, vacxin); hoặc 
+
+
+- Điều trị bệnh tâm thần hoặc rối loạn tâm lý, trầm cảm, điều trị rối loạn giấc ngủ, mất ngủ, ngáy, hội chứng căng thẳng thần kinh; hoặc 
+
+
+- Điều trị các chứng nghiệm rượu, nghiện thuốc lá, ma túy, chất kích thích hoặc các chất gây nghiện khác, trừ trường hợp theo chỉ định của Bác sĩ; hoặc 
+
+
+- Điều trị các Thương tật phát sinh từ việc Người được bảo hiểm tham gia vào các hoạt động thể thao và giải trí nguy hiểm, hoạt động dưới nước sử dụng thiết bị thở; bất kỳ hoạt động nguy hiểm nào liên quan đến độ cao, có hoặc không có các công cụ hỗ trợ; võ thuật và đấm bốc; bất kỳ hoạt động liên quan đến chất nổ; đua xe thể thao hoặc xe gắn máy dưới mọi hình thức; bất kỳ môn thể thao chuyên nghiệp nào trừ cờ vua hoặc cờ tướng; hoặc 
+
+
+- Điều trị các Thương tật phát sinh từ việc Người được bảo hiểm hay hoặc thực hiện bất kỳ hoạt động trên không nào khác ngoại trừ hành khách trả tiền vé trên một dịch vụ hàng không công cộng hoặc thuê máy bay được cấp phép; hoặc 
+
+
+- Điều trị nhiễm bức xạ hoặc phóng xạ; hoặc 
+
+
+- Điều trị liên quan đến HIV/AIDS hoặc bệnh lây truyền qua đường tình dục, ngoại trừ trường hợp nhiễm HIV/AIDS do Tai nạn nghề nghiệp khi đang làm nhiệm vụ với tư cách là công an, nhân viên y tế; hoặc 
+
+
+- Điều trị các Thương tật phát sinh từ hành vi phạm tội hoặc cố tình tham gia vào các hành vi phạm tội hoặc hành vi vi phạm pháp luật (được quy định tại Bộ Luật
+
+
+Hình Sự của Việt Nam) của bất kỳ Người được bảo hiểm, Bên mua bảo hiểm, hoặc Người thụ hưởng; hoặc 
+
+
+- Chi phí cung cấp, bảo trì và sửa chữa thiết bị, chân/tay giả và thiết bị chỉnh hình, thiết bị khắc phục, thiết bị trợ thính hoặc thị lực, nạng hoặc xe lăn, máy móc, thiết bị y tế và dịch vụ cá nhân phục vụ cho mục đích chẩn đoán hoặc điều trị hỗ trợ y tế. 
+
+
+## ĐIỀU 3: GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM 
+
+
+3.1. Người yêu cầu giải quyết quyền lợi bảo hiểm cần gửi Hồ sơ yêu cầu giải quyết quyền lợi bảo hiếm cho Công ty trong vòng 12 tháng kể từ ngày xảy ra sự kiện bảo hiểm, nếu không Công ty có quyền từ chối giải quyết quyền lợi bảo hiểm. Công ty sẽ chỉ xem xét việc giải quyết quyền lợi bảo hiểm nếu việc chậm nộp Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm là hậu quả của các sự kiện bất khả kháng theo quy định của pháp luật hoặc có lý do chính đáng được Công ty chấp thuận. 
+
+
+3.2. Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm bao gồm: 
+
+
+- Giấy yêu cầu giải quyết Quyền lợi bảo hiểm theo mẫu của Công ty; 
+
+
+- Tóm tắt bệnh án hoặc bản sao hồ sơ bệnh án (sổ khám bệnh và các chứng từ y tế liên quan đến việc khám, chẩn đoán và điều trị, đơn thuốc) có chẩn đoán Bệnh được cấp bởi Cơ sở y tế; 
+
+
+- Chứng từ bản gốc/sao y liên quan đến việc điều trị (giấy ra viện, giấy chứng nhận phẫu thuật, bản kê chi tiết viện phí điều trị, giấy chỉ định chăm sóc y tế tại nhà, phiếu điều trị nha khoa); 
+
+
+- Bản gốc biên lai hoặc hóa đơn tài chính theo quy định của pháp luật; 
+
+
+- Bản công chứng, chứng thực hợp pháp hóa lãnh sự các giấy tờ, bằng chứng (bằng tiếng Anh hoặc tiếng Việt) cho trường hợp khám và điều trị ở nước ngoài; 
+
+
+- Bản sao giấy tờ tùy thân của người nhận quyền lợi bảo hiểm (CMND hoặc hộ chiếu hoặc thẻ căn cước công dân); 
+
+
+- Trong trường hợp Tai nạn, các chứng từ bản gốc/sao y bao gồm: Biên bản tai nạn giao thông, báo cáo kết luận điều tra, được cơ quan có thẩm quyền cấp; 
+
+
+- Trong trường hợp nhiễm HIV/AIDS do Tai nạn nghề nghiệp, bằng chứng chuyển đổi huyết thanh từ HIV âm tính sang HIV dương tính xảy ra trong vòng 180 ngày kể từ khi xảy ra Tai nạn. Bằng chứng này phải bao gồm xét nghiệm kháng thể HIV âm tính trong vòng 5 ngày kể từ khi xảy ra Tai nạn; 
+
+
+- Ngoài các giấy tờ nêu trên, Công ty có quyền yêu cầu cung cấp thêm các bằng chứng hoặc giấy tờ cần thiết khác để giúp cho việc giải quyết quyền lợi bảo hiểm. Chi phí cung cấp các chứng từ hoặc giấy tờ này do Công ty chi trả. 
+
+
+## ĐIỀU 4: THỜI HẠN BẢO HIỂM VÀ PHÍ BẢO HIỂM 
+
+
+## 4.1. Thời hạn bảo hiểm: 
+
+
+Thời hạn bảo hiểm là 1 năm và được tự động gia hạn hàng năm nếu không có bên nào thông báo về việc chấm dứt hiệu lực của sản phẩm bổ sung này, với điều kiện tuổi của
+
+
+Người được bảo hiểm không vượt quá 70 tuổi tại thời điểm kết thúc Thời hạn bảo hiểm. Trong mọi trường hợp, Thời hạn bảo hiểm của sản phẩm bổ sung này không vượt quá Thời hạn đóng phí còn lại của sản phẩm chính. 
+
+
+Tùy thuộc vào sự chấp thuận của Công ty, sản phẩm bổ sung này được xem xét gia hạn tại mỗi Ngày kỷ niệm năm hợp đồng cho đến khi Bên mua bảo hiểm yêu cầu chấm dứt hiệu lực sản phẩm bổ sung này hoặc Người được bảo hiểm không còn đáp ứng các điều kiện được bảo hiểm theo quy định tại Quy tắc và Điều khoản sản phẩm bổ sung này. 
+
+
+Trong trường hợp Công ty có bằng chứng về việc gian lận bảo hiểm từ Bên mua bảo hiểm và/hoặc Người được bảo hiểm, Công ty có thể từ chối duy trì hiệu lực của sản phẩm bổ sung này vào bất kỳ lúc nào và thông báo cho Bên mua bảo hiểm ít nhất 30 ngày trước khi sản phẩm bổ sung này chấm dứt hiệu lực. Trong trường hợp này, Công ty hoàn lại số phí bảo hiểm của sản phẩm bổ sung đã đóng tương ứng với thời gian còn lại của sản phẩm bổ sung này. 
+
+
+## 4.2. Phí bảo hiểm: 
+
+
+Phí bảo hiểm được tính theo tuổi của Người được bảo hiểm tại thời điểm phát hành sản phẩm bổ sung này và sau đó được điều chỉnh theo tuổi tại các Ngày kỷ niệm năm hợp đồng. 
+
+
+Phí bảo hiểm và định kỳ đóng phí của sản phẩm bổ sung này được thể hiện trên Giấy chứng nhận bảo hiểm hoặc các sửa đổi, bổ sung liên quan gần nhất (nếu có). Định kỳ đóng phí của sản phẩm bổ sung luôn giống với định kỳ đóng phí của sản phẩm chính của Hợp đồng bảo hiểm. 
+
+
+Trong trường hợp được sự chấp thuận của Bộ Tài chính, Công ty có thể thay đổi Phí bảo hiểm của sản phẩm bổ sung này. Công ty sẽ thông báo cho Bên mua bảo hiểm ít nhất 3 tháng trước khi việc thay đổi này có hiệu lực và Phí bảo hiểm mới sẽ được áp dụng vào Ngày kỷ niệm năm hợp đồng kế tiếp. 
+
+
+## ĐIỀU 5: CHẤP NHẬN BẢO HIỂM CÓ ĐIỀU KIỆN 
+
+
+5.1. Trong trường hợp chấp nhận bảo hiểm với những điều kiện và thỏa thuận đặc biệt phù hợp với quy định của pháp luật bao gồm: chấp nhận bảo hiểm với Số tiền bảo hiểm/Quyền lợi bảo hiểm điều chỉnh, phí bảo hiểm điều chỉnh, hoặc điều chỉnh phạm vi loại trừ trách nhiệm bảo hiểm, hoặc điều chỉnh các điều kiện bảo hiểm khác dựa trên kết quả đánh giá, thẩm định Hồ sơ yêu cầu bảo hiểm hoặc Hồ sơ yêu cầu tham gia sản phẩm bổ sung này; Công ty sẽ gửi thông báo bằng văn bản đến Bên mua bảo hiểm, trong đó ghi rõ những điều kiện và thỏa thuận đặc biệt này. 
+
+
+5.2. Sản phẩm bổ sung này chỉ được phát hành khi Bên mua bảo hiểm chấp thuận những điều kiện và thỏa thuận đặc biệt này và Công ty đã nhận đủ phí bảo hiểm bổ sung (nếu có). Những điều kiện và thỏa thuận đặc biệt được Bên mua bảo hiểm và Công ty chấp thuận sẽ trở thành bộ phận không tách rời của Hợp đồng bảo hiểm và được ghi rõ tại Giấy chứng nhận bảo hiểm hoặc các sửa đổi, bổ sung liên quan gần nhất (nếu có).
+
+
+## ĐIỀU 6: CÁC ĐIỀU KHOẢN KHÁC 
+
+
+## 6.1. Thay đổi nghề nghiệp/nơi cư trú/ra khỏi lãnh thổ Việt Nam 
+
+
+Trường hợp Người được bảo hiểm thay đổi thông tin liên hệ, thông tin cá nhân, nghề nghiệp, Bên mua bảo hiểm phải thông báo bằng văn bản cho Công ty trong vòng 30 ngày kể từ ngày có thay đổi. 
+
+
+Nếu Người được bảo hiểm ra khỏi phạm vi lãnh thổ Việt Nam trong thời gian 3 tháng trở lên, Bên mua bảo hiểm phải thông báo bằng văn bản cho Công ty tối thiểu 30 ngày trước ngày Người được bảo hiểm xuất cảnh. 
+
+
+Trong trường hợp Người được bảo hiểm thay đổi nghề nghiệp và/hoặc ra khỏi phạm vi lãnh thổ Việt Nam trong thời gian 3 tháng trở lên, Công ty sẽ thẩm định lại và có thể (i) xác định lại mức phí bảo hiểm, và/hoặc loại trừ trách nhiệm bảo hiểm, và/hoặc giảm quyền lợi bảo hiểm; hoặc (ii) chấm dứt hiệu lực sản phẩm bổ sung này. Nếu Công ty chấm dứt hiệu lực sản phẩm bổ sung này, Công ty hoàn lại số phí bảo hiểm của sản phẩm bổ sung đã đóng tương ứng với thời gian còn lại của sản phẩm bổ sung này. 
+
+
+## 6.2. Thay đổi Kế hoạch bảo hiểm 
+
+
+Trong thời gian Hợp đồng bảo hiểm có hiệu lực, Bên mua bảo hiểm có thể yêu cầu thay đổi Kế hoạch bảo hiểm. Việc thay đổi Kế hoạch bảo hiểm sẽ có hiệu lực từ Ngày kỷ niệm năm hợp đồng kế tiếp ngay sau khi Công ty chấp thuận yêu cầu thay đổi Kế hoạch bảo hiểm. Phí bảo hiểm và quyền lợi bảo hiểm sẽ được điều chỉnh tương ứng. 
+
+
+Trường hợp thay đổi Kế hoạch bảo hiểm với Quyền lợi bảo hiểm tối đa mỗi Năm hợp đồng từ thấp lên cao hơn, Người được bảo hiểm không được vượt quá 65 tuổi tại thời điểm yêu cầu và phải đáp ứng các yêu cầu về thẩm định của Công ty. 
+
+
+## 6.3. Chấm dứt hiệu lực sản phẩm bổ sung 
+
+
+Sản phẩm bổ sung này sẽ chấm dứt hiệu lực vào các ngày sau, tùy thuộc vào sự kiện nào xảy ra trước: 
+
+
+- Ngày kết thúc Thời hạn bảo hiểm của sản phẩm bổ sung; hoặc 
+
+
+- Bên mua bảo hiểm yêu cầu chấm dứt hiệu lực sản phẩm bổ sung này; hoặc 
+
+
+- Sản phẩm chính chuyển đổi thành Hợp đồng có số tiền bảo hiểm giảm; hoặc 
+
+
+- Sản phẩm chính chấm dứt hiệu lực; hoặc 
+
+
+- Người được bảo hiểm Từ vong; hoặc 
+
+
+- Ngày kỷ niệm năm hợp đồng ngay khi Người được bảo hiểm đạt 70 tuổi; hoặc 
+
+
+- Sản phẩm bổ sung này chấm dứt hiệu lực theo quy định tại Điều 4.1 hoặc Điều 6.1 của Quy tắc và Điều khoản này. 
+
+
+## ĐIỀU 7: ĐỊNH NGHĨA 
+
+
+7.1. “Người được bảo hiểm”: là cá nhân có độ tuổi từ 30 ngày tuổi đến 65 tuổi tính theo ngày sinh nhật gần nhất trước Ngày hiệu lực của sản phẩm bổ sung này và được Công ty chấp nhận bảo hiểm theo Quy tắc và Điều khoản sản phẩm bổ sung này.
+
+
+7.2. “Ngày hiệu lực của sản phẩm bổ sung”: là ngày Bên mua bảo hiểm hoàn tất Hồ sơ yêu cầu bảo hiểm hoặc Hồ sơ yêu cầu tham gia sản phẩm bổ sung này và nộp đủ phí bảo hiểm nếu Bên mua bảo hiểm và Người được bảo hiểm còn sống vào thời điểm Hồ sơ yêu cầu bảo hiểm hoặc Hồ sơ yêu cầu tham gia sản phẩm bổ sung này được Công ty chấp thuận. Ngày hiệu lực của sản phẩm bổ sung được ghi trên Giấy chứng nhận bảo hiểm hoặc các sửa đổi, bổ sung liên quan gần nhất (nếu có). 
+
+
+7.3. “Số tiền bảo hiểm”: là số tiền Công ty chấp thuận bảo hiểm theo Quy tắc và Điều khoản sản phẩm bổ sung này và được ghi trên Giấy chứng nhận bảo hiểm hoặc các sửa đổi, bổ sung liên quan gần nhất (nếu có). 
+
+
+7.4. “Bệnh”: là tình trạng ốm đau, bệnh tật mà Người được bảo hiểm mắc phải trong thời gian hiệu lực của Sản phẩm bổ sung này và cần được Bác sĩ chẩn đoán và điều trị. 
+
+
+7.5. “Thương tật”: là các tổn thương cơ thể bị gây ra do Tai nạn và không liên quan đến nguyên nhân nào khác trong Thời hạn bảo hiểm. 
+
+
+7.6. “Bệnh bẩm sinh/Dị tật bẩm sinh”: là sự phát triển bất thường về thể chất hoặc tâm thần xuất hiện ngay từ khi sinh, hoặc do các yếu tố tồn tại ngay từ khi sinh. 
+
+
+7.7. “Bệnh đặc biệt”: bao gồm: 
+
+
+a) Khối u lành tính hoặc ác tính; 
+
+
+b) Bệnh trĩ hoặc rò hậu môn; 
+
+
+c) Tràn dịch màng tinh hoàn; 
+
+
+d) Các loại bệnh thoát vị; 
+
+
+e) Tăng huyết áp hoặc bệnh tim mạch; 
+
+
+f) Sỏi hệ tiết niệu; 
+
+
+g) Phẫu thuật cắt bỏ dạ con (tử cung); 
+
+
+h) Đục thủy tinh thể; 
+
+
+i) Thoát vị đĩa đệm cột sống; 
+
+
+j) Bệnh túi mật và sỏi mật; 
+
+
+k) Bệnh lý xoang hoặc bất thường của đường mũi, vách ngăn, hoặc xoăn mũi; 
+
+
+l) Lạc nội mạc tử cung; 
+
+
+m) Rối loạn chức năng tuyến giáp; 
+
+
+n) Bệnh động kinh; 
+
+
+o) Lao; 
+
+
+p) Loét dạ dày hoặc tá tràng; 
+
+
+q) Giãn tĩnh mạch thừng tinh; 
+
+
+r) Bệnh ngón chân cái vẹo ngoài; 
+
+
+7.8. “Cơ sở y tế”: là cơ sở khám chữa bệnh hợp pháp và được cơ quan nhà nước có thẩm quyền của nước sở tại cấp giấy phép hoạt động. Cơ sở y tế không phải là nơi an
+
+
+dưỡng, dưỡng lão, spa, thẩm mỹ, masage, xông hơi, hay cơ sở chữa trị dành riêng cho người nghiện rượu, ma túy, chất kích thích, người bị bệnh tâm thần và bệnh phong. 
+
+
+Công ty có quyền không chi trả quyền lợi bảo hiểm của sản phẩm bổ sung này nếu Người được bảo hiểm đi khám bệnh và/hoặc điều trị tại Cơ sở y tế thuộc Danh sách Cơ sở y tế không được chi trả. Danh sách Cơ sở y tế không được chi trả được cập nhật trên trang thông tin điện tử chính thức (website) của Công ty vào từng thời điểm. 
+
+
+7.9. “Bệnh viện công”: là Cơ sở y tế được thành lập bởi 100% vốn nhà nước Việt Nam, và được quản lý bởi cơ quan nhà nước có thẩm quyền theo quy định của pháp luật Việt Nam. 
+
+
+7.10. “Cấp cứu”: là tình trạng Người được bảo hiểm chấn thương hoặc tổn thương nghiêm trọng và đòi hỏi phải được chăm sóc y tế, điều trị hoặc phẫu thuật trong vòng 24 giờ kể từ khi bị chấn thương hoặc tổn thương, nếu không có thể nguy hiểm đến tính mạng hoặc mất các cơ quan chức năng quan trọng của cơ thể như chân tay, thị lực. 
+
+
+7.11. “Bác sĩ”: là người có bằng cấp chuyên môn y khoa và/hoặc nha khoa, được cơ quan có thẩm quyền cấp phép hoặc thừa nhận được thực hành nghề y/nha khoa hợp pháp trong phạm vi giấy phép theo pháp luật của nước sở tại nơi Người được bảo hiểm tiến hành việc khám và điều trị. Trừ trường hợp được Công ty chấp thuận bằng văn bản hoặc những người sau đây làm nhiệm vụ theo sự phân công của cấp có thẩm quyền, Bác sĩ không được đồng thời là: 
+
+
+- Bên mua bảo hiểm, Người được bảo hiểm hoặc Người thụ hưởng; hoặc 
+
+
+- Vợ/chồng, cha/mẹ, con, anh chị em ruột của Bên mua bảo hiểm/Người được bảo hiểm. 
+
+
+7.12. “Bác sĩ chuyên khoa”: là Bác sĩ được công nhận có chuyên môn như một chuyên gia trong khoa điều trị đặc thù liên quan đến Bệnh của Người được bảo hiểm. 
+
+
+7.13. “Y tá/Điều dưỡng”: là nhân viên y tế được cấp phép hành nghề y tá/điều dưỡng hợp pháp theo luật pháp của nước sở tại nơi nhân viên y tế đó thực hiện việc chăm sóc y tế. 
+
+
+7.14. “Cần thiết và hợp lý về mặt y khoa”: là sự điều trị y khoa do Bác sĩ chỉ định và đáp ứng những điều kiện sau: 
+
+
+- Phải phù hợp với các triệu chứng, chẩn đoán hoặc điều trị cho bệnh nhân; 
+
+
+- Phải phù hợp với thực tiễn y tế thông thường đã được chấp nhận và với các tiêu chuẩn chuyên môn áp dụng bởi cộng đồng y tế tại thời điểm chăm sóc; 
+
+
+- Bắt buộc vì các lý do khác ngoài lý do tiện nghi thoải mái cho bệnh nhân hoặc ý thích của bệnh nhân hoặc của Bác sĩ; 
+
+
+- Có tác dụng y tế đã được chứng minh và thừa nhận; 
+
+
+- Được thực hiện bởi các thiết bị và vật liệu với số lượng và chất lượng phù hợp với mức độ chăm sóc cần thiết đối với tình trạng sức khỏe của bệnh nhân; 
+
+
+- Chỉ cung cấp trong một khoảng thời gian phù hợp với tình trạng sức khỏe của bệnh nhân. 
+
+
+- Liên quan đến việc nằm viện, “Cần thiết và hợp lý về mặt y khoa” có nghĩa rằng việc chẩn đoán và điều trị không thể đạt được một cách an toàn và hiệu quả nếu Người được bảo hiểm không nằm viện.
+
+
+7.15. “Bệnh nhân nội trú”: là Người được bảo hiểm đã hoàn tất thủ tục nhập viện và theo yêu cầu Cần thiết và hợp lý về mặt y khoa, Người được bảo hiểm phải nằm viện qua đêm tại Cơ sở y tế để điều trị. Việc nằm viện làm Bệnh nhân nội trú chỉ được chấp nhận khi Người được bảo hiểm nhập viện tại một Cơ sở y tế. 
+
+
+7.16. “Biến chứng thai sản”: là những biến chứng xảy ra do quá trình mang thai và sinh đẻ, không bao gồm thai trứng, thai ngoài tử cung, các biện pháp và biến chứng liên quan đến kế hoạch hóa gia đình và liên quan đến điều trị thụ tinh trong ống nghiệm. 
+
+
+7.17. “Chi phí chăm sóc trẻ sơ sinh”: là các chi phí y tế cần thiết phát sinh trong vòng 7 ngày kể từ khi sinh để điều trị Bệnh hoặc triệu chứng của trẻ sơ sinh trong Cơ sở y tế. Chi phí chăm sóc trẻ sơ sinh không bao gồm phí khám, chẩn đoán, xét nghiệm hoặc điều trị Bệnh bẩm sinh/Dị tật bẩm sinh. 
+
+
+7.18. “Chi phí y tế thực tế”: là chi phí y tế được thể hiện trên bảng kê chi tiết chi phí điều trị, biên lai hoặc hóa đơn tài chính theo quy định của pháp luật, không vượt quá Hạn mức được nêu tại bảng Chi tiết Quyền lợi bảo hiểm tại từng mục điều trị và không thuộc các trường hợp loại trừ . 
+
+
+7.19. “Chi phí y tế nội trú khác”: là chi phí phát sinh từ việc điều trị y tế Cần thiết và hợp lý về mặt y khoa tại Cơ sở y tế đối với Bệnh/Thương tật của Người được bảo hiểm, bao gồm khám và chăm sóc y tế; thuốc điều trị; quần áo, băng, nẹp và nẹp thạch cao (loại trừ chân, tay giả, dụng cụ lắp ghép nhân tạo); thuốc, dịch hoặc các chất liên quan đến tiêm truyền tĩnh mạch ; xét nghiệm; Xquang, MRI, CT, PET hoặc các chẩn đoán hình ảnh khác; thở o-xy và các thiết bị liên quan; đồng vị phóng xạ và các xét nghiệm liên quan; truyền máu, chi phí máu, huyết tương; Vật tư tiêu hao và vật lý trị liệu. 
+
+
+7.20. “Ngày nằm viện”: có nghĩa là một ngày Người được bảo hiểm nằm viện qua đêm làm Bệnh nhân nội trú mà viện phí và tiền phòng theo quy định của Cơ sở y tế phải được thể hiện trên hóa đơn viện phí. 
+
+
+7.21. “Phẫu thuật”: là phương pháp y khoa yêu cầu phải rạch mô hoặc các kỹ thuật phẫu thuật xâm lấn khác, được Bác sĩ/Bác sĩ chuyên khoa thực hiện theo mục đích điều trị Bệnh/Thương tật của Người được bảo hiểm. Quy trình cần được thực hiện bằng các thiết bị phẫu thuật, theo quy trình gây mê toàn thân, khu vực hoặc cục bộ trong Phòng phẫu thuật của Cơ sở y tế. 
+
+
+7.22. “Phòng phẫu thuật”: là một bộ phận của Cơ sở y tế được trang bị các thiết bị y tế phù hợp và cần thiết để phục vụ cho việc Phẫu thuật. 
+
+
+7.23. “Chi phí phẫu thuật”: là chi phí dùng trong Phẫu thuật, bao gồm: 
+
+
+- Chi phí Phòng phẫu thuật, phòng hồi sức sau mổ; 
+
+
+- Tiền công Phẫu thuật; 
+
+
+- Chi phí cho các Vật tư tiêu hao được sử dụng trong Phẫu thuật; 
+
+
+- Chi phí máy tạo nhịp tim, stent mạch vành và/hoặc van tim được cấy ghép vào cơ thể Người được bảo hiểm trong quá trình Phẫu thuật; 
+
+
+- Chi phí sử dụng các thiết bị y tế hoặc phẫu thuật Cần thiết và hợp lý về mặt y khoa trong Phẫu thuật;Chi phí tiền mê và hồi sức sau mổ.
+
+
+Trong mọi trường hợp, Chi phí y tế thực tế của 1 hay nhiều Phẫu thuật Cần thiết và hợp lý về mặt y khoa được thực hiện cho Người được bảo hiểm trong cùng 1 lần Điều trị nội trú được xem là 1 lần Phẫu thuật. 
+
+
+7.24. “Vận chuyển cấp cứu trong nước”: là vận chuyển cấp cứu trong lãnh thổ Việt Nam bằng xe cứu thương và chăm sóc trong quá trình vận chuyển Người được bảo hiểm đang trong tình trạng nguy cấp tới Cơ sở y tế. Vận chuyển cấp cứu trong nước không bao gồm vận chuyển cấp cứu do thai sản, ngoại trừ cấp cứu thai sản do Tai nạn. 
+
+
+7.25. “Bệnh có sẵn”: là tình trạng Bệnh hoặc Thương tật của Người được bảo hiểm đã được Bác sĩ khám, chẩn đoán, hoặc điều trị, hoặc Người được bảo hiểm đã biết trước Ngày hiệu lực của sản phẩm bổ sung, hoặc ngày khôi phục hiệu lực gần nhất của sản phẩm bổ sung này (nếu có), hoặc ngày thay đổi Kế hoạch bảo hiểm gần nhất (nếu có). Hồ sơ y tế, tiền sử bệnh được lưu giữ tại Cơ sở y tế hoặc các thông tin do Bên mua bảo hiểm/Người được bảo hiểm tự kê khai được xem là bằng chứng đầy đủ và hợp pháp về Bệnh có sẵn. Bệnh có sẵn không bao gồm bệnh đã được kê khai và được Công ty chấp thuận bảo hiểm. 
+
+
+Người được bảo hiểm được xem là đã biết về Bệnh có sẵn nếu: 
+
+
+a. Người được bảo hiểm đã từng hoặc đang điều trị Bệnh hoặc Thương tật này; hoặc 
+
+
+b. Người được bảo hiểm đã được đề nghị tư vấn y khoa, chẩn đoán hoặc điều trị cho Bệnh hoặc Thương tật này. 
+
+
+7.26. “Khoa chăm sóc đặc biệt”: là một bộ phận của Cơ sở y tế và phải đáp ứng tất cả các điều kiện sau: 
+
+
+- Được thiết lập nhằm cung cấp chương trình chăm sóc, theo dõi và điều trị tích cực; 
+
+
+- Dành riêng cho những bệnh nhân trong điều kiện nguy kịch, cần sự theo dõi và kiểm tra y tế liên tục của Bác sĩ; 
+
+
+- Được trang bị các thiết bị y tế, thuốc men, dụng cụ và các phương tiện cấp cứu cần thiết cho việc cứu sống bệnh nhân một cách nhanh chóng; 
+
+
+- Không phải là Khoa/phòng cấp cứu, Khoa/phòng hậu phẫu của Cơ sở y tế. 
+
+
+7.27. “Thời gian chờ”: là khoảng thời gian mà các quyền lợi bảo hiểm sẽ không được Công ty chi trả. Thời gian chờ được tính từ Ngày hiệu lực của sản phẩm bổ sung, hoặc ngày khôi phục hiệu lực gần nhất của sản phẩm bổ sung này, hoặc ngày thay đổi Kế hoạch bảo hiểm gần nhất (cho phần tăng thêm),tùy ngày nào đến sau. Thời gian chờ được quy định như sau: 
+
+
+- Đối với Bệnh đặc biệt, ung thư và Cấy ghép nội tạng: 90 ngày; 
+
+
+- Đối với Chăm sóc thai sản: 270 ngày; 
+
+
+- Đối với các Bệnh khác: 30 ngày; 
+
+
+- Đối với trường hợp Tai nạn: không áp dụng. 
+
+
+7.28. “Cấy ghép nội tạng”: là Phẫu thuật cấy ghép tim, phổi, gan, tuyến tụy, thận, tủy xương cho Người được bảo hiểm được tiến hành bởi Bác sĩ tại một Cơ sở y tế. Công ty sẽ chi trả Chi phí y tế thực tế liên quan đến người nhận tạng (Người được bảo hiểm) và Chi phí phẫu thuật cho người hiến tạng (không phải Người được bảo hiểm).
+
+
+7.29. “Đồng thanh toán”: là tỷ lệ phần trăm tính trên Chi phí y tế thực tế mà Bên mua bảo hiểm hoặc Người được bảo hiểm phải có trách nhiệm thanh toán cho mỗi sự kiện bảo hiểm khi Người được bảo hiểm Điều trị ngoại trú hoặc Điều trị nha khoa theo quy định tại Quy tắc và Điều khoản của sản phẩm bổ sung này. 
+
+
+Đồng thanh toán không áp dụng khi Người được bảo hiểm khám, điều trị tại Bệnh viện công hoặc quyền lợi bảo hiểm đã được thanh toán bởi Bảo hiểm y tế hoặc các công ty bảo hiểm khác. Công ty sẽ chi trả giá trị còn lại của Chi phí y tế thực tế trừ số tiền đã được thanh toán bởi Bảo hiểm y tế hoặc các công ty bảo hiểm khác. 
+
+
+7.30. “Đợt điều trị”: là khoảng thời gian từ khi Người được bảo hiểm nhập viện đến khi xuất viện để được điều trị y tế tại Cơ sở y tế. Giấy ra viện là bằng chứng cho việc kết thúc một Đợt điều trị. 
+
+
+7.31. “Điều trị nội trú”: là việc Người được bảo hiểm được điều trị y tế tại Cơ sở y tế và có làm thủ tục nhập viện và nằm điều trị qua đêm. 
+
+
+7.32. “Điều trị ngoại trú”: là việc Người được bảo hiểm được điều trị y tế tại một Cơ sở y tế và không phải là Điều trị nội trú. 
+
+
+7.33. “Điều trị trước khi nhập viện”: là dịch vụ thăm khám, xét nghiệm, chẩn đoán hình ảnh, điều trị liên quan trực tiếp đến Bệnh hoặc Thương tật mà Người được bảo hiểm phải nhập viện để điều trị theo chỉ định của Bác sĩ và phải được thực hiện trong vòng 30 ngày trước ngày nhập viện của Đợt điều trị đó. 
+
+
+7.34. “Điều trị sau khi xuất viện”: là điều trị y tế theo chỉ định của Bác sĩ sau khi xuất viện bao gồm thăm khám, xét nghiệm, chẩn đoán, Thuốc kê toa, điều trị liên quan trực tiếp đến Bệnh hoặc Thương tật đã được Điều trị nội trú trước đó. Điều trị sau khi xuất viện phải được thực hiện trong vòng 60 ngày kể từ ngày xuất viện của Đợt điều trị đó và chỉ được chi trả 1 lần cho một Đợt điều trị. 
+
+
+7.35. “Điều trị cấp cứu do Tai nạn”: là điều trị y tế do Tai nạn được thực hiện trong vòng 24 giờ kể từ khi xảy ra Tai nạn tại phòng/khoa cấp cứu của Cơ sở y tế. 
+
+
+7.36. “Điều trị tổn thương răng do Tai nạn”: là điều trị các mất mát hoặc tổn thương do Tai nạn đối với răng lành lặn tự nhiên được thực hiện trong vòng 7 ngày kể từ khi xảy ra Tai nạn. Chi phí y tế thực tế cho Điều trị tổn thương răng do Tai nạn bao gồm chi phí tư vấn nha khoa, chi phí cầm máu, nhổ răng, lấy tủy răng, chụp X-quang. 
+
+
+7.37. “Dịch vụ chăm sóc y tế tại nhà”: là dịch vụ chăm sóc y tế tại nơi ở của Người được bảo hiểm, được thực hiện bởi Y tá/Điều dưỡng hoặc Bác sĩ ngay sau khi xuất viện theo chỉ định của Bác sĩ và được thực hiện trong vòng 30 ngày kể từ ngày xuất viện. Chi phí cho dịch vụ này phải có hóa đơn tài chính của Cơ sở y tế. 
+
+
+7.38. “Y học thay thế”: là các phương pháp điều trị theo y học dân tộc cổ truyền và những phương pháp tương tự được thực hiện tại Cơ sở y tế, mà không phải là phương pháp tây y. 
+
+
+7.39. “Quyền lợi tối đa”: là số tiền chi trả tối đa trong suốt Thời hạn bảo hiểm đối với từng Quyền lợi bảo hiểm. 
+
+
+7.40. “Hạn mức”: là số tiền chi trả tối đa đối với từng loại chi phí Cần thiết và hợp lý về mặt y khoa được nêu tại Bảng chi tiết quyền lợi bảo hiểm tại từng mục điều trị.
+
+
+7.41. “Hệ thống bảo lãnh viện phí”: là hệ thống các Cơ sở y tế có ký kết thỏa thuận cung cấp dịch vụ bảo lãnh với Công ty hoặc đối tác của Công ty. Khi Người được bảo hiểm khám và điều trị tại những Cơ sở y tế này, Công ty sẽ sử dụng quyền lợi bảo hiểm (nếu có) để thanh toán chi phí khám và điều trị cho Cơ sở y tế. Bên mua bảo hiểm hoặc Người được bảo hiểm phải tự thanh toán cho những chi phí vượt quá Hạn mức hoặc Quyền lợi tối đa hoặc những chi phí không Cần thiết và hợp lý về mặt y khoa. 
+
+
+Các quyền lợi có thể được bảo lãnh viện phí và Danh sách các Cơ sở y tế thuộc Hệ thống bảo lãnh viện phí của Công ty sẽ được cập nhật trên trang thông tin điện tử chính thức của Công ty (website) hoặc đối tác của Công ty theo từng thời điểm. 
+
+
+7.42. “Điều trị ung thư”: là việc điều trị ung thư dưới hình thức Điều trị nội trú hoặc Điều trị ngoại trú dựa trên chẩn đoán xác định là ung thư, bao gồm chi phí tư vấn, thăm khám, Phẫu thuật, xạ trị, hóa trị, liệu pháp nhắm trúng đích, liệu pháp miễn dịch và liệu pháp nội tiết được thực hiện bởi Bác sĩ/Bác sĩ chuyên khoa liên quan đến chẩn đoán ung thư đó. 
+
+
+7.43. “Lần thăm khám”: là một lần Người được bảo hiểm đến khám tại Cơ sở y tế và được Bác sĩ chỉ định làm các xét nghiệm, chẩn đoán và kê đơn thuốc điều trị liên quan đến Bệnh, triệu chứng Bệnh hoặc Thương tật. Nhiều lần thăm khám cho cùng 1 chẩn đoán trong cùng 1 ngày được xem là 1 Lần thăm khám. 
+
+
+7.44. “Thuốc kê toa”: là các loại thuốc điều trị Cần thiết và hợp lý về mặt y khoa và được kê toa bởi Bác sĩ. Thuốc kê toa phải có trong danh mục đăng ký với cơ quan quản lý nhà nước có thẩm quyền và không bao gồm thực phẩm chức năng, thuốc cho mục đích làm đẹp, mỹ phẩm, vitamin/thuốc bổ, trừ các vitamin/thuốc bổ cần thiết và hỗ trợ cho việc điều trị, được chỉ định bởi Bác sĩ và chi phí ít hơn so với các loại thuốc chính. 
+
+
+7.45. “Vật lý trị liệu”: là phương pháp điều trị sử dụng các biện pháp vật lý để giảm đau, phục hồi chức năng của cơ bắp cho các hoạt động bình thường hàng ngày của Người được bảo hiểm theo chỉ định của Bác sĩ (không phải phương pháp massage, spa hay tập sửa dáng đi) và việc điều trị này phải được thực hiện tại Cơ sở y tế. 
+
+
+7.46. “Vật tư tiêu hao”: là vật tư được sử dụng nhằm mục đích hỗ trợ cho việc điều trị và không được lắp đặt vĩnh viễn trong cơ thể, bao gồm các vật liệu có thể tự tiêu trong cơ thể hoặc có thể lấy ra khỏi cơ thể mà không ảnh hưởng đến chức năng hoạt động của cơ thể. 
+
+
+7.47. “Phòng và giường”: là phòng và giường theo hạng thông thường/tiêu chuẩn của Cơ sở y tế, không phải là giường cao cấp hoặc giường đôi/bộ nhưng đăng ký sử dụng cho 1 bệnh nhân. Trong trường hợp Người được bảo hiểm sử dụng giường cao cấp hoặc giường đôi/bộ nhưng đăng ký sử dụng cho 1 bệnh nhân, chi phí cho Phòng và giường này sẽ được chi trả theo hạng thông thường/tiêu chuẩn của Cơ sở y tế. Chi phí Phòng và giường đã bao gồm suất ăn theo tiêu chuẩn của bệnh nhân trong trường hợp Cơ sở y tế có cung cấp. 
+
+
+7.48. “Phạm vi địa lý”: Công ty đồng ý chi trả các quyền lợi bảo hiểm của Sản phẩm bổ sung này khi các chi phí y tế liên quan đến Bệnh hoặc Thương tật của Người được bảo hiểm phát sinh:
+
+
+- Tại Việt Nam: đối với Kế hoạch bảo hiểm Cơ Bản, Nâng Cao và VIP. 
+
+
+- Tại Châu Á: đối với Kế hoạch bảo hiểm VIP Plus. 
+
+
+7.49. “Tai nạn”: là một sự kiện hoặc một chuỗi sự kiện liên tục, khách quan, xảy ra do tác động của một lực, một vật bất ngờ từ bên ngoài, không chủ động và ngoài ý muốn lên cơ thể của Người được bảo hiểm. Sự kiện hoặc chuỗi sự kiện nêu trên phải là nguyên nhân trực tiếp, duy nhất và không liên quan đến bất kỳ nguyên nhân nào khác gây Thương tật hoặc tử vong cho Người được bảo hiểm trong vòng 180 ngày kể từ ngày xảy ra sự kiện hoặc chuỗi sự kiện đó. 
+
+
+7.50. “Sinh mổ”: là việc sinh con của Người được bảo hiểm cần phải can thiệp Phẫu thuật tại Cơ sở y tế và được thể hiện trên giấy ra viện. 
+
+
+7.51. “Sinh thường”: là việc sinh con tự nhiên của Người được bảo hiểm tại Cơ sở y tế không có can thiệp bằng Phẫu thuật và được thể hiện trên giấy ra viện. 
+
+
+7.52. “Lọc thận”: là phương pháp điều trị thay thế thận Cần thiết và hợp lý về mặt y khoa được thực hiện tại một Trung tâm lọc thận được đăng ký hợp pháp hoặc Khoa ngoại trú của Cơ sở y tế. Thuốc được kê đơn cho mục đích lọc thận cũng sẽ được chi trả trong quyền lợi này.
+
+
+# QUY TẮC VÀ ĐIỀU KHOẢN SẢN PHẨM BẢO HIỂM BỔ SUNG – TỪ KỲ (Ban hành kèm theo Công văn số 13651/BTC-QLBH ngày 14/10/2013 của Bộ Tài chính) 
+
+
+## Мүс үлс 
+
+
+CHƯƠNG I – ĐIỀU KHOẢN BỔ SUNG ................................................................................. 2    Điều 1: Định nghĩa ......................................................................................................... 2    Điều 2: Thời hạn bảo hiểm và Thời hạn đóng phí ................................................................ 3    CHƯƠNG II – QUYỀN LỢI BẢO HIỂM ............................................................................. 3    Điều 3: Quyền lợi bảo hiểm tử vong ................................................................................. 3    Điều 4: Quyền lợi bảo hiểm Thương tật toàn bộ và vĩnh viễn ................................................ 3    Điều 5: Điều khoản loại trừ trách nhiệm bảo hiểm ................................................................ 3    CHƯƠNG III – GIẢI QUYẾT YÊU CẦU BỒI THƯỜNG ......................................................... 4    Điều 6: Trường hợp Người được bảo hiểm tử vong ................................................................ 5    Điều 7: Trường hợp Người được bảo hiểm bị Thương tật toàn bộ và vĩnh viễn .................... 5    CHƯƠNG IV – ĐIỀU KHOẢN KHÁC .................................................................................... 5    Điều 8: Chấm dứt bảo hiểm bổ sung .................................................................................... 5
+
+
+Tất cả các thuật ngữ sử dụng trong Quy tắc và Điều khoản này đều được hiểu như những thuật ngữ trong Hợp đồng bảo hiểm chính. Quy tắc và Điều khoản của Hợp đồng bảo hiểm chính sẽ được áp dụng cho sản phẩm bổ sung. Trong trường hợp có mâu thuẫn giữa sản phẩm chính và sản phẩm bổ sung, điều khoản của sản phẩm bổ sung sẽ được áp dụng. 
+
+
+## CHƯƠNG I – ĐIỀU KHOẢN BỔ SUNG 
+
+
+## Điều 1: Định nghĩa 
+
+
+1.1 “Người được bảo hiểm” là (các) cá nhân hiện đang cư trú tại Việt Nam và được Công ty chấp thuận bảo hiểm theo Quy tắc và Điều khoản sản phẩm bảo hiểm bổ sung này. 
+
+
+1.2 “Thương tật toàn bộ và vĩnh viễn” có nghĩa là một trong những tình trạng như được mô tả dưới đây và tình trạng tàn tật này phải kéo dài ít nhất sáu (06) tháng liên tục: 
+
+
+(i) Người được bảo hiểm được một Bác sỹ hoặc cơ quan y tế có thẩm quyền chẩn đoán là bị mất hoặc liệt hoàn toàn hoặc không thể phục hồi chức năng của: 
+
+
+- Hai mắt; hoặc 
+
+
+- Hai tay; hoặc 
+
+
+- Hai chân; hoặc 
+
+
+- Một mắt và một tay; hoặc 
+
+
+- Một mắt và một chân; hoặc 
+
+
+- Một tay và một chân. 
+
+
+Trong khái niệm này, tay được tính từ cổ tay trở lên, chân được tính từ mắt cá chân trở lên. Mất hoàn toàn không thể phục hồi chức năng của mắt được hiểu là mất mắt hoặc mù hoàn toàn. 
+
+
+(ii) Người được bảo hiểm đã được xác nhận có tỷ lệ thương tật hoặc mất sức lao động vĩnh viễn từ 81% trở lên bởi Hội đồng giám định y khoa cấp tỉnh, thành phố trực thuộc trung ương. 
+
+
+1.3 “Bác sỹ”: là một người không phải là Bên mua bảo hiểm, Người được bảo hiểm, Người thụ hưởng hoặc người thân của Bên mua bảo hiểm, của Người được bảo hiểm hoặc của Người thụ hưởng (trừ trường hợp được Công ty chấp thuận trước bằng văn bản) và là: 
+
+
+- một người đã đăng ký hành nghề y hợp pháp hoặc Bác sỹ phẫu thuật có đăng ký hợp lệ theo Luật khám, chữa bệnh của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam; hoặc 
+
+
+- người được cho phép và được quyền hành nghề tây y ở bất kỳ quốc gia nào khác theo pháp luật của quốc gia đó và được Công ty chấp nhận.
+
+
+## Điều 2: Thời hạn bảo hiểm và Thời hạn đóng phí 
+
+
+Thời hạn bảo hiểm của sản phẩm bổ sung nằm trong khoảng thời hạn từ 6 đến 20 năm, nhưng không vượt quá Thời hạn hợp đồng của sản phẩm chính mà sản phẩm bổ sung này đính kèm. 
+
+
+Thời hạn đóng phí tùy thuộc vào các quy định về đóng phí của sản phẩm chính mà sản phẩm bổ sung này được đính kèm. 
+
+
+## CHƯƠNG II – QUYỀN LỢI BẢO HIỂM 
+
+
+## Điều 3: Quyền lợi bảo hiểm tử vong 
+
+
+Nếu Người được bảo hiểm tử vong trong khi bảo hiểm bổ sung này có hiệu lực và trong thời hạn bảo hiểm, Công ty sẽ chi trả cho Người thụ hưởng 100% Số tiền bảo hiểm như được quy định trong Trang hợp đồng trừ đi các khoản Phí bảo hiểm đến hạn nhưng chưa được đóng (nếu có). 
+
+
+Công ty sẽ chi chi trả quyền lợi bảo hiểm tử vong duy nhất một lần và bảo hiểm bổ sung kết thúc vào ngày quyền lợi này được chi trả. 
+
+
+## Điều 4: Quyền lợi bảo hiểm Thương tật toàn bộ và vĩnh viễn 
+
+
+Nếu Người được bảo hiểm bị Thương tật toàn bộ và vĩnh viễn trước 65 tuổi, khi bảo hiểm bổ sung này còn hiệu lực và trong thời hạn bảo hiểm, Công ty sẽ chi trả cho Người được bảo hiểm 100% Số tiền bảo hiểm như được quy định trong Trang hợp đồng trừ đi khoản Phí bảo hiểm đến hạn nhưng chưa được đóng (nếu có). 
+
+
+Công ty sẽ chi chi trả quyền lợi bảo hiểm Thương tật toàn bộ và vĩnh viễn duy nhất một lần và bảo hiểm bổ sung kết thúc vào ngày quyền lợi này được chi trả. 
+
+
+## Điều 5: Điều khoản loại trừ trách nhiệm bảo hiểm 
+
+
+5.1 Quyền lợi bảo hiểm tử vong sẽ không được chi trả nếu nguyên nhân tử vong của Người được bảo hiểm trực tiếp hoặc gián tiếp do hoặc liên quan đến việc: 
+
+
+1) Người được bảo hiểm tự tử, dù là trong khi có ý thức hoặc mất ý thức, trong vòng 2 năm kể từ ngày bảo hiểm bổ sung có hiệu lực; hoặc 
+
+
+2) Người được bảo hiểm, Bên mua bảo hiểm hoặc Người thụ hưởng phạm tội hoặc mưu toan phạm tội. 
+
+
+Trong trường hợp có hơn một Người thụ hưởng, và một hoặc một số người trong đó cố ý gây ra các hành vi phạm tội đối với Người được bảo hiểm, Công ty vẫn trả quyền lợi bảo hiểm cho những Người thụ hưởng khác theo tỷ lệ tương ứng với tỷ lệ mà Bên mua bảo hiểm đã chỉ định trong Hồ sơ yêu cầu bảo hiểm. 
+
+
+3) Người được bảo hiểm chịu án tử hình theo quyết định của tòa án; hoặc 
+
+
+4) Nhiễm HIV; bị AIDS; hoặc các bệnh liên quan đến HIV/AIDS.
+
+
+5.2 Quyền lợi bảo hiểm Thương tật toàn bộ và vĩnh viễn sẽ không được chi trả nếu nguyên nhân Thương tật toàn bộ và vĩnh viễn của Người được bảo hiểm trực tiếp hoặc gián tiếp do hoặc liên quan đến việc: 
+
+
+1) tự gây thương tích; hoặc 
+
+
+2) Người được bảo hiểm, Bên mua bảo hiểm hoặc Người thụ hưởng phạm tội hoặc mưu toan phạm tội. 
+
+
+Trong trường hợp có hơn một Người thụ hưởng, và một hoặc một số người trong đó cố ý gây ra các hành vi phạm tội đối với Người được bảo hiểm, Công ty vẫn trả quyền lợi bảo hiểm cho những Người thụ hưởng khác theo tỷ lệ tương ứng với tỷ lệ mà Bên mua bảo hiểm đã chỉ định trong Hồ sơ yêu cầu bảo hiểm. 
+
+
+3) bạo động, dân biến, nội chiến hoặc hành động thù địch của các lực lượng có vũ trang, dù Người được bảo hiểm có thực sự tham gia vào các sự kiện đó hay không; hoặc 
+
+
+4) bị thương tật hoặc bị tai nạn trước khi bảo hiểm bổ sung có hiệu lực; hoặc 
+
+
+5) Người được bảo hiểm tham gia lực lượng hải quân, quân đội hoặc không quân, hoặc bất kỳ hoạt động hoặc nhiệm vụ chiến đấu nào với bất kỳ lực lượng vũ trang nào của bất kỳ quốc gia, vùng lãnh thổ hoặc tổ chức quốc tế nào; hoặc 
+
+
+6) Người được bảo hiểm tham gia các loại hình thể thao hoặc hoạt động mạo hiểm, bao gồm nhưng không giới hạn, các loại hình hoạt động dưới nước liên quan đến thiết bị hỗ trợ thở, các loại hình hoạt động liên quan đến độ cao cho dù có hay không có thiết bị hỗ trợ, các môn thể thao nào liên quan đến võ, đấm bốc, bất kỳ hoạt động liên quan đến chất nổ hoặc nổ, lái xe hoặc đua xe ở bất kỳ loại hình đua nào, tất cả các loại hình thể thao chuyên nghiệp loại trừ cờ vua, cờ tướng; hoặc 
+
+
+7) Người được bảo hiểm bay hoặc thực hiện bất kỳ hoạt động hàng không nào khác trừ khi là hành khách đi máy bay có trả cước phí của một hãng hàng không được cấp phép hoặc được công nhận hợp lệ; hoặc 
+
+
+8) Người được bảo hiểm sử dụng trái phép bất kỳ thức uống có cồn hoặc chất kích thích, chất gây nghiện, thuốc ngủ, thuốc, thuốc an thần hoặc chất độc nào; hoặc 
+
+
+9) nổ hoặc phóng xạ từ các loại vũ khí hạt nhân, nguyên tử hoặc hóa học hoặc việc nhiễm độc phóng xạ từ các cơ sở hạt nhân hoặc nguyên tử. 
+
+
+Nếu nguyên nhân tử vong hoặc Thương tật toàn bộ vĩnh viễn của Người được bảo hiểm thuộc bất kỳ điều khoản loại trừ trách nhiệm bảo hiểm nào nêu trên, Công ty sẽ trả lại Bên mua bảo hiểm toàn bộ Phí bảo hiểm đã đóng sau khi trừ đi các Khoản nợ (nếu có). 
+
+
+## CHƯƠNG III – GIẢI QUYẾT YÊU CẦU BỒI THƯỜNG 
+
+
+Để yêu cầu bồi thường, người yêu cầu giải quyết quyền lợi bảo hiểm phải liên hệ với Công ty theo thông tin liên lạc được quy định trong Trang hợp đồng. Người yêu cầu giải quyết quyền lợi bảo hiểm phải điền đầy đủ các thông tin được yêu cầu trong đơn yêu cầu chi trả quyền lợi bảo hiểm do Công ty cung cấp. Người yêu cầu giải quyết quyền lợi bảo hiểm phải chịu các chi phí (nếu có) liên quan đến việc cung cấp các thông tin, bằng chứng hợp lý mà Công ty yêu cầu để đáp ứng cho việc giải quyết yêu cầu bồi thường.
+
+
+## Điều 6: Trường hợp Người được bảo hiểm tử vong 
+
+
+Trong thời hạn 12 tháng kể từ ngày Người được bảo hiểm tử vong, người yêu cầu giải quyết quyền lợi bảo hiểm phải thông báo cho Công ty và sau đó cung cấp cho Công ty đầy đủ các giấy tờ sau trong thời gian sớm nhất có thể: 
+
+
+- Đơn yêu cầu chi trả quyền lợi bảo hiểm tử vong theo mẫu do Công ty quy định đã được điền đầy đủ và chính xác; 
+
+
+- Bản gốc của Hợp đồng bảo hiểm, các thỏa thuận sửa đổi, bổ sung và các tài liệu đính kèm khác (nếu có). 
+
+
+- Bằng chứng về sự kiện tử vong như giấy khai tử, giấy chứng tử của Người được bảo hiểm do các cơ quan có thẩm quyền cấp; 
+
+
+- Bằng chứng về quyền được nhận quyền lợi bảo hiểm tử vong như giấy ủy quyền, bản sao chứng minh nhân dân hoặc các giấy tờ xác nhận hợp pháp khác, trong trường hợp người nhận quyền lợi bảo hiểm tử vong là người thừa kế hoặc người được ủy quyền hợp pháp của Người thụ hưởng. 
+
+
+## Điều 7: Trường hợp Người được bảo hiểm bị Thương tật toàn bộ và vĩnh viễn 
+
+
+Trong thời hạn 12 tháng kể từ ngày Người được bảo hiểm bắt đầu bị Thương tật toàn bộ và vĩnh viễn, người yêu cầu giải quyết quyền lợi bảo hiểm phải thông báo cho Công ty và sau đó cung cấp cho Công ty đầy đủ các giấy tờ sau trong thời gian sớm nhất có thể: 
+
+
+- Đơn yêu cầu chi trả quyền lợi bảo hiểm Thương tật toàn bộ và vĩnh viễn theo mẫu do Công ty quy định đã được điền đầy đủ và chính xác; 
+
+
+- Bản gốc của Hợp đồng bảo hiểm, các thỏa thuận sửa đổi, bổ sung và các tài liệu đính kèm khác (nếu có); 
+
+
+- Giấy xác nhận y tế về tình trạng bị Thương tật toàn bộ và vĩnh viễn của Người được bảo hiểm do các cơ quan có thẩm quyền cấp; 
+
+
+- Bằng chứng về quyền được nhận quyền lợi bảo hiểm Thương tật toàn bộ và vĩnh viễn như giấy ủy quyền, bản sao chứng minh nhân dân hoặc các giấy tờ xác nhận hợp pháp khác, trong trường hợp người nhận quyền lợi bảo hiểm Thương tật toàn bộ và vĩnh viễn là người thừa kế hoặc người được ủy quyền hợp pháp của Người được bảo hiểm. 
+
+
+## CHƯƠNG IV – ĐIỀU KHOẢN KHÁC 
+
+
+## Điều 8: Chấm dứt bảo hiểm bổ sung 
+
+
+Bảo hiểm bổ sung này sẽ chấm dứt hiệu lực vào các ngày sau, tùy thuộc vào sự kiện nào xảy ra trước: 
+
+
+- ngày kết thúc thời hạn bảo hiểm của sản phẩm bổ sung; hoặc 
+
+
+- ngày Công ty chi trả quyền lợi bảo hiểm của sản phẩm bổ sung theo quy định tại Điều 3 hoặc Điều 4; hoặc 
+
+
+- ngày Bên mua bảo hiểm yêu cầu chấm dứt bảo hiểm bổ sung; hoặc
+
+
+- ngày kết thúc thời hạn gia hạn đóng phí, tùy thuộc vào các quy định về đóng phí của sản phẩm chính mà sản phẩm bổ sung này được đính kèm, và Bên mua bảo hiểm không hoàn tất việc đóng các khoản Phí bảo hiểm đến hạn cho sản phẩm bổ sung này; hoặc 
+
+
+- ngày Hợp đồng bảo hiểm chính chuyển đổi thành Hợp đồng có số tiền bảo hiểm giảm; hoặc 
+
+
+- ngày Hợp đồng bảo hiểm chính đáo hạn hay chấm dứt hiệu lực vì bất kì lý do gì.
+
+
+# THƯ XÁC NHẬN YÊU CẦU BẢO HIỂM
+## QUA ỨNG DỤNG ĐIỆN TỬ 
+
+
+Hồ sơ yêu cầu bảo hiểm (HSYCBH)/Hợp đồng bảo hiểm (HĐBH) số: .................................................... 
+
+
+<table><tr><td></td><td>Họ tên</td><td>Số giấy tờ tùy thân/<br/>Mã số doanh nghiệp</td></tr><tr><td>Bên mua bảo hiểm (BMBH)</td><td></td><td></td></tr><tr><td>Người được bảo hiểm (NĐBH)<br/>sản phẩm chính</td><td></td><td></td></tr></table>
+
+
+Tôi/Chúng tôi (Bên mua bảo hiểm và (những) Người được bảo hiểm) có tên và thông tin trong Bộ HSYCBH (bao gồm: HSYCBH nêu trên, Bảng minh họa quyền lợi bảo hiểm, Bảng phân tích nhu cầu tài chính và các giấy tờ khác), bằng việc ký tên dưới đây, đồng ý và cam kết với Sun Life Việt Nam rằng: 
+
+
+1. Tôi/Chúng tôi đã được Tư vấn Tài chính (“TVTC”) giải thích rõ về quy trình kê khai và nộp Bộ HSYCBH thông qua Ứng dụng điện tử của Sun Life Việt Nam. 
+
+
+2. Số điện thoại, địa chỉ email được cung cấp trong Bộ HSYCBH và/hoặc Ứng dụng điện tử là của Tôi/Chúng tôi và chưa thay đổi. 
+
+
+3. Tùy từng trường hợp áp dụng, Tôi/Chúng tôi cam kết rằng: 
+
+
+(i) Bất kỳ việc truy cập vào và giao dịch được thực hiện trên Ứng dụng điện tử bằng địa chỉ email của Tôi/Chúng tôi và/hoặc mặt mã sử dụng một lần (OTP) gửi đến số điện thoại của Tôi/Chúng tôi đều được xem là hành động của chính Tôi/Chúng tôi thực hiện các bước trong quy trình Giao dịch trực tuyến, đồng thời là bằng chứng cho việc Tôi/Chúng tôi đồng ý và tiến hành tham gia bảo hiểm thông qua Giao dịch trực tuyến; hoặc 
+
+
+(ii) Tôi/Chúng tôi đã đọc và hoàn tất việc kê khai, ký tên và đồng ý nộp Bộ HSYCBH qua Ứng dụng điện tử của Sun Life Việt Nam bằng cách tự tay ký xác nhận trên màn hình ứng dụng. 
+
+
+4. Tôi/Chúng tôi hiểu rằng toàn bộ thông tin Tôi/Chúng tôi cung cấp trong Bộ HSYCBH được ghi nhận qua Ứng dụng điện tử là căn cứ để Sun Life Việt Nam thẩm định, phát hành Hợp đồng bảo hiểm cho Tôi/Chúng tôi. Tôi/Chúng tôi xác nhận rằng toàn bộ thông tin đó là đầy đủ, chính xác và trung thực. 
+
+
+5. Tôi/Chúng tôi đồng ý rằng Bộ HSYCBH nộp qua Ứng dụng điện tử của Sun Life Việt Nam và Thư xác nhận này là một phần của Hợp đồng bảo hiểm được ký kết giữa Tôi/Chúng tôi và Sun Life Việt Nam. 
+
+
+6. Chữ ký của tôi/chúng tôi dưới đây sẽ là chữ ký mẫu để thực hiện các giao dịch khác liên quan đến Hợp đồng bảo hiểm của Tôi/Chúng tôi với Sun Life Việt Nam kể từ ngày ký Thư xác nhận này. 
+
+
+7. Các từ được viết hoa, viết tắt tại Thư xác nhận này có nghĩa như được định nghĩa tại Hồ sơ yêu cầu bảo hiểm. 
+
+
+Ngày ............ tháng ............ năm ............ 
+
+
+Nơi ký: ................................................ 
+
+
+Chữ ký Bên mua bảo hiểm
+(Vui lòng ký và ghi rõ họ tên) 
+
+
+Chữ ký NĐBH sản phẩm chính
+(Vui lòng ký và ghi rõ họ tên) 
+
+
+Chữ ký NĐBH bổ sung 1
+(Vui lòng ký và ghi rõ họ tên) 
+
+
+Chữ ký NĐBH bổ sung 2
+(Vui lòng ký và ghi rõ họ tên) 
+
+
+Chữ ký NĐBH bổ sung 3
+(Vui lòng ký và ghi rõ họ tên) 
+
+
+Chữ ký TVTC
+(Vui lòng ký, ghi rõ họ tên và mã số) 
+
+
+Nếu BMBH là Công ty/Tổ chức: Người đại diện giao kết HĐBH ký tên và đóng dấu. BMBH là Công ty/Tổ chức không áp dụng cho phương thức tư vấn từ xa. 
+
+
+Nếu NĐBH dưới 18 tuổi thì Cha/Mẹ hoặc Người giám hộ hợp pháp sẽ ký thay.

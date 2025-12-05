@@ -30,7 +30,7 @@ def initialize_chatbot():
     
     vector_store = QdrantVectorStore(
         client=client,
-        collection_name="insurance_docs",
+        collection_name="pru",
         embedding=embeddings
     )
     

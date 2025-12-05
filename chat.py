@@ -21,7 +21,7 @@ class InsuranceChatbot:
     
     def __init__(
         self,
-        collection_name: str = "insurance_docs",
+        collection_name: str = "pru",
         model_name: str = "gpt-4o-mini",
         temperature: float = 0.0,
         k_results: int = 3
@@ -181,7 +181,7 @@ def main():
     try:
         # Initialize chatbot
         chatbot = InsuranceChatbot(
-            collection_name="insurance_docs",
+            collection_name="pru",
             model_name="gpt-4o-mini",
             temperature=0.0,
             k_results=3

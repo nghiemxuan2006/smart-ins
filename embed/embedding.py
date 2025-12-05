@@ -16,7 +16,7 @@ class VectorStoreManager:
     
     def __init__(
         self,
-        collection_name: str = "insurance_docs",
+        collection_name: str = "pru",
         embedding_model: str = "text-embedding-3-small",
         embedding_provider: str = "openai",
         qdrant_url: Optional[str] = None,
@@ -123,18 +123,39 @@ class VectorStoreManager:
         
         return documents
     
-    def embed_and_store(self, chunks: List, batch_size: int = 100) -> QdrantVectorStore:
+    def clear_collection(self):
+        """
+        Delete the collection if it exists to start fresh.
+        """
+        try:
+            collections = self.client.get_collections().collections
+            collection_names = [col.name for col in collections]
+            
+            if self.collection_name in collection_names:
+                self.client.delete_collection(self.collection_name)
+                print(f"Collection '{self.collection_name}' cleared successfully")
+            else:
+                print(f"Collection '{self.collection_name}' does not exist, will create new one")
+        except Exception as e:
+            print(f"Error clearing collection: {e}")
+    
+    def embed_and_store(self, chunks: List, batch_size: int = 100, clear_existing: bool = True) -> QdrantVectorStore:
         """
         Embed chunks and store them in Qdrant.
         
         Args:
             chunks: List of Chunk objects
             batch_size: Batch size for embedding and storing
+            clear_existing: If True, clears the collection before storing (default: True)
             
         Returns:
             QdrantVectorStore instance
         """
         print(f"\nEmbedding and storing {len(chunks)} chunks...")
+        
+        # Clear collection if requested
+        if clear_existing:
+            self.clear_collection()
         
         # Convert chunks to documents
         documents = self.chunks_to_documents(chunks)
@@ -153,7 +174,7 @@ class VectorStoreManager:
     def similarity_search(
         self,
         query: str,
-        k: int = 5,
+        k: int = 10,
         score_threshold: Optional[float] = None
     ) -> List[Document]:
         """
@@ -180,7 +201,7 @@ class VectorStoreManager:
     def similarity_search_with_score(
         self,
         query: str,
-        k: int = 5
+        k: int = 10
     ) -> List[tuple]:
         """
         Perform similarity search and return results with scores.
@@ -217,10 +238,11 @@ class VectorStoreManager:
 
 def embed_chunks_to_qdrant(
     chunks: List,
-    collection_name: str = "insurance_docs",
+    collection_name: str = "pru",
     embedding_model: str = "text-embedding-3-small",
     embedding_provider: str = "openai",
-    use_local: bool = False
+    use_local: bool = False,
+    clear_existing: bool = True
 ) -> VectorStoreManager:
     """
     Convenience function to embed chunks and store in Qdrant.
@@ -231,6 +253,7 @@ def embed_chunks_to_qdrant(
         embedding_model: Embedding model to use
         embedding_provider: Provider of the embedding model ('openai' or 'huggingface')
         use_local: Use local Qdrant instance
+        clear_existing: If True, clears the collection before storing (default: True)
         
     Returns:
         VectorStoreManager instance
@@ -244,6 +267,6 @@ def embed_chunks_to_qdrant(
         use_local=use_local
     )
     
-    manager.embed_and_store(chunks)
+    manager.embed_and_store(chunks, clear_existing=clear_existing)
     
     return manager

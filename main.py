@@ -8,21 +8,22 @@ from embed.embedding import embed_chunks_to_qdrant
 output_dir = "output/deepseek-ocr"
 Path(output_dir).mkdir(parents=True, exist_ok=True)
 
-file_path = "data/epolicy_Extracted_47.pdf"
+file_path = "data/epolicy-image.png"
 
 if __name__ == "__main__":
     # Step 1: Perform OCR on the PDF
-    md_result_file_path = handle_file_deepseek_ocr(file_path, output_dir)
-    # md_result_file_path = "output/deepseek-ocr/epolicy_Extracted_47/epolicy_Extracted_47.md"
+    # md_result_file_path = handle_file_deepseek_ocr(file_path, output_dir)
+    md_result_file_path = "output/deepseek-ocr/epolicy_Extracted_47/epolicy_Extracted_47.md"
     print(f"DeepSeek OCR result saved to: {md_result_file_path}")
     
     # Step 2: Apply hybrid chunking to the markdown result
     print(f"\nApplying hybrid chunking... on markdown file: {md_result_file_path}")
+    
     chunks = chunk_markdown_file(
         md_result_file_path,
-        max_chunk_size=1000,  # Adjust as needed
+        max_chunk_size=2000,  # Adjust as needed
         min_chunk_size=100,
-        overlap=50
+        overlap=200
     )
     
     # Display chunking results
@@ -50,34 +51,34 @@ if __name__ == "__main__":
     
     vector_store_manager = embed_chunks_to_qdrant(
         chunks=chunks,
-        collection_name="insurance_docs",
+        collection_name="pru",
         embedding_model="text-embedding-3-small",
         embedding_provider="openai",
         use_local=False  # Set to False for remote Qdrant
     )
     
     # Step 4: Test similarity search
-    print("\n" + "="*60)
-    print("Step 4: Testing similarity search")
-    print("="*60)
+    # print("\n" + "="*60)
+    # print("Step 4: Testing similarity search")
+    # print("="*60)
     
-    test_query = "What is the insurance policy coverage?"
-    print(f"\nQuery: {test_query}")
+    # test_query = "What is the insurance policy coverage?"
+    # print(f"\nQuery: {test_query}")
     
-    results = vector_store_manager.similarity_search_with_score(test_query, k=3)
+    # results = vector_store_manager.similarity_search_with_score(test_query, k=10)
     
-    print(f"\nTop {len(results)} results:")
-    for i, (doc, score) in enumerate(results, 1):
-        print(f"\n--- Result {i} (Score: {score:.4f}) ---")
-        print(f"Header: {doc.metadata.get('header', 'None')}")
-        print(f"Chunk Type: {doc.metadata.get('chunk_type', 'N/A')}")
-        print(f"Content preview: {doc.page_content[:200]}...")
+    # print(f"\nTop {len(results)} results:")
+    # for i, (doc, score) in enumerate(results, 1):
+    #     print(f"\n--- Result {i} (Score: {score:.4f}) ---")
+    #     print(f"Header: {doc.metadata.get('header', 'None')}")
+    #     print(f"Chunk Type: {doc.metadata.get('chunk_type', 'N/A')}")
+    #     print(f"Content preview: {doc.page_content[:200]}...")
     
-    # Get collection info
-    print("\n" + "="*60)
-    print("Collection Information")
-    print("="*60)
-    info = vector_store_manager.get_collection_info()
-    print(f"\nCollection Info: {info}")
+    # # Get collection info
+    # print("\n" + "="*60)
+    # print("Collection Information")
+    # print("="*60)
+    # info = vector_store_manager.get_collection_info()
+    # print(f"\nCollection Info: {info}")
     
     print("\nPipeline completed successfully!")

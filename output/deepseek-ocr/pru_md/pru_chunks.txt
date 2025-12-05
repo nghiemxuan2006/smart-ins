@@ -1,0 +1,290 @@
+============================================================
+CHUNK 1
+============================================================
+Header: None
+Level: 0
+Type: header_aware
+Size: 38 characters
+
+&lt;img&gt;Prudential Logo&lt;/img&gt;
+
+============================================================
+CHUNK 2
+============================================================
+Header: QUY TẮC VÀ ĐIỀU KHOẢN SẢN PHẨM BẢO HIỂM
+Level: 1
+Type: header_aware
+Size: 41 characters
+
+# QUY TẮC VÀ ĐIỀU KHOẢN SẢN PHẨM BẢO HIỂM
+
+============================================================
+CHUNK 3
+============================================================
+Header: SẢN PHẨM BẢO HIỂM TỬ KỲ VỚI QUYỀN LỢI BỆNH UNG THƯ GIA HẠN HÀNG NĂM
+Level: 1
+Type: header_aware
+Size: 159 characters
+
+# SẢN PHẨM BẢO HIỂM TỬ KỲ VỚI QUYỀN LỢI BỆNH UNG THƯ GIA HẠN HÀNG NĂM  
+(Được Bộ Tài chính phê chuẩn theo Công văn số 8912 /BTC-QLBH ngày 04 tháng 07 năm 2017)
+
+============================================================
+CHUNK 4
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1906 characters
+
+## PHẦN I. ĐIỀU KHOẢN CHUNG  
+### 1. GIẢI THÍCH TỪ NGỮ  
+Các từ ngữ sử dụng trong Quy tắc, Điều khoản sản phẩm bảo hiểm này (sau đây được gọi là “Quy tắc, Điều khoản”) được hiểu như sau:  
+1.1. **Prudential:** là Công ty Trách nhiệm Hữu hạn Bảo hiểm Nhân thọ Prudential Việt Nam, có giấy phép hoạt động số 15 GP/KDBH do Bộ Tài chính cấp.  
+1.2. **Bên mua bảo hiểm:** là cá nhân từ đủ 18 tuổi đến 45 tuổi hiện đang cư trú tại Việt Nam, có năng lực hành vi dân sự đầy đủ, là người có yêu cầu bảo hiểm, đóng phí bảo hiểm và thực hiện các quyền và nghĩa vụ quy định trong Hợp đồng bảo hiểm. Ngoài ra, giới hạn tuổi khi kết thúc Hợp đồng bảo hiểm là 50 tuổi.  
+Bên mua bảo hiểm đồng thời là Người được bảo hiểm.  
+1.3. **Tuổi bảo hiểm:** là tuổi của Người được bảo hiểm vào Ngày hiệu lực hợp đồng tính theo ngày sinh nhật vừa qua hoặc Ngày kỷ niệm năm hợp đồng vừa qua. Tất cả các từ “tuổi” sử dụng trong Hợp đồng bảo hiểm này đều được hiểu là “Tuổi bảo hiểm”.  
+1.4. **Người thụ hưởng:** là tổ chức, cá nhân được Bên mua bảo hiểm chỉ định để nhận quyền lợi bảo hiểm theo Quy tắc, Điều khoản này.  
+1.5. **Ngày hiệu lực hợp đồng:** là ngày được ghi trong Giấy chứng nhận bảo hiểm với điều kiện Người được bảo hiểm vẫn còn sống vào thời điểm Prudential chấp thuận bảo hiểm.  
+1.6. **Ngày kỷ niệm năm hợp đồng:** là ngày kỷ niệm hàng năm của Ngày hiệu lực hợp đồng.  
+1.7. **Phí bảo hiểm:** là khoản tiền mà Bên mua bảo hiểm phải đóng cho Prudential theo định kỳ cho toàn bộ Hợp đồng bảo hiểm. Phí bảo hiểm được ghi trong Giấy chứng nhận bảo hiểm và/ hoặc Thư xác nhận điều chỉnh hợp đồng gần nhất, nếu có.  
+Với sự chấp thuận của Bộ Tài chính, Prudential có quyền điều chỉnh Phí bảo hiểm trong thời gian sản phẩm bảo hiểm này đang có hiệu lực. Phí bảo hiểm mới sẽ được áp dụng kể từ Ngày kỷ niệm năm hợp đồng ngay sau ngày Bộ Tài chính chấp thuận và Prudential thông báo trước 3 tháng cho Bên mua bảo hiểm.  
+---
+
+============================================================
+CHUNK 5
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1962 characters
+
+---
+<footer>Sản phẩm bảo hiểm tử kỳ với quyền lợi Bệnh Ung thư gia hạn hàng năm</footer>&lt;page_number&gt;Trang 1 /9&lt;/page_number&gt;  
+---  
+&lt;img&gt;Prudential Logo&lt;/img&gt;  
+**1.8. Số tiền bảo hiểm:** là số tiền mà Prudential chấp nhận bảo hiểm và được ghi trong Giấy chứng nhận bảo hiểm hoặc Thư xác nhận điều chỉnh hợp đồng gần nhất, nếu có.  
+**1.9. Bệnh viện/cơ sở y tế:** là một cơ sở khám chữa bệnh được thành lập và hoạt động theo pháp luật của Việt Nam hoặc nước sở tại. Cơ sở đó phải được cấp phép như một bệnh viện/cơ sở y tế theo quy định của Việt Nam hoặc nước sở tại.  
+**1.10. Bác sĩ:** là người có bằng cấp chuyên môn y khoa được cơ quan có thẩm quyền cấp phép hoặc thừa nhận được thực hành nghề y hợp pháp trong phạm vi giấy phép theo pháp luật của nước sở tại nơi Người được bảo hiểm tiến hành việc khám và điều trị. Bác sĩ không được đồng thời là người thụ hưởng, vợ/chồng, cha/mẹ, con, anh chị em ruột của Người được bảo hiểm/Bên mua bảo hiểm  
+**1.11. Bệnh Ung thư:**  
+Là bệnh được chẩn đoán khối u ác tính với đặc trưng bởi sự tăng trưởng không thể kiểm soát được và lan rộng của những tế bào ác tính, có xâm lấn và phá hủy mô lành xung quanh.  
+Bệnh ung thư phải được chẩn đoán xác định dựa trên bằng chứng mô bệnh học, mô tả sự ác tính bởi Bác sĩ chuyên khoa ung bướu hoặc chuyên khoa giải phẫu bệnh học, tại Bệnh viện/cơ sở y tế.  
+Prudential không bảo hiểm và không trả bất kỳ quyền lợi bảo hiểm nào cho những trường hợp sau:  
+a. Ung thư cổ tử cung tại chỗ (in situ); dị sản cổ tử cung nhóm CIN-1, CIN-2, CIN-3; và tất cả những giai đoạn tiền ung thư hay ung thư chưa xâm lấn khác của cổ tử cung;  
+b. Giai đoạn sớm của ung thư tuyến tiền liệt với phân loại TNM là T1 (bao gồm T1a và T1b) hay phân loại tương đương;  
+c. Ung thư nốt ruồi ác tính với chiều sâu dưới 1.5 mm theo bảng phân loại của Breslow, hay thuộc nhóm dưới 3 theo bảng phân loại của Clark;  
+d. Tăng sinh tế bào sừng, ung thư da tế bào nền và tế bào vảy;
+
+============================================================
+CHUNK 6
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1994 characters
+
+d. Tăng sinh tế bào sừng, ung thư da tế bào nền và tế bào vảy;  
+e. Ung thư tuyến giáp được mô tả trong bảng phân loại TNM là T1N0M0 hay nhỏ hơn;  
+f. Ung thư bàng quang được mô tả trong bảng phân loại TNM là TaN0M0;  
+g. Ung thư bạch cầu lympho mạn tính thuộc giai đoạn dưới 3 theo bảng phân loại RAI;  
+<footer>Sản phẩm bảo hiểm tử kỳ với quyền lợi Bệnh Ung thư gia hạn hàng năm</footer>&lt;page_number&gt;Trang 2 /9&lt;/page_number&gt;  
+---  
+h. Tất cả các ung thư trên người đang nhiễm HIV;  
+i. Bệnh ung thư có dấu hiệu và triệu chứng : (i) xuất hiện trong vòng 30 ngày kể từ sau Ngày hiệu lực hợp đồng; hoặc (ii) thuộc tình trạng tồn tại trước, cho dù chưa có chẩn đoán bệnh ung thư.  
+Tình trạng tồn tại trước được xem là bất kì bệnh nào được chẩn đoán hoặc tự biểu hiện, hoặc triệu chứng xuất hiện bất kì thời gian nào trước Ngày hiệu lực hợp đồng.  
+j. Bệnh ung thư là kết quả trực tiếp của việc sử dụng thuốc mê, thuốc an thần, rượu, chất độc, khí ga, các hoạt chất tương tự, hoặc ma túy, trừ trường hợp có chỉ định của bác sĩ.  
+k. Người được bảo hiểm không còn sống đến thời điểm có chẩn đoán đầy đủ của Bệnh Ung thư, với bằng chứng y khoa và xác nhận của Bác sĩ chuyên khoa.  
+**2. THỜI HẠN HỢP ĐỒNG BẢO HIỂM VÀ THỜI HẠN ĐÓNG PHÍ BẢO HIỂM**  
+**2.1 Thời hạn hợp đồng bảo hiểm** (sau đây được gọi là “Thời hạn hợp đồng”): 1 năm và được gia hạn hàng năm, không quá 9 lần hoặc cho đến hết ngày liền trước Ngày kỷ niệm năm hợp đồng ngay sau khi Người được bảo hiểm đạt 50 tuổi, tùy thuộc vào điều kiện nào đến trước. Trong trường hợp Prudential không tiếp tục cung cấp sản phẩm này hoặc khi khách hàng không đáp ứng yêu cầu thẩm định nội bộ hiện hành của Prudential, Prudential có quyền từ chối việc gia hạn hàng năm nếu trên vào bất cứ ngày hết thời hạn hợp đồng hàng năm nào bằng cách thông báo trước cho Bên mua bảo hiểm. Thời hạn hợp đồng cũng đồng thời là thời hạn bảo hiểm.  
+**2.2 Thời hạn đóng phí bảo hiểm:** bằng Thời hạn hợp đồng bảo hiểm  
+**3. NHẰM LÃN KHI KÊ KHAI TUỔI**
+
+============================================================
+CHUNK 7
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1947 characters
+
+**2.2 Thời hạn đóng phí bảo hiểm:** bằng Thời hạn hợp đồng bảo hiểm  
+**3. NHẰM LÃN KHI KÊ KHAI TUỔI**  
+Trong trường hợp có sự nhầm lẫn khi kê khai ngày sinh của Người được bảo hiểm, nếu theo tuổi đúng tại thời điểm Prudential biết được tuổi đúng của Người được bảo hiểm, Người được bảo hiểm có thể được Prudential chấp nhận bảo hiểm theo Quy tắc, Điều khoản này, Hợp đồng bảo hiểm sẽ tiếp tục có hiệu lực với Số tiền bảo hiểm, Phí bảo hiểm không thay đổi. Ngược lại, Hợp đồng bảo hiểm sẽ mất hiệu lực và Prudential sẽ hoàn trả lại cho Bên mua bảo hiểm Phí bảo hiểm đã đóng của Năm hợp đồng hiện tại, không có lãi.  
+**4. ĐIỀU KHOẢN MIỄN TRUY XÉT**  
+**4.1** Khi Người được bảo hiểm còn sống, các nội dung kê khai không chính xác hoặc bỏ sót trong Hồ sơ yêu cầu bảo hiểm và các giấy tờ có liên quan sẽ được Prudential miễn truy xét sau 24 tháng kể từ Ngày hiệu lực hợp đồng.  
+Sản phẩm bảo hiểm tử kỳ với quyền lợi Bệnh Ung thư gia hạn hàng năm &lt;page_number&gt;Trang 3 /9&lt;/page_number&gt;  
+---  
+&lt;img&gt;Prudential Logo&lt;/img&gt;  
+4.2 Quy định trên sẽ không được áp dụng trong trường hợp Bên mua bảo hiểm đã cố ý kê khai không trung thực những thông tin mà nếu biết được những thông tin đó, Prudential sẽ từ chối chấp thuận bảo hiểm.  
+**PHẦN II. CÁC ĐIỀU KHOẢN VỀ BẢO HIỂM**  
+5. **QUYỀN LỢI BẢO HIỂM**  
+5.1 **Quyền lợi bảo hiểm Bệnh Ung thư**  
+Trong thời gian Hợp đồng bảo hiểm còn hiệu lực, nếu Người được bảo hiểm mắc một hoặc nhiều Bệnh Ung thư theo kết quả chẩn đoán quy định tại Điều 1.11, Prudential sẽ chi trả 100% Số tiền bảo hiểm cho Người được bảo hiểm.  
+5.2 **Quyền lợi tử vong**  
+Trong thời gian Hợp đồng bảo hiểm còn hiệu lực, nếu Người được bảo hiểm tử vong, Prudential sẽ chi trả 5% Số tiền bảo hiểm cho Người thụ hưởng hoặc (những) người thừa kế hợp pháp của Bên mua bảo hiểm trong trường hợp không chỉ định hoặc chỉ định không hợp lệ Người thụ hưởng.  
+6. **THỦ TỤC VÀ THỜI GIAN GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM**
+
+============================================================
+CHUNK 8
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1713 characters
+
+6. **THỦ TỤC VÀ THỜI GIAN GIẢI QUYẾT QUYỀN LỢI BẢO HIỂM**  
+6.1 **Trường hợp Người được bảo hiểm mắc Bệnh Ung thư**  
+Người nhận quyền lợi bảo hiểm phải cung cấp cho Prudential trong thời gian sớm nhất có thể hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm hợp lệ, bao gồm:  
+a. Phiếu yêu cầu giải quyết quyền lợi bảo hiểm (theo mẫu của Prudential) đã được điền đầy đủ, trung thực và chính xác; và  
+b. Giấy Chẩn đoán Bệnh Ung thư được cấp bởi Bệnh viện; và  
+c. Những bằng chứng xác minh khác theo yêu cầu của Prudential, bao gồm các bằng chứng sau: các giấy tờ, hồ sơ chẩn đoán, xét nghiệm liên quan đến tiến trình phát hiện và điều trị Bệnh Ung thư, giấy ra viện, bệnh án, giấy chứng nhận phẫu thuật, xạ trị, nếu có, các bằng chứng về lâm sàng, X quang, tế bào học, kết quả xét nghiệm được thực hiện theo yêu cầu của Bác sĩ, và các giấy tờ khác theo quy định hiện hành của Prudential.  
+6.2 **Trường hợp Người được bảo hiểm tử vong**  
+Người nhận quyền lợi bảo hiểm phải cung cấp cho Prudential trong thời gian sớm nhất có thể những giấy tờ sau đây:  
+a. Phiếu yêu cầu giải quyết quyền lợi bảo hiểm (theo mẫu của Prudential) đã được điền đầy đủ, trung thực và chính xác; và  
+<footer>Sản phẩm bảo hiểm tử kỳ với quyền lợi Bệnh Ung thư gia hạn hàng năm</footer>&lt;page_number&gt;Trang 4 /9&lt;/page_number&gt;  
+---  
+b. Giấy chứng tử, giấy báo tử theo quy định của pháp luật; và
+c. Các giấy tờ liên quan đến nguyên nhân tử vong (nếu có).
+d. Các chứng từ liên quan thủ tục thừa kế theo hướng dẫn của Prudential và phù hợp pháp luật Việt Nam trong trường hợp hợp đồng không chỉ định Người thụ hưởng.  
+**6.3** Thời hạn yêu cầu giải quyết quyền lợi bảo hiểm là 12 (mười hai) tháng kể từ ngày xảy ra sự kiện bảo hiểm.
+
+============================================================
+CHUNK 9
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1892 characters
+
+**6.3** Thời hạn yêu cầu giải quyết quyền lợi bảo hiểm là 12 (mười hai) tháng kể từ ngày xảy ra sự kiện bảo hiểm.  
+Mọi chi phí để có được các giấy tờ theo quy định tại Điều 6.1 và Điều 6.2 sẽ do người nhận quyền lợi bảo hiểm chịu trách nhiệm chi trả. Việc cung cấp hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm theo quy định tại Điều 6.1 và Điều 6.2 sau thời gian quy định 12 (mười hai) tháng kể từ ngày xảy ra sự kiện bảo hiểm sẽ không ảnh hưởng đến việc giải quyết quyền lợi bảo hiểm nếu có lý do chính đáng được Prudential chấp thuận.  
+Prudential có trách nhiệm xem xét giải quyết Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm trong thời gian 30 ngày kể từ khi nhận được Hồ sơ yêu cầu giải quyết quyền lợi bảo hiểm đầy đủ và hợp lệ theo các quy định nêu tại Điều 6.1 và Điều 6.2.  
+Nếu việc trì hoãn chi trả đối với các hồ sơ được chấp nhận chi trả là do lỗi Prudential thì Prudential sẽ trả thêm tiền lãi của số tiền này. Mức lãi suất áp dụng cho khoản chi trả chậm này được căn cứ vào lãi suất tiền gửi của Ngân hàng nhà nước tương ứng với thời gian chậm trả.  
+**7. ĐIỀU KHOẢN LOẠI TRỪ**  
+**7.1 Loại trừ trong trường hợp Người được bảo hiểm tử vong**  
+Prudential sẽ không chi trả quyền lợi bảo hiểm theo quy định tại Điều 5.2 nếu Người được bảo hiểm tử vong do bất kỳ lý do nào dưới đây:  
+a. Hành động tự tử, tự gây thương tích trong vòng 2 (hai) năm kể từ Ngày hiệu lực hợp đồng; hoặc
+b. Do hành vi vi phạm pháp luật của Bên mua bảo hiểm, Người thụ hưởng; hoặc
+c. Chiến tranh (có tuyên bố hay không tuyên bố), nổi loạn, rối loạn dân sự hoặc bạo động.  
+**7.2** Trong trường hợp có hơn một Người thụ hưởng, và một hoặc một số người trong đó cố ý gây ra tử vong cho Người được bảo hiểm, Prudential vẫn trả toàn bộ quyền lợi bảo hiểm cho những Người thụ hưởng khác theo tỷ lệ tương ứng với tỷ lệ mà Bên mua bảo hiểm đã chỉ định trong Hợp đồng bảo  
+&lt;img&gt;Logo Prudential&lt;/img&gt;
+
+============================================================
+CHUNK 10
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1850 characters
+
+&lt;img&gt;Logo Prudential&lt;/img&gt;  
+Sản phẩm bảo hiểm tử kỳ với quyền lợi Bệnh Ung thư gia hạn hàng năm &lt;page_number&gt;Trang 5 /9&lt;/page_number&gt;  
+---  
+&lt;img&gt;Prudential Logo&lt;/img&gt;  
+hiễm theo quy định tại Quy tắc, Điều khoản này.  
+**8. QUYỀN VÀ NGHĨA VỤ CỦA BÊN MUA BẢO HIỂM**  
+**8.1 Quyền của Bên mua bảo hiểm**  
+Trong thời gian hiệu lực của Hợp đồng bảo hiểm, Bên mua bảo hiểm có các quyền như sau:  
+a. **Được cung cấp thông tin**  
+Bên mua bảo hiểm có quyền được cung cấp thông tin theo quy định của pháp luật hiện hành và được giải thích về các điều kiện, điều khoản bảo hiểm khi giao kết Hợp đồng bảo hiểm.  
+b. **Chỉ định hoặc thay đổi Người thụ hưởng**  
+Bên mua bảo hiểm có quyền chỉ định Người thụ hưởng trong Hồ sơ yêu cầu bảo hiểm. Trong thời gian Hợp đồng bảo hiểm có hiệu lực và Người được bảo hiểm còn sống, Bên mua bảo hiểm có thể yêu cầu thay đổi Người thụ hưởng của Hợp đồng bảo hiểm bằng cách thông báo bằng văn bản đến Prudential.  
+Việc chỉ định hoặc thay đổi Người thụ hưởng chỉ có hiệu lực khi Prudential có thông báo chấp thuận.  
+Prudential không chịu trách nhiệm về tính hợp pháp cũng như tranh chấp, nếu có, của Bên mua bảo hiểm hoặc những người liên quan đến việc chỉ định hay thay đổi Người thụ hưởng.  
+c. **Chấm dứt Hợp đồng bảo hiểm trước thời hạn**  
+Bên mua bảo hiểm có thể chấm dứt Hợp đồng bảo hiểm trước thời hạn vào bất kỳ lúc nào bằng cách gửi yêu cầu bằng văn bản cho Prudential. Ngày chấm dứt hiệu lực Hợp đồng bảo hiểm là ngày đầu tiên của kỳ phí bảo hiểm tiếp theo.  
+**8.2 Nghĩa vụ của Bên mua bảo hiểm/Người được bảo hiểm**  
+a. **Kê khai chính xác thông tin cần thiết**  
+i) Bên mua bảo hiểm/Người được bảo hiểm có trách nhiệm kê khai đầy đủ, chính xác và trung thực tất cả các thông tin cần thiết để Prudential đánh giá khả năng chấp nhận bảo hiểm cho Hợp đồng bảo hiểm này.
+
+============================================================
+CHUNK 11
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1962 characters
+
+ii) Nếu Bên mua bảo hiểm/Người được bảo hiểm cố ý kê khai không đầy đủ, chính xác và trung thực các thông tin cần thiết theo yêu cầu của Prudential, theo đó, nếu với thông tin chính xác, Prudential sẽ không chấp nhận bảo hiểm, Prudential không  
+---
+Sản phẩm bảo hiểm tử kỳ với quyền lợi Bệnh Ung thư gia hạn hàng năm &lt;page_number&gt;Trang 6 /9&lt;/page_number&gt;  
+---  
+&lt;img&gt;Prudential Logo&lt;/img&gt;  
+có trách nhiệm chi trả các quyền lợi bảo hiểm và có quyền đơn phương đình chỉ Hợp đồng bảo hiểm này ngay sau khi phát hiện ra hành vi vi phạm của Bên mua bảo hiểm và hoàn trả khoản Phí bảo hiểm tháng chưa sử dụng, nếu có.  
+iii) Trong trường hợp Bên mua bảo hiểm và/hoặc Người được bảo hiểm vi phạm nghĩa vụ kê khai thông tin tại Điều này nhưng việc vi phạm này không làm ảnh hưởng tới quyết định chấp thuận bảo hiểm theo quy định của Prudential tại từng thời điểm, Prudential vẫn sẽ chi trả quyền lợi bảo hiểm nếu có sự kiện bảo hiểm xảy ra theo Quy tắc, Điều khoản này.  
+b. **Đóng thuế**  
+Người nhận quyền lợi bảo hiểm có trách nhiệm đóng các khoản thuế, nếu có, liên quan đến việc đóng Phí bảo hiểm, phát hành Hợp đồng bảo hiểm và nhận các khoản chi trả, nếu có, được nêu tại Hợp đồng bảo hiểm và theo quy định của pháp luật hiện hành. Prudential sẽ thay mặt người nhận quyền lợi bảo hiểm thực hiện việc khấu trừ và đóng thuế theo quy định của pháp luật.  
+c. **Cập nhật thông tin cá nhân**  
+Nếu Người được bảo hiểm hoặc Bên mua bảo hiểm thay đổi nơi cư trú, Bên mua bảo hiểm / Người được bảo hiểm phải thông báo cho Prudential bằng văn bản. Nếu Người được bảo hiểm không tiếp tục cư trú tại Việt Nam, Prudential sẽ quyết định tiếp tục bảo hiểm với mức Phí bảo hiểm không đổi hoặc chấm dứt Hợp đồng bảo hiểm, hoàn trả khoản Phí bảo hiểm tháng chưa sử dụng.  
+**9. QUYỀN VÀ NGHĨA VỤ CỦA PRUDENTIAL**  
+**9.1 Quyền của Prudential:** theo quy định của pháp luật hiện hành.  
+**9.2 Nghĩa vụ của Prudential**  
+Prudential có những nghĩa vụ sau:
+
+============================================================
+CHUNK 12
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1482 characters
+
+**9. QUYỀN VÀ NGHĨA VỤ CỦA PRUDENTIAL**  
+**9.1 Quyền của Prudential:** theo quy định của pháp luật hiện hành.  
+**9.2 Nghĩa vụ của Prudential**  
+Prudential có những nghĩa vụ sau:  
+a. Cung cấp đầy đủ thông tin liên quan đến Hợp đồng bảo hiểm, giải thích các điều kiện, điều khoản bảo hiểm cho Bên mua bảo hiểm/Người được bảo hiểm.  
+b. Cấp cho bên mua bảo hiểm giấy chứng nhận bảo hiểm, đơn bảo hiểm ngay sau khi giao kết hợp đồng bảo hiểm;  
+c. Chi trả quyền lợi bảo hiểm theo quy định của Quy tắc, điều khoản này;  
+d. Giải thích bằng văn bản lý do từ chối trả quyền lợi bảo hiểm hoặc từ chối bồi thường.  
+---
+Sản phẩm bảo hiểm tử kỳ với quyền lợi Bệnh Ung thư gia hạn hàng năm &lt;page_number&gt;Trang 7 /9&lt;/page_number&gt;  
+---  
+e. Prudential không được chuyển giao thông tin cá nhân do Bên mua bảo hiểm/Người được bảo hiểm cung cấp tại Hợp đồng bảo hiểm cho bất kỳ bên thứ ba nào khác, trừ các trường hợp sau đây:  
+i. Thu thập, sử dụng, chuyển giao theo yêu cầu của cơ quan nhà nước có thẩm quyền hoặc cho mục đích thẩm định, tính toán phí bảo hiểm, phát hành hợp đồng bảo hiểm, thu phí bảo hiểm, tái bảo hiểm, trích lập dự phòng nghiệp vụ, giải quyết chi trả quyền lợi bảo hiểm, nghiên cứu thiết kế sản phẩm, phòng chống trục lợi bảo hiểm, nghiên cứu, đánh giá tình hình tài chính, khả năng thanh toán, mức độ đầy đủ vốn, yêu cầu vốn.  
+ii. Các trường hợp khác được Bên mua bảo hiểm/Người được bảo hiểm đồng ý bằng văn bản.  
+**10. PHÍ BẢO HIỂM VÀ ĐÓNG PHÍ BẢO HIỂM**
+
+============================================================
+CHUNK 13
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1914 characters
+
+ii. Các trường hợp khác được Bên mua bảo hiểm/Người được bảo hiểm đồng ý bằng văn bản.  
+**10. PHÍ BẢO HIỂM VÀ ĐÓNG PHÍ BẢO HIỂM**  
+**10.1** Bên mua bảo hiểm được lựa chọn đóng Phí bảo hiểm theo định kỳ hàng tháng, hoặc hàng năm và có quyền yêu cầu thay đổi định kỳ đóng Phí bảo hiểm vào những Ngày kỷ niệm năm hợp đồng. Việc thay đổi định kỳ đóng Phí bảo hiểm chỉ có hiệu lực vào Năm hợp đồng tiếp theo. Yêu cầu thay đổi định kỳ đóng Phí bảo hiểm phải được lập thành văn bản và gửi đến Prudential chậm nhất 30 (ba mươi) ngày trước Ngày kỷ niệm năm hợp đồng. Nếu chấp thuận đề nghị thay đổi này của Bên mua bảo hiểm, Prudential sẽ cấp cho Bên mua bảo hiểm Thư xác nhận điều chỉnh định kỳ đóng Phí bảo hiểm.  
+**10.2** Để duy trì hiệu lực Hợp đồng bảo hiểm, Phí bảo hiểm cần được đóng đầy đủ và đúng hạn.  
+**10.3** Bên mua bảo hiểm có thể ủy quyền cho người khác nộp Phí bảo hiểm thay cho mình.  
+**11. GIA HẠN ĐÓNG PHÍ BẢO HIỂM - MẤT HIỆU LỰC HỢP ĐỒNG BẢO HIỂM**  
+Nếu Phí bảo hiểm không được đóng khi đến hạn, thời gian gia hạn đóng Phí bảo hiểm là 60 (sáu mươi) ngày ngay sau ngày đến hạn đóng Phí bảo hiểm. Trong thời gian gia hạn đóng Phí bảo hiểm, Hợp đồng bảo hiểm vẫn có hiệu lực.  
+Nếu sự kiện bảo hiểm xảy ra trong thời gian gia hạn đóng phí và được Prudential chấp thuận, quyền lợi bảo hiểm sẽ được chi trả sau khi đã khấu trừ các khoản Phí bảo hiểm đến hạn chưa đóng, nếu có.  
+Sau khi kết thúc Thời gian gia hạn đóng Phí bảo hiểm, nếu Bên mua bảo hiểm không đóng đủ khoản Phí bảo hiểm đến hạn Hợp đồng bảo hiểm sẽ tự động mất hiệu lực kể từ ngày đến hạn đóng phí bảo hiểm.  
+Sản phẩm bảo hiểm tử kỳ với quyền lợi Bệnh Ung thư gia hạn hàng năm &lt;page_number&gt;Trang 8 /9&lt;/page_number&gt;  
+---  
+&lt;img&gt;Prudential Logo&lt;/img&gt;  
+**12. CHẤM DỨT HIỆU LỰC HỢP ĐỒNG**  
+Hợp đồng bảo hiểm sẽ tự động chấm dứt hiệu lực khi xảy ra 1 (một) trong các sự kiện sau, tùy trường hợp nào xảy ra trước:
+
+============================================================
+CHUNK 14
+============================================================
+Header: PHẦN I. ĐIỀU KHOẢN CHUNG
+Level: 2
+Type: semantic
+Size: 1019 characters
+
+**12. CHẤM DỨT HIỆU LỰC HỢP ĐỒNG**  
+Hợp đồng bảo hiểm sẽ tự động chấm dứt hiệu lực khi xảy ra 1 (một) trong các sự kiện sau, tùy trường hợp nào xảy ra trước:  
+a. Hợp đồng bảo hiểm bị chấm dứt hiệu lực trước thời hạn theo quy định tại Quy tắc, Điều khoản này; hoặc  
+b. Vào ngày hết thời hạn hợp đồng hàng năm mà không được gia hạn theo quy định tại Điều 2.1; hoặc  
+c. Khi Quyền lợi bảo hiểm Bệnh Ung thư đã được chấp thuận chi trả; hoặc  
+d. Khi Người được bảo hiểm tử vong; hoặc  
+e. Các trường hợp khác theo quy định pháp luật.  
+**13. GIẢI QUYẾT TRANH CHẤP**  
+Mọi tranh chấp liên quan đến Hợp đồng bảo hiểm này, nếu không giải quyết được bằng thương lượng giữa các bên, sẽ được đưa ra tòa án nơi Prudential có trụ sở chính hoặc nơi Người được bảo hiểm cư trú tại Việt Nam để giải quyết. Án phí do bên thua kiện chịu. Thời hiệu khởi kiện là 3 (ba) năm kể từ thời điểm phát sinh tranh chấp.  
+---
+Sản phẩm bảo hiểm tử kỳ với quyền lợi Bệnh Ung thư gia hạn hàng năm &lt;page_number&gt;Trang 9 /9&lt;/page_number&gt;
+
